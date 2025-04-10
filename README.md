@@ -9,14 +9,17 @@ The **_AITriage System_** is a 🔥 cutting-edge tool designed to boost heathcar
 - 🎨 Real-time vital sign input via an intuitive Streamlit UI.
 - ⚡ FastAPI backend for processing predictions and logging.
 - 📩 Simulated "Send to Doctor" functionality to display patient details.
-- 💾 SQLite database integration for record-keeping.
+- 💾 SQLite database integration for record-keeping .  
+
+## Dataset 
+Here we used a heart disease dataset intially then we tweaked it accoring to Inida summer specific data (this data can be any based of the conditions ) and added vitals for different symptoms and then assigned triage to it
 
 ## 🛠️ Prerequisites
 - 🐍 **Python 3.8 or higher**
 - 📦 Git (for cloning the repository)
 - 📋 Required Python packages (in `requirements.txt`)
 - 🧠 Pre-trained model file (`triage_model_summer.h5`) and scaler (`scaler_summer.pkl`)
-- ✍️ A code editor (e.g., VS Code, PyCharm) or terminal access
+- ✍️ A code editor (e.g., VS Code, PyCharm) or terminal access 
 
 
 ## 🛠️ Tech Stack
