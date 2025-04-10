@@ -1,0 +1,2001 @@
+id,age,sex,cp,trestbps,chol,thalch,symptoms,temp,resp_rate,triage
+1,24,Male,typical angina,92.0,167.0,96.0,diarrhea,38.70169340941964,17,Yellow
+2,43,Male,asymptomatic,104.0,155.0,120.0,diarrhea,38.6201210947862,13,Yellow
+3,38,Male,asymptomatic,123.0,181.0,125.0,shortness of breath,36.74476425234271,29,Red
+4,37,Male,non-anginal,104.0,221.0,111.0,vomiting,37.27892696489577,18,Yellow
+5,41,Female,atypical angina,77.0,228.0,97.0,diarrhea,37.723570041340885,18,Red
+6,39,Male,atypical angina,116.0,161.0,132.0,shortness of breath,37.125332009341776,25,Yellow
+7,20,Female,asymptomatic,137.0,169.0,105.0,cough,37.06561356562874,23,Yellow
+8,36,Female,asymptomatic,106.0,169.0,126.0,high fever,38.36638313087212,15,Yellow
+9,48,Male,asymptomatic,116.0,210.0,96.0,injury,36.73462915067001,18,Green
+10,46,Male,asymptomatic,98.0,257.0,118.0,injury,36.0061765691949,10,Yellow
+11,43,Male,asymptomatic,132.0,184.0,114.0,high fever,39.833394354447236,14,Red
+12,35,Female,atypical angina,86.0,177.0,93.0,diarrhea,38.32988668885387,17,Red
+13,21,Male,non-anginal,134.0,220.0,96.0,rash,36.842252187701455,15,Green
+14,44,Male,atypical angina,107.0,228.0,104.0,diarrhea,38.76876952073519,10,Yellow
+15,36,Male,non-anginal,102.0,194.0,114.0,rash,36.841372385692644,19,Yellow
+16,34,Male,non-anginal,139.0,165.0,108.0,high fever,40.88478260593233,16,Red
+17,48,Male,atypical angina,122.0,193.0,141.0,high fever,41.88015680782971,18,Red
+18,36,Male,asymptomatic,119.0,163.0,113.0,rash,36.75707237519719,14,Yellow
+19,48,Female,non-anginal,120.0,173.0,135.0,shortness of breath,36.15287654202061,26,Red
+20,49,Male,atypical angina,77.0,179.0,116.0,severe weakness,36.566745321822545,20,Red
+21,45,Male,typical angina,100.0,214.0,118.0,injury,36.8281654087499,16,Yellow
+22,21,Female,typical angina,148.0,233.0,98.0,cough,36.56635447226001,23,Yellow
+23,21,Male,atypical angina,95.0,227.0,111.0,severe weakness,36.055851527409175,17,Red
+24,31,Male,non-anginal,117.0,150.0,104.0,rash,37.313026081737036,21,Yellow
+25,37,Male,asymptomatic,133.0,239.0,142.0,high fever,38.760916143463845,17,Red
+26,50,Female,non-anginal,134.0,169.0,99.0,rash,36.878314964284534,18,Green
+27,23,Female,non-anginal,103.0,216.0,101.0,high fever,38.617088082389984,17,Yellow
+28,20,Female,typical angina,87.0,218.0,111.0,injury,36.45414152770952,14,Red
+29,43,Male,asymptomatic,149.0,188.0,104.0,cough,36.52808267084477,24,Yellow
+30,40,Male,asymptomatic,126.0,175.0,137.0,shortness of breath,36.46413166847085,25,Yellow
+31,38,Female,typical angina,82.0,222.0,89.0,diarrhea,38.36547670391693,14,Red
+32,24,Male,asymptomatic,124.0,225.0,135.0,high fever,38.984699257701145,14,Yellow
+33,40,Male,non-anginal,143.0,218.0,103.0,cough,36.20190434054355,22,Yellow
+34,30,Male,asymptomatic,91.0,208.0,121.0,diarrhea,37.65969116489826,19,Yellow
+35,44,Male,non-anginal,96.0,251.0,103.0,diarrhea,37.901617218365445,16,Yellow
+36,42,Male,asymptomatic,100.0,214.0,127.0,injury,36.68181071423639,15,Yellow
+37,43,Male,asymptomatic,104.0,180.0,102.0,high fever,39.335392885815374,19,Red
+38,30,Male,asymptomatic,153.0,162.0,113.0,cough,37.185332457412905,24,Yellow
+39,31,Male,asymptomatic,104.0,237.0,86.0,severe weakness,37.746623831652684,18,Green
+40,38,Male,non-anginal,96.0,247.0,96.0,injury,36.3012067653814,21,Yellow
+41,37,Female,asymptomatic,109.0,221.0,109.0,rash,36.81646910516282,14,Green
+42,40,Male,typical angina,101.0,204.0,122.0,severe weakness,36.46342708941378,12,Yellow
+43,48,Female,atypical angina,98.0,237.0,114.0,injury,36.137511989411024,13,Yellow
+44,27,Male,non-anginal,115.0,207.0,114.0,vomiting,37.52343430210336,13,Yellow
+45,28,Female,asymptomatic,112.0,201.0,108.0,rash,37.14152690388966,17,Green
+46,22,Male,non-anginal,101.0,232.0,118.0,sweating excessively,39.34398130879779,17,Yellow
+47,41,Male,non-anginal,100.0,175.0,128.0,sweating excessively,39.1231869783493,20,Yellow
+48,50,Male,asymptomatic,122.0,208.0,116.0,rash,37.45091814604032,11,Yellow
+49,39,Female,non-anginal,100.0,156.0,105.0,rash,37.731591648064615,19,Green
+50,45,Male,non-anginal,147.0,196.0,130.0,shortness of breath,36.62450411455781,26,Red
+51,41,Female,atypical angina,95.0,205.0,95.0,diarrhea,38.04277493993728,17,Yellow
+52,20,Male,asymptomatic,147.0,173.0,127.0,shortness of breath,36.82064603217584,25,Yellow
+53,44,Male,asymptomatic,130.0,237.0,118.0,shortness of breath,36.50986463350255,23,Yellow
+54,44,Male,atypical angina,79.0,204.0,97.0,severe weakness,36.85452336264545,16,Red
+55,28,Male,asymptomatic,92.0,221.0,114.0,diarrhea,38.80853260544643,13,Yellow
+56,40,Male,asymptomatic,107.0,164.0,120.0,high fever,40.48965907934209,14,Red
+57,50,Male,non-anginal,144.0,221.0,107.0,high fever,38.36752424858506,17,Yellow
+58,41,Male,asymptomatic,106.0,181.0,93.0,cough,36.28751408642897,24,Yellow
+59,44,Male,non-anginal,100.0,221.0,139.0,sweating excessively,37.13261999744816,17,Yellow
+60,20,Male,typical angina,102.0,204.0,122.0,rash,36.47697130355031,15,Yellow
+61,22,Female,asymptomatic,113.0,237.0,100.0,sweating excessively,38.74472593353563,16,Yellow
+62,46,Female,non-anginal,99.0,181.0,107.0,vomiting,38.52459719317272,17,Yellow
+63,47,Male,asymptomatic,125.0,199.0,105.0,shortness of breath,36.81060735948614,31,Red
+64,49,Female,non-anginal,101.0,202.0,121.0,sweating excessively,37.09060234357887,15,Yellow
+65,32,Male,asymptomatic,116.0,196.0,99.0,rash,37.49499659740237,15,Green
+66,32,Male,asymptomatic,107.0,201.0,107.0,injury,36.875541891615335,16,Green
+67,31,Male,non-anginal,114.0,179.0,133.0,shortness of breath,36.21782583386347,22,Yellow
+68,20,Male,non-anginal,88.0,201.0,103.0,diarrhea,37.52563069837174,13,Red
+69,31,Male,asymptomatic,155.0,176.0,114.0,shortness of breath,36.373106811780254,23,Yellow
+70,46,Male,non-anginal,103.0,166.0,119.0,injury,36.6227586981009,18,Yellow
+71,32,Female,non-anginal,103.0,240.0,128.0,high fever,40.247372769365334,13,Red
+72,21,Male,asymptomatic,148.0,242.0,128.0,shortness of breath,36.80628766298564,26,Red
+73,37,Male,asymptomatic,123.0,233.0,115.0,high fever,40.81827707382967,16,Red
+74,46,Male,asymptomatic,122.0,180.0,113.0,rash,36.47110898327553,14,Yellow
+75,44,Male,asymptomatic,108.0,197.0,97.0,sweating excessively,39.55925974627173,18,Yellow
+76,25,Female,non-anginal,114.0,198.0,94.0,injury,36.19794022205539,14,Green
+77,26,Male,asymptomatic,125.0,159.0,131.0,high fever,39.74235864901996,15,Red
+78,28,Female,non-anginal,141.0,199.0,101.0,cough,36.896859224152706,19,Yellow
+79,48,Male,atypical angina,116.0,161.0,108.0,rash,37.86936758036953,17,Green
+80,39,Male,asymptomatic,103.0,212.0,128.0,sweating excessively,38.352786661240586,15,Yellow
+81,45,Male,asymptomatic,110.0,151.0,126.0,injury,36.49101135068777,13,Yellow
+82,25,Female,asymptomatic,98.0,193.0,106.0,high fever,41.74332428687907,19,Red
+83,39,Male,non-anginal,109.0,242.0,95.0,vomiting,37.99163129975097,14,Yellow
+84,22,Male,non-anginal,110.0,210.0,115.0,shortness of breath,36.16905218253085,25,Yellow
+85,34,Male,atypical angina,92.0,219.0,143.0,sweating excessively,39.980833336967265,15,Red
+86,44,Male,non-anginal,117.0,210.0,103.0,injury,36.143512907074246,14,Green
+87,47,Male,non-anginal,113.0,180.0,105.0,rash,37.73377656319321,12,Green
+88,42,Female,non-anginal,131.0,163.0,131.0,shortness of breath,36.175672589480655,28,Red
+89,36,Female,asymptomatic,87.0,161.0,100.0,vomiting,36.923788117099846,13,Red
+90,31,Female,non-anginal,128.0,210.0,103.0,cough,35.92620336311455,21,Yellow
+91,29,Male,asymptomatic,129.0,158.0,99.0,high fever,40.08792663045684,20,Red
+92,30,Female,asymptomatic,118.0,154.0,126.0,shortness of breath,36.217228966980514,25,Yellow
+93,35,Male,non-anginal,125.0,232.0,113.0,rash,36.95823308052847,13,Yellow
+94,44,Female,non-anginal,147.0,151.0,112.0,high fever,41.14156563305069,15,Red
+95,42,Female,non-anginal,117.0,211.0,126.0,high fever,39.9264150995985,12,Red
+96,27,Male,asymptomatic,93.0,204.0,89.0,diarrhea,37.66670024649012,15,Yellow
+97,33,Male,asymptomatic,101.0,162.0,106.0,vomiting,38.1457400843205,16,Yellow
+98,43,Female,asymptomatic,110.0,246.0,103.0,injury,36.12400758524856,16,Green
+99,25,Male,atypical angina,121.0,214.0,122.0,sweating excessively,39.838375583291814,12,Yellow
+100,48,Male,asymptomatic,88.0,163.0,112.0,sweating excessively,37.36857649367182,18,Red
+101,45,Male,asymptomatic,114.0,202.0,89.0,cough,36.19223053967893,20,Green
+102,34,Male,typical angina,132.0,185.0,111.0,shortness of breath,36.241879542491276,26,Red
+103,44,Female,asymptomatic,99.0,218.0,119.0,severe weakness,36.23373338646051,14,Red
+104,26,Female,non-anginal,77.0,229.0,112.0,severe weakness,37.862067799695275,14,Red
+105,49,Male,non-anginal,94.0,187.0,105.0,severe weakness,37.002332808942846,16,Red
+106,35,Male,atypical angina,82.0,238.0,106.0,diarrhea,37.55784038043436,10,Red
+107,41,Male,asymptomatic,105.0,173.0,86.0,diarrhea,38.82482908926695,13,Yellow
+108,24,Male,non-anginal,93.0,224.0,105.0,diarrhea,37.632232560723274,11,Yellow
+109,35,Male,asymptomatic,150.0,231.0,123.0,high fever,38.34210354102916,13,Yellow
+110,39,Male,asymptomatic,74.0,222.0,93.0,severe weakness,36.033415825430005,19,Red
+111,49,Female,asymptomatic,91.0,219.0,108.0,vomiting,37.972555390597975,15,Yellow
+112,38,Male,asymptomatic,79.0,210.0,95.0,diarrhea,38.48816312610789,16,Red
+113,26,Male,typical angina,134.0,179.0,112.0,rash,36.7803701154929,16,Yellow
+114,43,Female,asymptomatic,138.0,220.0,119.0,high fever,39.81054048802575,12,Red
+115,35,Female,non-anginal,80.0,180.0,114.0,injury,35.878759963198405,17,Red
+116,41,Male,atypical angina,114.0,255.0,103.0,shortness of breath,36.74957317783712,30,Red
+117,38,Male,non-anginal,111.0,232.0,128.0,high fever,38.2936316864477,16,Yellow
+118,35,Female,asymptomatic,127.0,190.0,122.0,shortness of breath,36.95823555714461,28,Red
+119,32,Male,asymptomatic,94.0,201.0,93.0,diarrhea,38.09656210622961,17,Yellow
+120,27,Male,asymptomatic,135.0,201.0,101.0,rash,37.44860883935646,17,Green
+121,48,Male,asymptomatic,130.0,160.0,112.0,sweating excessively,38.41006659352269,13,Yellow
+122,31,Female,asymptomatic,83.0,171.0,103.0,diarrhea,38.19297838600253,17,Red
+123,31,Male,non-anginal,87.0,164.0,103.0,diarrhea,37.56698054358862,17,Red
+124,25,Male,asymptomatic,123.0,209.0,139.0,high fever,39.92435520220575,17,Red
+125,23,Male,typical angina,140.0,211.0,99.0,cough,36.11589045180912,22,Yellow
+126,45,Female,atypical angina,104.0,215.0,107.0,diarrhea,39.09499601269127,18,Yellow
+127,35,Female,asymptomatic,140.0,197.0,107.0,rash,36.75108089196137,19,Green
+128,32,Male,asymptomatic,98.0,157.0,91.0,injury,36.239086444708136,21,Yellow
+129,44,Male,atypical angina,148.0,199.0,131.0,shortness of breath,36.74911868572236,27,Red
+130,29,Female,asymptomatic,94.0,172.0,110.0,severe weakness,37.734405618027196,18,Red
+131,44,Male,non-anginal,82.0,200.0,116.0,injury,36.76922688817501,16,Red
+132,44,Male,non-anginal,92.0,182.0,118.0,severe weakness,36.06262592682284,19,Red
+133,29,Male,atypical angina,111.0,218.0,99.0,sweating excessively,38.73916805536274,14,Yellow
+134,35,Male,asymptomatic,145.0,219.0,107.0,cough,36.19400315164755,22,Yellow
+135,43,Female,non-anginal,104.0,181.0,127.0,injury,36.7980665848856,15,Yellow
+136,33,Female,atypical angina,102.0,174.0,100.0,severe weakness,37.10157887156804,13,Green
+137,34,Male,asymptomatic,106.0,181.0,98.0,diarrhea,38.24586804656137,17,Yellow
+138,22,Male,atypical angina,106.0,186.0,112.0,rash,36.736601516464006,15,Yellow
+139,35,Male,asymptomatic,102.0,199.0,117.0,vomiting,37.600932036634866,20,Yellow
+140,34,Male,non-anginal,146.0,239.0,128.0,high fever,39.9573325929277,13,Red
+141,40,Male,atypical angina,111.0,195.0,102.0,high fever,39.44904597486202,19,Red
+142,22,Male,typical angina,96.0,193.0,111.0,vomiting,38.16859339908917,12,Yellow
+143,46,Male,atypical angina,101.0,225.0,109.0,severe weakness,38.01972954955575,20,Yellow
+144,30,Male,non-anginal,92.0,206.0,101.0,injury,36.25594533838468,11,Green
+145,28,Male,non-anginal,83.0,167.0,104.0,diarrhea,38.15626493815039,17,Red
+146,47,Male,non-anginal,101.0,196.0,101.0,severe weakness,36.83406389498451,12,Green
+147,36,Male,asymptomatic,167.0,169.0,94.0,cough,36.63778027430146,20,Green
+148,41,Male,non-anginal,74.0,182.0,113.0,severe weakness,36.30355339803353,17,Red
+149,45,Male,atypical angina,95.0,172.0,109.0,severe weakness,37.586300133748125,16,Red
+150,23,Female,non-anginal,91.0,192.0,120.0,severe weakness,36.74559389436331,12,Red
+151,36,Male,typical angina,108.0,180.0,120.0,injury,36.50457834177749,15,Yellow
+152,42,Female,asymptomatic,128.0,221.0,105.0,shortness of breath,36.376026608563365,21,Yellow
+153,33,Female,non-anginal,89.0,258.0,115.0,injury,36.491521148616776,19,Red
+154,37,Male,asymptomatic,115.0,175.0,124.0,sweating excessively,37.025159154131956,16,Yellow
+155,43,Male,asymptomatic,156.0,233.0,104.0,shortness of breath,36.318733697709625,32,Red
+156,33,Male,asymptomatic,116.0,222.0,99.0,sweating excessively,38.18955312468837,10,Yellow
+157,48,Male,asymptomatic,141.0,178.0,101.0,cough,36.51485507157834,22,Yellow
+158,33,Male,asymptomatic,115.0,208.0,126.0,high fever,38.725450487344034,19,Yellow
+159,42,Male,asymptomatic,137.0,204.0,110.0,high fever,41.99265294730574,15,Red
+160,39,Male,non-anginal,93.0,236.0,119.0,sweating excessively,39.117020780747815,12,Yellow
+161,46,Male,atypical angina,101.0,207.0,86.0,severe weakness,36.41691374146738,12,Green
+162,28,Male,asymptomatic,124.0,186.0,134.0,sweating excessively,39.54315043302874,18,Yellow
+163,49,Female,non-anginal,107.0,178.0,98.0,cough,36.68735240654756,23,Yellow
+164,46,Female,asymptomatic,112.0,202.0,127.0,vomiting,38.119354220586565,17,Yellow
+165,48,Male,non-anginal,127.0,216.0,98.0,cough,36.365049398323045,20,Green
+166,26,Male,asymptomatic,101.0,222.0,106.0,diarrhea,38.59017706843348,14,Yellow
+167,41,Male,non-anginal,100.0,162.0,107.0,vomiting,37.74068693519489,12,Yellow
+168,47,Female,atypical angina,140.0,181.0,122.0,shortness of breath,36.05249700419695,25,Yellow
+169,35,Male,asymptomatic,95.0,216.0,97.0,vomiting,37.33915242624985,19,Yellow
+170,45,Female,atypical angina,132.0,163.0,129.0,shortness of breath,35.917637978670655,26,Red
+171,32,Male,non-anginal,122.0,193.0,111.0,shortness of breath,36.79601584531319,19,Yellow
+172,36,Male,asymptomatic,159.0,192.0,130.0,shortness of breath,36.473106541829196,24,Yellow
+173,32,Female,asymptomatic,97.0,233.0,127.0,vomiting,38.17685040934972,15,Yellow
+174,47,Female,asymptomatic,119.0,202.0,122.0,high fever,39.04728953075945,17,Red
+175,48,Male,asymptomatic,113.0,171.0,100.0,injury,36.03026118004923,13,Green
+176,45,Male,asymptomatic,109.0,215.0,95.0,injury,35.97044829264987,21,Yellow
+177,20,Male,asymptomatic,117.0,230.0,122.0,vomiting,38.0442973249745,14,Yellow
+178,43,Male,asymptomatic,91.0,187.0,135.0,sweating excessively,36.88850754232432,16,Yellow
+179,43,Male,non-anginal,132.0,241.0,110.0,cough,35.99735540410498,24,Yellow
+180,38,Male,non-anginal,130.0,212.0,108.0,high fever,38.884442365608365,14,Yellow
+181,48,Male,asymptomatic,145.0,220.0,120.0,high fever,39.03303771177228,13,Red
+182,27,Female,asymptomatic,95.0,163.0,119.0,injury,36.320158122250774,10,Yellow
+183,42,Male,typical angina,148.0,152.0,125.0,shortness of breath,36.523253945000626,29,Red
+184,35,Male,typical angina,85.0,237.0,100.0,severe weakness,36.8201296369707,14,Red
+185,38,Female,asymptomatic,133.0,172.0,103.0,shortness of breath,36.973531394199135,23,Yellow
+186,39,Female,atypical angina,117.0,192.0,112.0,shortness of breath,36.209010736674124,27,Red
+187,42,Male,non-anginal,81.0,164.0,118.0,diarrhea,38.22780640708652,11,Red
+188,21,Male,atypical angina,135.0,223.0,133.0,high fever,38.41053610965949,18,Yellow
+189,30,Male,atypical angina,109.0,148.0,114.0,high fever,40.797672536893636,14,Red
+190,42,Male,non-anginal,91.0,152.0,97.0,severe weakness,37.9101491451871,13,Red
+191,50,Male,non-anginal,79.0,187.0,99.0,diarrhea,38.7819801659516,13,Red
+192,27,Male,asymptomatic,76.0,196.0,98.0,severe weakness,37.014961539168944,15,Red
+193,43,Male,asymptomatic,105.0,183.0,104.0,diarrhea,37.43012721537166,17,Yellow
+194,35,Female,asymptomatic,122.0,171.0,124.0,sweating excessively,38.94006356004911,20,Yellow
+195,28,Female,non-anginal,99.0,223.0,114.0,diarrhea,37.87184875798181,14,Yellow
+196,46,Male,asymptomatic,109.0,176.0,117.0,sweating excessively,39.968464397514815,21,Yellow
+197,40,Male,typical angina,112.0,143.0,98.0,vomiting,37.682945537620064,17,Yellow
+198,45,Female,asymptomatic,114.0,177.0,109.0,vomiting,38.24334134229769,12,Yellow
+199,50,Female,atypical angina,97.0,183.0,102.0,sweating excessively,39.798261191579115,11,Yellow
+200,20,Male,typical angina,111.0,230.0,97.0,diarrhea,38.65215089217117,13,Yellow
+201,50,Female,asymptomatic,110.0,246.0,107.0,diarrhea,37.80683180946721,16,Yellow
+202,47,Female,asymptomatic,99.0,183.0,118.0,diarrhea,38.036621528899,15,Yellow
+203,41,Male,non-anginal,108.0,120.0,124.0,high fever,39.95912660843702,19,Red
+204,35,Female,non-anginal,122.0,150.0,133.0,shortness of breath,36.632669916624636,28,Red
+205,43,Male,asymptomatic,135.0,194.0,123.0,high fever,39.57466004025591,19,Red
+206,45,Male,asymptomatic,84.0,180.0,95.0,diarrhea,38.90060482978786,14,Red
+207,35,Male,asymptomatic,87.0,160.0,97.0,diarrhea,37.691063308676284,15,Red
+208,50,Male,asymptomatic,90.0,197.0,102.0,severe weakness,36.67118626106668,17,Red
+209,45,Male,atypical angina,78.0,203.0,93.0,diarrhea,37.59150340999831,14,Red
+210,36,Female,asymptomatic,153.0,243.0,101.0,cough,36.86345714960433,23,Yellow
+211,37,Female,non-anginal,80.0,186.0,115.0,severe weakness,36.699113264055185,13,Red
+212,38,Male,typical angina,87.0,161.0,92.0,diarrhea,37.69996131950616,11,Red
+213,41,Male,non-anginal,107.0,202.0,120.0,injury,35.981211608016984,18,Yellow
+214,35,Female,asymptomatic,179.0,240.0,110.0,cough,36.08643486578177,19,Green
+215,41,Male,asymptomatic,131.0,165.0,125.0,high fever,38.526455123747866,16,Yellow
+216,42,Male,typical angina,116.0,201.0,87.0,cough,36.819272442830076,21,Yellow
+217,46,Female,atypical angina,107.0,218.0,119.0,vomiting,37.9463772045409,12,Yellow
+218,46,Female,asymptomatic,96.0,198.0,107.0,severe weakness,37.16617043377851,14,Red
+219,21,Female,asymptomatic,91.0,208.0,108.0,diarrhea,38.81052555511344,16,Yellow
+220,24,Male,asymptomatic,134.0,222.0,109.0,shortness of breath,36.09990118867905,33,Red
+221,41,Female,non-anginal,85.0,252.0,122.0,diarrhea,37.82606765455742,15,Red
+222,39,Female,non-anginal,142.0,190.0,119.0,high fever,38.21691483677994,19,Yellow
+223,39,Female,non-anginal,90.0,204.0,105.0,diarrhea,39.04858357653939,17,Yellow
+224,39,Male,asymptomatic,146.0,200.0,129.0,high fever,38.926283228454196,17,Yellow
+225,20,Female,asymptomatic,84.0,151.0,106.0,diarrhea,38.40589588207237,17,Red
+226,34,Female,atypical angina,109.0,236.0,98.0,diarrhea,37.51422556641608,15,Yellow
+227,47,Male,asymptomatic,133.0,199.0,103.0,shortness of breath,35.89399944260414,20,Yellow
+228,29,Female,non-anginal,149.0,152.0,119.0,shortness of breath,36.107766659365375,34,Red
+229,22,Male,asymptomatic,91.0,167.0,98.0,diarrhea,37.83662976763134,14,Yellow
+230,48,Male,asymptomatic,98.0,209.0,126.0,sweating excessively,37.83519610449763,20,Yellow
+231,21,Female,non-anginal,116.0,203.0,94.0,injury,36.507494896872714,19,Green
+232,34,Female,asymptomatic,144.0,223.0,124.0,high fever,38.961327879040034,16,Yellow
+233,49,Male,non-anginal,88.0,157.0,110.0,diarrhea,38.1716302578367,14,Red
+234,44,Female,atypical angina,94.0,232.0,103.0,diarrhea,37.80862174481227,19,Yellow
+235,35,Female,non-anginal,103.0,218.0,109.0,vomiting,37.11957169422658,15,Yellow
+236,26,Male,asymptomatic,108.0,196.0,119.0,injury,35.87982765416463,18,Yellow
+237,35,Male,asymptomatic,95.0,220.0,96.0,diarrhea,38.5487183948588,20,Yellow
+238,46,Male,asymptomatic,121.0,178.0,95.0,rash,37.13612694037041,14,Green
+239,49,Female,atypical angina,93.0,147.0,97.0,diarrhea,37.65216311600863,18,Yellow
+240,42,Male,atypical angina,88.0,244.0,117.0,vomiting,38.02267744613547,16,Red
+241,41,Male,atypical angina,123.0,232.0,125.0,sweating excessively,39.18477341503416,18,Yellow
+242,41,Female,atypical angina,105.0,160.0,110.0,vomiting,38.08338253503692,15,Yellow
+243,49,Female,asymptomatic,130.0,235.0,101.0,cough,36.009906381320256,21,Yellow
+244,48,Male,typical angina,98.0,197.0,123.0,injury,36.86322515328299,10,Yellow
+245,43,Female,non-anginal,115.0,182.0,121.0,high fever,40.26878949993086,12,Red
+246,38,Male,asymptomatic,125.0,227.0,90.0,cough,36.43898597887994,22,Yellow
+247,27,Male,asymptomatic,113.0,230.0,118.0,high fever,41.70739754965723,16,Red
+248,47,Male,asymptomatic,118.0,209.0,103.0,sweating excessively,39.49700301527319,10,Yellow
+249,25,Male,asymptomatic,104.0,216.0,115.0,injury,36.50334403017139,14,Yellow
+250,24,Male,atypical angina,125.0,231.0,107.0,shortness of breath,36.694567990357875,29,Red
+251,31,Male,asymptomatic,135.0,179.0,116.0,rash,37.48869127731551,15,Yellow
+252,44,Male,asymptomatic,144.0,192.0,98.0,cough,36.51886411655583,25,Yellow
+253,39,Male,asymptomatic,104.0,183.0,98.0,diarrhea,38.629501976270426,18,Yellow
+254,40,Female,non-anginal,148.0,196.0,118.0,shortness of breath,36.345386687753006,18,Yellow
+255,43,Male,asymptomatic,109.0,221.0,102.0,vomiting,37.874601784289766,12,Yellow
+256,42,Female,non-anginal,113.0,175.0,98.0,rash,37.7507541588387,17,Green
+257,45,Female,asymptomatic,120.0,150.0,119.0,vomiting,38.51252521660229,13,Yellow
+258,26,Female,non-anginal,141.0,187.0,94.0,cough,35.87758633200362,23,Yellow
+259,34,Male,atypical angina,152.0,229.0,96.0,cough,36.69708541174746,18,Yellow
+260,32,Male,atypical angina,126.0,166.0,101.0,cough,36.26935814429275,20,Green
+261,44,Female,non-anginal,104.0,243.0,134.0,sweating excessively,39.196750043462664,17,Yellow
+262,31,Female,atypical angina,129.0,229.0,88.0,rash,36.505798090593835,15,Green
+263,24,Female,typical angina,113.0,165.0,116.0,diarrhea,38.82358736570699,15,Yellow
+264,44,Male,non-anginal,132.0,181.0,96.0,rash,37.61192427288234,15,Green
+265,42,Male,asymptomatic,130.0,168.0,100.0,high fever,40.67739010363952,15,Red
+266,42,Male,asymptomatic,93.0,183.0,132.0,sweating excessively,38.63007604628849,19,Yellow
+267,23,Male,asymptomatic,149.0,236.0,128.0,shortness of breath,36.176881023993126,27,Red
+268,22,Male,non-anginal,110.0,226.0,94.0,rash,37.62199467328182,17,Green
+269,40,Male,asymptomatic,89.0,210.0,119.0,injury,36.26189286742249,13,Red
+270,42,Male,non-anginal,97.0,186.0,93.0,injury,36.253046139050184,13,Green
+271,34,Male,asymptomatic,97.0,155.0,121.0,sweating excessively,38.15451340390757,19,Yellow
+272,31,Male,asymptomatic,123.0,217.0,129.0,vomiting,37.98609677155425,19,Yellow
+273,46,Male,asymptomatic,89.0,183.0,104.0,severe weakness,37.58845661481632,13,Red
+274,40,Female,asymptomatic,92.0,151.0,111.0,severe weakness,36.81391889875433,13,Red
+275,39,Male,typical angina,104.0,210.0,98.0,rash,37.29933006945187,16,Green
+276,46,Male,typical angina,126.0,174.0,109.0,shortness of breath,36.839272806179274,24,Yellow
+277,39,Female,non-anginal,149.0,196.0,104.0,shortness of breath,36.71310564200789,29,Red
+278,39,Female,non-anginal,140.0,165.0,141.0,high fever,41.73876222087365,19,Red
+279,49,Male,atypical angina,95.0,199.0,114.0,injury,36.25735249911917,15,Yellow
+280,42,Female,asymptomatic,130.0,199.0,95.0,cough,36.31740273440329,23,Yellow
+281,41,Male,asymptomatic,110.0,245.0,104.0,high fever,40.87339725449502,12,Red
+282,47,Male,non-anginal,134.0,198.0,103.0,high fever,39.05842830136383,10,Red
+283,37,Female,asymptomatic,136.0,210.0,103.0,shortness of breath,36.30160057571752,35,Red
+284,35,Male,atypical angina,119.0,189.0,129.0,sweating excessively,37.36671576576347,13,Yellow
+285,23,Male,asymptomatic,105.0,223.0,115.0,vomiting,37.21206560654797,17,Yellow
+286,38,Male,asymptomatic,109.0,198.0,100.0,vomiting,38.225644929970336,15,Yellow
+287,43,Female,asymptomatic,122.0,239.0,107.0,rash,37.34199285538972,16,Green
+288,35,Male,atypical angina,118.0,183.0,136.0,high fever,40.0425624204531,12,Red
+289,20,Male,atypical angina,80.0,198.0,97.0,severe weakness,37.31701013931408,18,Red
+290,27,Male,atypical angina,137.0,164.0,111.0,shortness of breath,36.880480191020965,19,Yellow
+291,45,Male,non-anginal,148.0,169.0,112.0,high fever,39.086782016293114,13,Red
+292,23,Female,atypical angina,121.0,229.0,112.0,injury,36.150864428333755,13,Yellow
+293,44,Male,asymptomatic,118.0,177.0,101.0,cough,36.016793390359645,22,Yellow
+294,47,Male,asymptomatic,135.0,197.0,108.0,rash,37.03910879511204,17,Green
+295,48,Female,asymptomatic,126.0,193.0,108.0,shortness of breath,36.621097918258364,35,Red
+296,41,Male,atypical angina,117.0,160.0,104.0,cough,35.86436600952102,20,Green
+297,34,Male,asymptomatic,119.0,186.0,111.0,rash,37.29254157918131,19,Yellow
+298,27,Female,asymptomatic,135.0,214.0,92.0,cough,36.83194499472157,23,Yellow
+299,45,Male,typical angina,112.0,179.0,108.0,high fever,40.232380626383076,18,Red
+300,24,Male,asymptomatic,91.0,203.0,92.0,diarrhea,37.82461825831766,19,Yellow
+301,26,Male,asymptomatic,118.0,125.0,124.0,injury,36.93698881081894,11,Yellow
+302,32,Female,atypical angina,81.0,183.0,111.0,severe weakness,36.329868547376364,13,Red
+303,38,Male,non-anginal,94.0,177.0,86.0,diarrhea,38.68287229692107,12,Yellow
+304,28,Male,atypical angina,109.0,125.0,129.0,high fever,38.501091262034286,21,Yellow
+305,29,Male,atypical angina,119.0,149.0,93.0,rash,37.25995137304287,19,Green
+306,29,Male,atypical angina,85.0,,121.0,injury,36.60446657158939,15,Red
+307,30,Female,typical angina,83.0,244.0,94.0,severe weakness,35.89718275089481,17,Red
+308,31,Female,atypical angina,84.0,217.0,90.0,severe weakness,36.556414470901046,15,Red
+309,32,Female,atypical angina,103.0,189.0,119.0,high fever,40.36556551948497,12,Red
+310,32,Male,atypical angina,116.0,178.0,136.0,sweating excessively,37.48594186049865,13,Yellow
+311,32,Male,atypical angina,126.0,224.0,101.0,cough,36.582967501835604,19,Green
+312,33,Male,non-anginal,104.0,178.0,96.0,injury,36.35997965970799,18,Green
+313,34,Female,atypical angina,121.0,169.0,103.0,injury,36.89614480095629,13,Green
+314,34,Male,atypical angina,140.0,220.0,109.0,shortness of breath,35.94693911566948,23,Yellow
+315,34,Male,atypical angina,101.0,229.0,108.0,cough,36.17449652627445,22,Yellow
+316,35,Female,typical angina,97.0,153.0,128.0,vomiting,37.71699974646483,14,Yellow
+317,35,Female,asymptomatic,114.0,177.0,117.0,high fever,41.6251901534751,17,Red
+318,35,Male,atypical angina,85.0,253.0,112.0,diarrhea,38.902777346802,13,Red
+319,35,Male,atypical angina,151.0,225.0,118.0,shortness of breath,37.0054227750582,27,Red
+320,36,Male,atypical angina,104.0,160.0,100.0,injury,36.77131091238863,17,Green
+321,36,Male,non-anginal,92.0,189.0,121.0,severe weakness,37.04223660393599,13,Red
+322,36,Male,non-anginal,130.0,238.0,93.0,cough,36.99624886002995,18,Green
+323,36,Male,non-anginal,105.0,164.0,95.0,diarrhea,37.573835441359684,16,Yellow
+324,37,Female,atypical angina,122.0,235.0,135.0,shortness of breath,36.32310554067028,28,Red
+325,37,Female,non-anginal,143.0,203.0,97.0,high fever,40.31693276556012,12,Red
+326,37,Female,asymptomatic,99.0,180.0,137.0,sweating excessively,38.683956757873,11,Yellow
+327,37,Male,atypical angina,101.0,239.0,97.0,diarrhea,37.383209595506735,17,Yellow
+328,37,Male,non-anginal,103.0,195.0,131.0,high fever,41.61154984924704,15,Red
+329,37,Male,asymptomatic,105.0,167.0,90.0,diarrhea,38.19548289939568,12,Yellow
+330,37,Male,asymptomatic,85.0,246.0,87.0,injury,36.270540518476395,11,Red
+331,38,Female,atypical angina,108.0,207.0,107.0,rash,37.54750843851891,11,Green
+332,38,Male,atypical angina,78.0,224.0,119.0,injury,37.128175669989965,16,Red
+333,38,Male,non-anginal,82.0,160.0,95.0,diarrhea,38.79087912312318,13,Red
+334,39,Female,non-anginal,111.0,188.0,92.0,rash,37.42844102315154,18,Green
+335,39,Male,atypical angina,109.0,,126.0,sweating excessively,37.78822469834438,21,Yellow
+336,39,Male,atypical angina,133.0,195.0,89.0,rash,37.29476202111184,13,Green
+337,39,Male,atypical angina,164.0,163.0,104.0,shortness of breath,36.96881747173909,24,Yellow
+338,39,Male,atypical angina,85.0,,99.0,diarrhea,38.144802587580074,14,Red
+339,39,Male,atypical angina,115.0,151.0,105.0,sweating excessively,38.45991023364032,21,Yellow
+340,39,Male,non-anginal,90.0,250.0,102.0,diarrhea,37.76931702524201,12,Yellow
+341,39,Male,non-anginal,160.0,157.0,100.0,cough,36.238581617170205,19,Yellow
+342,39,Male,asymptomatic,111.0,174.0,90.0,cough,36.968113106675986,24,Yellow
+343,39,Male,asymptomatic,105.0,241.0,120.0,sweating excessively,37.94302109180497,13,Yellow
+344,40,Male,atypical angina,126.0,227.0,130.0,high fever,39.14655729913831,17,Red
+345,40,Male,atypical angina,94.0,207.0,106.0,injury,36.490073383648685,17,Green
+346,40,Male,non-anginal,133.0,171.0,108.0,cough,37.02279595088283,25,Yellow
+347,40,Male,non-anginal,111.0,215.0,109.0,diarrhea,38.150923776769886,17,Yellow
+348,40,Male,non-anginal,102.0,,99.0,rash,36.94611355932183,17,Green
+349,41,Female,atypical angina,145.0,253.0,131.0,shortness of breath,36.65473201063366,22,Yellow
+350,41,Female,atypical angina,108.0,177.0,137.0,shortness of breath,36.41032191313662,31,Red
+351,41,Female,atypical angina,86.0,169.0,95.0,severe weakness,36.33352245941754,18,Red
+352,41,Male,atypical angina,124.0,218.0,115.0,high fever,38.32793244148365,16,Yellow
+353,41,Male,atypical angina,122.0,173.0,89.0,cough,36.661604366789305,23,Yellow
+354,41,Male,atypical angina,78.0,203.0,109.0,diarrhea,38.70299439348026,15,Red
+355,41,Male,asymptomatic,87.0,217.0,96.0,injury,36.74503877324683,19,Red
+356,42,Female,non-anginal,112.0,191.0,123.0,high fever,40.58171617863652,14,Red
+357,42,Male,atypical angina,88.0,197.0,109.0,vomiting,37.942783817310946,17,Red
+358,42,Male,atypical angina,123.0,203.0,133.0,high fever,39.90873853884846,15,Red
+359,42,Male,atypical angina,91.0,217.0,106.0,diarrhea,38.10828498716028,18,Yellow
+360,42,Male,non-anginal,125.0,165.0,132.0,high fever,39.169385795800736,13,Red
+361,42,Male,non-anginal,129.0,146.0,100.0,high fever,39.76897131554766,18,Red
+362,42,Male,asymptomatic,120.0,150.0,99.0,injury,36.72207534601409,18,Green
+363,43,Female,typical angina,101.0,197.0,96.0,cough,36.47377497741804,25,Yellow
+364,43,Female,atypical angina,141.0,171.0,118.0,rash,37.24494429386088,16,Yellow
+365,43,Female,atypical angina,110.0,214.0,131.0,high fever,38.59717352394866,15,Yellow
+366,43,Female,atypical angina,128.0,167.0,100.0,rash,37.43359883390968,20,Green
+367,43,Female,atypical angina,104.0,150.0,119.0,rash,37.81149334527651,16,Yellow
+368,43,Female,atypical angina,103.0,196.0,108.0,sweating excessively,37.42629485194026,11,Yellow
+369,43,Female,non-anginal,146.0,,108.0,cough,37.11178910636434,20,Yellow
+370,43,Male,atypical angina,147.0,187.0,95.0,cough,36.817028020680056,21,Yellow
+371,44,Female,asymptomatic,115.0,197.0,108.0,rash,37.701843263072334,17,Green
+372,44,Male,atypical angina,125.0,180.0,103.0,rash,36.4684229156885,19,Green
+373,44,Male,atypical angina,112.0,182.0,129.0,sweating excessively,39.26482329626326,17,Yellow
+374,44,Male,asymptomatic,150.0,250.0,104.0,cough,36.78263549872251,22,Yellow
+375,45,Female,atypical angina,89.0,159.0,100.0,injury,36.65175576925259,12,Red
+376,45,Female,atypical angina,181.0,,92.0,cough,36.71975934965298,21,Yellow
+377,45,Female,asymptomatic,142.0,247.0,131.0,shortness of breath,36.423676749129235,27,Red
+378,45,Male,atypical angina,123.0,163.0,127.0,shortness of breath,36.21842327696073,19,Yellow
+379,45,Male,non-anginal,89.0,,114.0,severe weakness,36.8686338885679,13,Red
+380,45,Male,asymptomatic,93.0,210.0,110.0,diarrhea,38.27650067534356,20,Yellow
+381,45,Male,asymptomatic,140.0,166.0,119.0,rash,36.78310028756406,17,Yellow
+382,46,Female,asymptomatic,97.0,158.0,123.0,vomiting,37.44806827839014,18,Yellow
+383,46,Male,atypical angina,107.0,207.0,131.0,injury,36.60888229934192,16,Yellow
+384,46,Male,non-anginal,94.0,208.0,121.0,vomiting,37.045903140371216,20,Yellow
+385,46,Male,non-anginal,146.0,168.0,103.0,cough,36.67393583839854,25,Yellow
+386,46,Male,asymptomatic,123.0,240.0,112.0,shortness of breath,36.99234472253982,28,Red
+387,46,Male,asymptomatic,95.0,228.0,123.0,vomiting,37.74502208148417,21,Yellow
+388,46,Male,asymptomatic,135.0,178.0,116.0,shortness of breath,36.01309631881327,32,Red
+389,47,Female,atypical angina,107.0,169.0,140.0,high fever,38.615474199983396,13,Yellow
+390,47,Female,non-anginal,74.0,,118.0,severe weakness,36.51403969001228,20,Red
+391,47,Male,typical angina,106.0,211.0,120.0,shortness of breath,35.968944943089014,22,Yellow
+392,47,Male,atypical angina,155.0,193.0,100.0,cough,37.005853262947326,25,Yellow
+393,47,Male,asymptomatic,137.0,237.0,100.0,high fever,39.60426858915424,16,Red
+394,48,Female,atypical angina,,206.0,106.0,cough,36.36134849601896,21,Yellow
+395,48,Female,atypical angina,113.0,,94.0,rash,37.27906087517152,19,Green
+396,48,Female,atypical angina,117.0,239.0,108.0,shortness of breath,36.65724336218,27,Red
+397,48,Female,non-anginal,80.0,194.0,106.0,injury,36.55006324454768,12,Red
+398,48,Female,asymptomatic,104.0,165.0,106.0,cough,36.17919821822905,21,Yellow
+399,48,Female,asymptomatic,116.0,174.0,125.0,high fever,39.36612423597964,18,Red
+400,48,Female,asymptomatic,147.0,182.0,109.0,cough,36.621188158950005,25,Yellow
+401,48,Male,atypical angina,98.0,,105.0,cough,36.57481254514053,21,Yellow
+402,48,Male,atypical angina,128.0,170.0,108.0,shortness of breath,36.199127249164704,22,Yellow
+403,48,Male,atypical angina,137.0,194.0,90.0,cough,36.14129266432331,20,Green
+404,48,Male,non-anginal,148.0,204.0,123.0,high fever,39.93753361472666,14,Red
+405,49,Female,atypical angina,114.0,,102.0,cough,36.60668205325753,23,Yellow
+406,49,Female,atypical angina,115.0,,120.0,shortness of breath,36.585526625545526,20,Yellow
+407,49,Female,atypical angina,114.0,213.0,137.0,sweating excessively,38.506744150931816,13,Yellow
+408,49,Female,non-anginal,106.0,160.0,136.0,high fever,39.185928589788254,16,Red
+409,49,Male,atypical angina,101.0,221.0,127.0,injury,36.71883984910497,18,Yellow
+410,49,Male,non-anginal,136.0,178.0,120.0,high fever,41.04930474460936,17,Red
+411,49,Male,asymptomatic,106.0,175.0,100.0,rash,36.76068980234061,20,Green
+412,49,Male,asymptomatic,113.0,,137.0,sweating excessively,39.863307209594154,19,Yellow
+413,50,Female,atypical angina,142.0,167.0,115.0,high fever,41.60533763524554,15,Red
+414,50,Female,asymptomatic,109.0,183.0,138.0,high fever,41.78125090071446,14,Red
+415,50,Male,atypical angina,117.0,166.0,101.0,high fever,40.60204464225518,15,Red
+416,50,Male,atypical angina,135.0,205.0,91.0,cough,36.8144023197256,25,Yellow
+417,50,Male,atypical angina,83.0,167.0,94.0,diarrhea,38.85463546338768,15,Red
+418,50,Male,asymptomatic,109.0,134.0,93.0,diarrhea,37.77892167832647,18,Yellow
+419,50,Male,asymptomatic,115.0,232.0,123.0,vomiting,37.70203595447298,13,Yellow
+420,45,Female,atypical angina,139.0,203.0,138.0,shortness of breath,36.20574900401146,22,Yellow
+421,40,Female,non-anginal,136.0,195.0,118.0,shortness of breath,36.873088206213076,31,Red
+422,38,Female,non-anginal,145.0,215.0,115.0,shortness of breath,35.93533799733731,32,Red
+423,24,Female,non-anginal,113.0,204.0,119.0,rash,37.843481197449144,14,Yellow
+424,49,Male,atypical angina,82.0,184.0,94.0,diarrhea,38.3465504751094,15,Red
+425,21,Male,atypical angina,127.0,172.0,133.0,high fever,40.441911953168656,14,Red
+426,41,Male,asymptomatic,105.0,189.0,121.0,vomiting,38.06705490412347,16,Yellow
+427,22,Female,atypical angina,145.0,250.0,133.0,high fever,38.63263551145922,17,Yellow
+428,45,Female,atypical angina,129.0,,127.0,high fever,40.15760465385391,15,Red
+429,37,Female,non-anginal,95.0,234.0,89.0,diarrhea,37.63450260296458,14,Yellow
+430,43,Female,asymptomatic,92.0,175.0,134.0,sweating excessively,38.509666115650404,12,Yellow
+431,41,Male,atypical angina,107.0,211.0,115.0,diarrhea,38.00149490966134,20,Yellow
+432,47,Male,atypical angina,130.0,101.0,126.0,high fever,40.33902674508016,16,Red
+433,23,Male,atypical angina,149.0,187.0,100.0,high fever,41.962916645914426,13,Red
+434,26,Male,non-anginal,152.0,203.0,121.0,shortness of breath,36.69103605061547,26,Red
+435,24,Female,atypical angina,133.0,178.0,138.0,shortness of breath,36.12389537335878,24,Yellow
+436,42,Female,atypical angina,89.0,253.0,100.0,diarrhea,38.37128412650535,17,Red
+437,36,Female,non-anginal,94.0,220.0,104.0,diarrhea,37.56401743150324,15,Yellow
+438,35,Male,atypical angina,95.0,,112.0,vomiting,37.809038545185075,15,Yellow
+439,29,Male,atypical angina,115.0,217.0,112.0,shortness of breath,36.851494087414366,29,Red
+440,44,Male,non-anginal,123.0,201.0,104.0,cough,36.31261702263448,26,Red
+441,41,Male,asymptomatic,119.0,183.0,95.0,cough,36.65128747802975,25,Yellow
+442,43,Male,asymptomatic,87.0,174.0,110.0,diarrhea,39.091491280594695,16,Red
+443,24,Male,asymptomatic,86.0,191.0,105.0,severe weakness,36.327116560898396,11,Red
+444,42,Female,atypical angina,104.0,174.0,121.0,diarrhea,37.904112101509234,18,Yellow
+445,45,Female,atypical angina,120.0,155.0,107.0,cough,36.25595158630783,23,Yellow
+446,35,Female,atypical angina,82.0,213.0,92.0,diarrhea,38.51563525605206,17,Red
+447,36,Female,atypical angina,73.0,240.0,97.0,severe weakness,36.18261293483916,18,Red
+448,39,Female,atypical angina,90.0,188.0,131.0,sweating excessively,38.68841707044976,13,Yellow
+449,40,Female,atypical angina,146.0,169.0,141.0,high fever,39.37983934626409,17,Red
+450,43,Female,atypical angina,138.0,176.0,139.0,high fever,41.154508736776044,15,Red
+451,47,Male,typical angina,130.0,178.0,109.0,shortness of breath,36.593858287985036,21,Yellow
+452,43,Male,atypical angina,109.0,209.0,111.0,vomiting,37.399381954134654,19,Yellow
+453,35,Male,atypical angina,84.0,162.0,117.0,diarrhea,38.19943387656804,10,Red
+454,39,Male,atypical angina,163.0,180.0,141.0,shortness of breath,36.81519744288726,19,Red
+455,32,Male,atypical angina,99.0,190.0,116.0,diarrhea,38.11719536926247,18,Yellow
+456,31,Male,atypical angina,164.0,204.0,90.0,cough,36.48338341069832,19,Green
+457,25,Male,non-anginal,86.0,230.0,106.0,diarrhea,38.41127592438652,19,Red
+458,28,Male,non-anginal,88.0,,108.0,diarrhea,38.8154819514174,14,Red
+459,38,Male,asymptomatic,87.0,224.0,94.0,severe weakness,36.72759080549274,15,Red
+460,32,Female,atypical angina,75.0,234.0,110.0,severe weakness,37.7494518710206,21,Red
+461,30,Female,atypical angina,118.0,201.0,119.0,shortness of breath,36.26358757746595,21,Yellow
+462,22,Female,atypical angina,88.0,224.0,114.0,diarrhea,38.25933140409058,15,Red
+463,44,Male,atypical angina,88.0,219.0,106.0,diarrhea,37.84327262398887,17,Red
+464,49,Male,atypical angina,111.0,190.0,109.0,vomiting,38.20788864449877,17,Yellow
+465,28,Male,atypical angina,88.0,169.0,102.0,vomiting,37.714743214912986,15,Red
+466,22,Male,non-anginal,104.0,225.0,133.0,sweating excessively,37.43415646155137,17,Yellow
+467,21,Male,non-anginal,95.0,249.0,115.0,severe weakness,36.606067788596754,15,Red
+468,32,Male,asymptomatic,121.0,238.0,103.0,cough,36.188847694558184,21,Yellow
+469,31,Male,asymptomatic,109.0,165.0,94.0,rash,37.03095068642993,11,Green
+470,21,Female,non-anginal,125.0,172.0,139.0,sweating excessively,39.75754677644741,16,Yellow
+471,44,Male,atypical angina,127.0,186.0,140.0,high fever,39.817072521944546,19,Red
+472,27,Male,non-anginal,146.0,,109.0,high fever,41.79818009779329,17,Red
+473,38,Male,non-anginal,107.0,173.0,123.0,vomiting,37.171384769566274,12,Yellow
+474,39,Male,asymptomatic,114.0,92.0,126.0,vomiting,38.056657408160724,16,Yellow
+475,23,Female,typical angina,135.0,201.0,90.0,rash,36.55330713259545,15,Green
+476,30,Female,asymptomatic,129.0,228.0,88.0,rash,37.65503555002126,13,Green
+477,35,Male,atypical angina,85.0,205.0,99.0,diarrhea,38.41778606952319,10,Red
+478,20,Male,atypical angina,129.0,255.0,118.0,shortness of breath,36.29146053644565,24,Yellow
+479,30,Male,atypical angina,142.0,222.0,107.0,shortness of breath,36.555029542317456,21,Yellow
+480,39,Male,non-anginal,93.0,185.0,100.0,severe weakness,37.202186581755385,18,Red
+481,37,Male,asymptomatic,157.0,238.0,95.0,shortness of breath,36.724482244149634,23,Yellow
+482,26,Female,atypical angina,102.0,180.0,114.0,diarrhea,38.982779382776364,19,Yellow
+483,41,Male,atypical angina,109.0,180.0,136.0,high fever,39.87620485267318,17,Red
+484,38,Male,non-anginal,120.0,149.0,137.0,sweating excessively,38.21640225885309,14,Yellow
+485,23,Male,non-anginal,91.0,235.0,108.0,diarrhea,37.77405803633849,13,Yellow
+486,24,Male,asymptomatic,119.0,,108.0,sweating excessively,36.988569084441465,17,Yellow
+487,30,Male,non-anginal,124.0,219.0,100.0,cough,36.60500742962457,20,Green
+488,43,Female,asymptomatic,158.0,224.0,129.0,shortness of breath,36.69711459816188,32,Red
+489,32,Male,asymptomatic,115.0,232.0,124.0,shortness of breath,36.772686090314814,33,Red
+490,49,Female,typical angina,149.0,199.0,126.0,high fever,38.92854227546996,13,Yellow
+491,44,Male,atypical angina,112.0,206.0,115.0,injury,36.77255337765395,13,Yellow
+492,31,Male,asymptomatic,92.0,235.0,109.0,injury,36.83847852951552,13,Green
+493,33,Female,asymptomatic,129.0,222.0,104.0,high fever,40.94430496196114,14,Red
+494,34,Male,typical angina,91.0,149.0,109.0,severe weakness,36.89888814703582,16,Red
+495,35,Male,atypical angina,107.0,160.0,94.0,diarrhea,38.47093521856172,14,Yellow
+496,36,Male,atypical angina,112.0,204.0,124.0,high fever,38.73107830063959,18,Yellow
+497,37,Male,asymptomatic,142.0,187.0,92.0,cough,36.3421233136609,17,Yellow
+498,38,Male,asymptomatic,108.0,198.0,98.0,cough,36.85382797816358,20,Green
+499,38,Male,asymptomatic,83.0,223.0,114.0,severe weakness,37.165037810652514,12,Red
+500,38,Male,asymptomatic,129.0,112.0,113.0,rash,37.74664847495328,16,Yellow
+501,40,Male,asymptomatic,107.0,237.0,120.0,injury,36.35456079643899,13,Yellow
+502,41,Male,asymptomatic,113.0,249.0,97.0,cough,36.87923624143421,18,Green
+503,41,Male,asymptomatic,138.0,170.0,105.0,high fever,40.419923817712416,20,Red
+504,43,Male,asymptomatic,95.0,158.0,124.0,diarrhea,38.282988024648525,15,Yellow
+505,46,Male,asymptomatic,93.0,227.0,90.0,severe weakness,38.04448369787038,14,Red
+506,46,Male,asymptomatic,108.0,178.0,116.0,vomiting,37.97071903646844,13,Yellow
+507,46,Male,asymptomatic,101.0,209.0,112.0,vomiting,38.598778230535565,13,Yellow
+508,47,Male,non-anginal,93.0,199.0,97.0,diarrhea,37.66720793803773,11,Yellow
+509,47,Male,asymptomatic,121.0,186.0,121.0,injury,36.381854983869566,19,Yellow
+510,48,Male,asymptomatic,149.0,223.0,114.0,shortness of breath,36.732545460521486,23,Yellow
+511,48,Male,asymptomatic,100.0,239.0,140.0,sweating excessively,37.78169962040893,12,Yellow
+512,48,Male,asymptomatic,164.0,200.0,102.0,cough,36.00215622522428,20,Green
+513,49,Female,non-anginal,165.0,182.0,97.0,cough,36.933398212978844,22,Yellow
+514,49,Male,non-anginal,117.0,186.0,108.0,injury,36.35058800582847,18,Green
+515,49,Male,asymptomatic,100.0,185.0,112.0,severe weakness,36.882956396868266,13,Yellow
+516,50,Female,non-anginal,130.0,235.0,130.0,high fever,40.61874096574289,16,Red
+517,50,Male,asymptomatic,115.0,246.0,134.0,sweating excessively,38.54406096879275,14,Yellow
+518,31,Female,asymptomatic,108.0,181.0,125.0,sweating excessively,38.38106622745389,14,Yellow
+519,36,Male,asymptomatic,97.0,183.0,107.0,vomiting,38.19761610884234,19,Yellow
+520,42,Male,asymptomatic,126.0,230.0,113.0,cough,37.077100806184916,22,Yellow
+521,30,Male,asymptomatic,121.0,180.0,91.0,cough,36.71938047029401,21,Yellow
+522,36,Male,asymptomatic,106.0,159.0,124.0,vomiting,37.674637841268094,15,Yellow
+523,36,Male,atypical angina,79.0,176.0,95.0,severe weakness,37.99728595585543,17,Red
+524,27,Male,non-anginal,103.0,223.0,117.0,high fever,41.19114451053637,11,Red
+525,25,Female,asymptomatic,127.0,170.0,89.0,cough,36.81066238530109,20,Green
+526,46,Male,asymptomatic,96.0,154.0,103.0,severe weakness,37.92072588386181,19,Red
+527,28,Male,asymptomatic,104.0,205.0,105.0,diarrhea,38.214531693614376,15,Yellow
+528,34,Male,asymptomatic,79.0,200.0,101.0,severe weakness,37.52756020097087,17,Red
+529,32,Male,asymptomatic,124.0,184.0,133.0,shortness of breath,36.38218491033706,25,Yellow
+530,38,Male,asymptomatic,126.0,,125.0,shortness of breath,36.07313833640624,34,Red
+531,39,Male,asymptomatic,88.0,148.0,98.0,severe weakness,35.995499601199406,14,Red
+532,40,Female,asymptomatic,96.0,213.0,107.0,injury,36.876219773009986,14,Green
+533,43,Male,typical angina,116.0,162.0,109.0,cough,36.155667799945995,19,Green
+534,45,Male,asymptomatic,133.0,184.0,90.0,cough,36.60759212698265,19,Green
+535,46,Male,asymptomatic,120.0,228.0,97.0,cough,36.392663666019494,20,Green
+536,46,Male,asymptomatic,102.0,212.0,115.0,injury,37.01665356888248,20,Yellow
+537,48,Male,asymptomatic,100.0,208.0,108.0,high fever,41.101562786381415,16,Red
+538,48,Male,asymptomatic,163.0,191.0,104.0,cough,36.62965404182717,23,Yellow
+539,48,Male,asymptomatic,111.0,226.0,112.0,diarrhea,38.86528436222929,21,Yellow
+540,48,Male,asymptomatic,151.0,165.0,120.0,shortness of breath,36.79353630989146,34,Red
+541,50,Male,asymptomatic,115.0,170.0,110.0,high fever,41.619140877989054,13,Red
+542,27,Male,asymptomatic,89.0,187.0,127.0,sweating excessively,39.43980600273139,18,Red
+543,23,Male,asymptomatic,97.0,,97.0,severe weakness,36.09992027794427,16,Red
+544,34,Male,asymptomatic,129.0,230.0,134.0,shortness of breath,36.16108909141977,23,Yellow
+545,45,Male,non-anginal,118.0,178.0,141.0,high fever,40.380744529270856,12,Red
+546,30,Male,asymptomatic,129.0,156.0,118.0,rash,37.74527376193525,15,Yellow
+547,38,Male,asymptomatic,141.0,146.0,90.0,rash,37.206411468936466,18,Yellow
+548,34,Male,asymptomatic,154.0,,128.0,shortness of breath,36.61654645147023,28,Red
+549,39,Male,asymptomatic,86.0,191.0,99.0,diarrhea,37.74742266787035,13,Red
+550,49,Male,asymptomatic,102.0,188.0,120.0,severe weakness,37.34765767173086,17,Yellow
+551,37,Male,asymptomatic,116.0,204.0,108.0,shortness of breath,36.08882632816315,19,Yellow
+552,20,Male,asymptomatic,105.0,200.0,116.0,sweating excessively,38.16275340944766,12,Yellow
+553,25,Male,non-anginal,109.0,206.0,123.0,injury,36.056370492766085,16,Yellow
+554,48,Male,asymptomatic,70.0,183.0,99.0,severe weakness,36.54669583259796,12,Red
+555,41,Male,asymptomatic,114.0,179.0,108.0,shortness of breath,35.93219644243359,25,Yellow
+556,43,Male,asymptomatic,99.0,169.0,99.0,diarrhea,38.18233250108579,15,Yellow
+557,44,Male,atypical angina,122.0,221.0,120.0,injury,36.65901301601607,16,Yellow
+558,44,Male,asymptomatic,115.0,203.0,109.0,sweating excessively,37.902054814354315,16,Yellow
+559,46,Male,typical angina,141.0,208.0,90.0,cough,36.37679633349961,25,Yellow
+560,47,Female,non-anginal,112.0,212.0,105.0,shortness of breath,36.763686102958495,27,Red
+561,48,Female,asymptomatic,90.0,191.0,112.0,vomiting,36.92362038478047,11,Yellow
+562,49,Male,asymptomatic,109.0,164.0,116.0,diarrhea,38.152275656072604,14,Yellow
+563,49,Male,asymptomatic,135.0,194.0,87.0,cough,36.207038752568536,20,Green
+564,48,Male,non-anginal,109.0,164.0,115.0,sweating excessively,38.32991326376044,14,Yellow
+565,32,Male,asymptomatic,113.0,234.0,88.0,cough,36.84063953735434,20,Green
+566,49,Male,asymptomatic,115.0,171.0,127.0,injury,36.43708071274454,14,Yellow
+567,21,Male,asymptomatic,113.0,164.0,121.0,shortness of breath,36.834993962689204,28,Red
+568,28,Male,asymptomatic,147.0,234.0,130.0,high fever,38.51077227877702,17,Yellow
+569,49,Male,non-anginal,116.0,181.0,116.0,high fever,40.904916830323685,17,Red
+570,43,Male,asymptomatic,90.0,220.0,107.0,vomiting,37.13482211193066,16,Yellow
+571,24,Male,asymptomatic,100.0,245.0,98.0,diarrhea,37.40700808191355,18,Yellow
+572,25,Male,typical angina,118.0,176.0,108.0,sweating excessively,39.54691874541436,20,Yellow
+573,20,Male,atypical angina,149.0,211.0,118.0,high fever,41.69874222196,13,Red
+574,41,Male,asymptomatic,93.0,194.0,138.0,sweating excessively,38.03169977825894,21,Yellow
+575,33,Female,atypical angina,74.0,165.0,94.0,severe weakness,36.06531376451413,15,Red
+576,43,Male,asymptomatic,66.0,210.0,104.0,severe weakness,37.72897135647435,14,Red
+577,27,Male,asymptomatic,80.0,208.0,118.0,injury,36.806417946280895,17,Red
+578,40,Male,atypical angina,105.0,159.0,102.0,injury,36.81010375345016,16,Green
+579,46,Male,asymptomatic,101.0,,98.0,rash,36.88722883808554,16,Green
+580,20,Male,asymptomatic,88.0,145.0,114.0,diarrhea,37.607255091494174,15,Red
+581,28,Male,asymptomatic,170.0,220.0,97.0,cough,35.903706788648854,19,Green
+582,31,Male,asymptomatic,143.0,,93.0,cough,36.178727879809095,23,Yellow
+583,41,Male,asymptomatic,114.0,174.0,123.0,rash,36.881630456333845,14,Yellow
+584,43,Male,asymptomatic,131.0,246.0,128.0,shortness of breath,36.41609594079242,20,Yellow
+585,44,Male,asymptomatic,80.0,161.0,112.0,injury,37.08543412455275,16,Red
+586,47,Female,asymptomatic,126.0,182.0,117.0,rash,36.81763851749185,17,Yellow
+587,47,Male,asymptomatic,96.0,171.0,110.0,severe weakness,37.01167964761395,14,Red
+588,49,Male,asymptomatic,124.0,201.0,110.0,cough,36.168941862881255,22,Yellow
+589,49,Male,asymptomatic,101.0,199.0,114.0,sweating excessively,38.217866189603235,16,Yellow
+590,50,Male,asymptomatic,79.0,227.0,92.0,severe weakness,36.93273618495969,17,Red
+591,50,Male,asymptomatic,124.0,221.0,108.0,rash,36.95784415405191,17,Green
+592,41,Male,asymptomatic,112.0,197.0,115.0,sweating excessively,37.935873871698774,18,Yellow
+593,49,Male,asymptomatic,159.0,233.0,106.0,cough,36.28409191566564,18,Yellow
+594,29,Female,non-anginal,134.0,201.0,103.0,cough,36.63144659828676,23,Yellow
+595,42,Male,asymptomatic,130.0,248.0,129.0,sweating excessively,40.04955025939797,14,Red
+596,40,Female,atypical angina,105.0,164.0,104.0,sweating excessively,38.34782065399704,17,Yellow
+597,39,Male,asymptomatic,94.0,237.0,111.0,diarrhea,38.39934425538213,17,Yellow
+598,32,Male,typical angina,96.0,217.0,132.0,vomiting,37.789794231329545,15,Yellow
+599,34,Male,asymptomatic,110.0,167.0,104.0,cough,37.04255794946494,18,Green
+600,35,Male,asymptomatic,86.0,211.0,102.0,diarrhea,38.747495278026456,15,Red
+601,36,Male,asymptomatic,108.0,161.0,106.0,injury,36.83137293413483,17,Green
+602,38,Female,asymptomatic,102.0,206.0,111.0,diarrhea,39.06629734594079,18,Yellow
+603,38,Female,asymptomatic,92.0,210.0,97.0,diarrhea,38.472997929869074,19,Yellow
+604,38,Male,non-anginal,107.0,228.0,96.0,injury,36.81967355002106,18,Green
+605,38,Male,non-anginal,102.0,230.0,124.0,diarrhea,38.58814086780011,19,Yellow
+606,38,Male,asymptomatic,85.0,201.0,105.0,severe weakness,37.8609604234214,13,Red
+607,38,Male,asymptomatic,91.0,215.0,105.0,severe weakness,37.295644079017876,11,Red
+608,40,Male,asymptomatic,73.0,228.0,110.0,severe weakness,37.15459277979003,18,Red
+609,41,Male,asymptomatic,99.0,231.0,103.0,severe weakness,37.851340324148374,21,Red
+610,42,Male,asymptomatic,111.0,188.0,113.0,sweating excessively,37.83912368542023,17,Yellow
+611,42,Male,asymptomatic,110.0,157.0,102.0,rash,37.329459114768156,15,Green
+612,43,Male,asymptomatic,105.0,215.0,104.0,diarrhea,38.26956293382788,17,Yellow
+613,43,Male,asymptomatic,103.0,188.0,105.0,diarrhea,38.01784276378546,16,Yellow
+614,43,Male,asymptomatic,108.0,157.0,115.0,high fever,40.679365317966614,14,Red
+615,45,Male,non-anginal,123.0,221.0,105.0,rash,37.0515899308285,16,Green
+616,46,Male,asymptomatic,125.0,194.0,103.0,shortness of breath,36.468806877737336,28,Red
+617,46,Male,asymptomatic,110.0,217.0,89.0,cough,36.687639202364245,20,Green
+618,47,Male,non-anginal,156.0,209.0,141.0,shortness of breath,36.78894195648748,31,Red
+619,47,Male,non-anginal,121.0,243.0,115.0,high fever,39.39853226891019,20,Red
+620,47,Male,asymptomatic,127.0,161.0,120.0,high fever,40.057544980916546,12,Red
+621,47,Male,asymptomatic,114.0,223.0,132.0,high fever,39.900792589846276,21,Red
+622,48,Male,asymptomatic,131.0,192.0,108.0,shortness of breath,36.84712630350497,29,Red
+623,50,Female,asymptomatic,81.0,187.0,114.0,severe weakness,36.6970231736912,11,Red
+624,50,Male,asymptomatic,103.0,215.0,106.0,rash,36.446155155489606,17,Green
+625,50,Male,asymptomatic,118.0,197.0,99.0,cough,36.81778409274217,22,Yellow
+626,50,Male,asymptomatic,92.0,199.0,93.0,severe weakness,36.44051668586342,18,Red
+627,45,Female,asymptomatic,119.0,235.0,100.0,cough,36.25575673798733,17,Green
+628,22,Male,asymptomatic,105.0,221.0,111.0,cough,36.24408154258904,20,Yellow
+629,37,Male,asymptomatic,87.0,233.0,89.0,diarrhea,37.80083989971695,14,Red
+630,34,Male,asymptomatic,133.0,193.0,99.0,cough,36.300275233119145,22,Yellow
+631,48,Male,asymptomatic,104.0,248.0,104.0,high fever,38.526066045041205,18,Yellow
+632,41,Male,asymptomatic,105.0,217.0,116.0,diarrhea,37.987871599987436,14,Yellow
+633,27,Male,asymptomatic,99.0,185.0,104.0,high fever,38.211298025348476,19,Yellow
+634,47,Male,asymptomatic,71.0,190.0,95.0,severe weakness,36.758228261452274,17,Red
+635,45,Male,asymptomatic,128.0,155.0,110.0,shortness of breath,36.45936220334245,18,Yellow
+636,37,Male,asymptomatic,98.0,209.0,89.0,diarrhea,37.94047141467472,15,Yellow
+637,46,Male,asymptomatic,105.0,167.0,115.0,rash,37.35051229441777,17,Yellow
+638,44,Male,atypical angina,136.0,179.0,115.0,rash,37.75589843356151,16,Yellow
+639,32,Male,atypical angina,127.0,195.0,106.0,cough,36.36455976229663,21,Yellow
+640,41,Male,non-anginal,127.0,216.0,101.0,shortness of breath,36.089306109633156,28,Red
+641,32,Male,non-anginal,113.0,205.0,103.0,sweating excessively,39.89935843432808,15,Yellow
+642,20,Male,asymptomatic,111.0,230.0,106.0,rash,36.954767997594324,19,Green
+643,34,Male,asymptomatic,121.0,242.0,104.0,cough,36.45186041031813,21,Yellow
+644,39,Male,asymptomatic,114.0,173.0,108.0,injury,36.3542308283497,16,Green
+645,43,Male,asymptomatic,93.0,151.0,100.0,severe weakness,37.816288740469815,16,Red
+646,33,Male,asymptomatic,122.0,162.0,90.0,cough,36.14790795927553,20,Green
+647,37,Male,asymptomatic,119.0,164.0,100.0,shortness of breath,36.64416597949204,23,Yellow
+648,29,Male,asymptomatic,129.0,223.0,121.0,rash,37.602235725082885,20,Yellow
+649,46,Male,atypical angina,140.0,185.0,99.0,high fever,38.184804873482555,18,Yellow
+650,48,Male,asymptomatic,92.0,231.0,122.0,vomiting,38.19481750483861,14,Yellow
+651,28,Male,asymptomatic,102.0,188.0,111.0,high fever,40.35320904841776,15,Red
+652,33,Male,asymptomatic,84.0,246.0,123.0,injury,36.03416498780718,19,Red
+653,31,Male,non-anginal,145.0,192.0,131.0,high fever,40.67702540515665,16,Red
+654,24,Male,non-anginal,82.0,165.0,100.0,diarrhea,37.684182938454235,20,Red
+655,30,Male,non-anginal,152.0,170.0,113.0,cough,36.54823113677709,23,Yellow
+656,21,Male,asymptomatic,114.0,226.0,122.0,injury,36.174502148842286,14,Yellow
+657,20,Male,asymptomatic,86.0,210.0,93.0,diarrhea,38.607645283498165,21,Red
+658,23,Male,asymptomatic,103.0,160.0,105.0,diarrhea,38.58783859995694,15,Yellow
+659,41,Male,asymptomatic,114.0,238.0,106.0,injury,36.314060943326226,15,Green
+660,25,Male,asymptomatic,115.0,155.0,133.0,high fever,40.21481740681335,17,Red
+661,35,Male,non-anginal,88.0,236.0,107.0,diarrhea,38.67152330175225,20,Red
+662,46,Male,asymptomatic,113.0,194.0,96.0,cough,36.391964374262706,21,Yellow
+663,21,Male,asymptomatic,105.0,189.0,116.0,vomiting,38.38154881879853,14,Yellow
+664,24,Male,asymptomatic,87.0,159.0,100.0,severe weakness,37.536650416818446,16,Red
+665,45,Male,asymptomatic,129.0,182.0,117.0,shortness of breath,36.91134814981716,28,Red
+666,49,Male,asymptomatic,121.0,176.0,122.0,shortness of breath,36.77054795616248,24,Yellow
+667,29,Male,asymptomatic,118.0,237.0,143.0,high fever,40.000260495280905,20,Red
+668,35,Male,asymptomatic,128.0,228.0,95.0,cough,36.06109061242124,19,Green
+669,49,Male,asymptomatic,90.0,184.0,106.0,diarrhea,37.698478126958065,17,Yellow
+670,35,Male,non-anginal,109.0,206.0,113.0,diarrhea,37.85198341206093,13,Yellow
+671,21,Male,asymptomatic,116.0,238.0,115.0,vomiting,38.07185028791527,14,Yellow
+672,41,Male,asymptomatic,119.0,200.0,99.0,cough,36.49861571348265,22,Yellow
+673,43,Male,asymptomatic,107.0,239.0,114.0,injury,37.07394306320021,15,Yellow
+674,44,Male,asymptomatic,132.0,199.0,95.0,rash,37.39156032222817,14,Green
+675,39,Male,non-anginal,130.0,230.0,133.0,high fever,41.02137262269569,14,Red
+676,43,Male,asymptomatic,89.0,231.0,114.0,vomiting,37.82985527363756,13,Red
+677,25,Male,asymptomatic,127.0,182.0,87.0,cough,36.853806636037405,23,Yellow
+678,49,Male,asymptomatic,110.0,233.0,110.0,vomiting,38.53099821154867,11,Yellow
+679,24,Male,asymptomatic,160.0,198.0,85.0,cough,36.933629104361394,23,Yellow
+680,44,Male,asymptomatic,88.0,163.0,91.0,severe weakness,36.50608973728754,14,Red
+681,22,Male,non-anginal,84.0,221.0,99.0,diarrhea,37.49915806035897,11,Red
+682,31,Male,asymptomatic,107.0,223.0,102.0,cough,36.17754922316551,20,Green
+683,47,Male,asymptomatic,118.0,145.0,119.0,vomiting,38.54837648264865,16,Yellow
+684,31,Male,asymptomatic,99.0,163.0,110.0,injury,36.6037786924815,21,Yellow
+685,33,Male,asymptomatic,118.0,200.0,118.0,high fever,40.819856124277294,19,Red
+686,45,Male,asymptomatic,131.0,235.0,124.0,shortness of breath,36.53170324369842,25,Yellow
+687,26,Male,asymptomatic,112.0,165.0,121.0,shortness of breath,36.546097436008715,27,Red
+688,36,Male,asymptomatic,110.0,171.0,105.0,sweating excessively,37.52926738896374,18,Yellow
+689,49,Male,asymptomatic,123.0,149.0,112.0,high fever,38.501516790972886,15,Yellow
+690,27,Female,typical angina,144.0,155.0,126.0,shortness of breath,36.15124898174695,26,Red
+691,36,Female,asymptomatic,113.0,233.0,118.0,vomiting,37.68002793031534,14,Yellow
+692,38,Male,typical angina,111.0,154.0,129.0,high fever,39.7558591966767,17,Red
+693,25,Male,non-anginal,109.0,173.0,133.0,high fever,39.52786137098921,19,Red
+694,34,Male,asymptomatic,116.0,217.0,98.0,injury,36.20805991317544,14,Green
+695,40,Male,asymptomatic,120.0,195.0,91.0,cough,36.002955288561516,25,Yellow
+696,36,Male,asymptomatic,156.0,230.0,141.0,shortness of breath,36.08241261143888,21,Red
+697,23,Male,asymptomatic,131.0,169.0,111.0,high fever,41.937918721112084,12,Red
+698,46,Male,asymptomatic,85.0,208.0,94.0,severe weakness,36.20640208039178,12,Red
+699,38,Male,asymptomatic,105.0,175.0,114.0,injury,37.10728645572543,14,Yellow
+700,41,Male,asymptomatic,131.0,197.0,117.0,shortness of breath,36.472857067246416,20,Yellow
+701,41,Male,asymptomatic,106.0,191.0,114.0,high fever,41.20120266922219,13,Red
+702,35,Female,asymptomatic,199.0,219.0,89.0,cough,36.28589982899987,21,Yellow
+703,36,Female,asymptomatic,97.0,196.0,91.0,cough,36.42761959828482,19,Green
+704,34,Male,asymptomatic,123.0,166.0,138.0,shortness of breath,36.294094434253424,25,Yellow
+705,33,Male,asymptomatic,89.0,181.0,96.0,severe weakness,37.34900260714153,13,Red
+706,39,Male,asymptomatic,78.0,188.0,118.0,diarrhea,37.68091955020283,11,Red
+707,45,Male,asymptomatic,152.0,183.0,109.0,cough,36.33278352213155,25,Yellow
+708,37,Male,asymptomatic,90.0,225.0,98.0,diarrhea,37.928997029982774,13,Yellow
+709,34,Female,asymptomatic,156.0,160.0,97.0,cough,36.94704042642733,23,Yellow
+710,21,Male,asymptomatic,87.0,192.0,105.0,injury,36.121855942803556,16,Red
+711,32,Male,typical angina,80.0,192.0,119.0,injury,36.8157722304765,18,Red
+712,33,Male,asymptomatic,112.0,169.0,127.0,high fever,41.362464705965344,12,Red
+713,24,Male,asymptomatic,144.0,224.0,105.0,cough,36.64440826598989,21,Yellow
+714,39,Male,asymptomatic,86.0,167.0,121.0,severe weakness,37.32149705873714,12,Red
+715,46,Male,asymptomatic,125.0,198.0,111.0,rash,38.006772379031155,16,Yellow
+716,26,Male,asymptomatic,100.0,160.0,93.0,diarrhea,38.643420216568984,13,Yellow
+717,23,Male,asymptomatic,99.0,210.0,102.0,injury,36.68419895511077,12,Green
+718,39,Male,non-anginal,98.0,146.0,96.0,injury,36.25382770701764,21,Yellow
+719,26,Female,non-anginal,97.0,189.0,97.0,diarrhea,38.37919644122157,19,Yellow
+720,24,Male,atypical angina,129.0,154.0,106.0,high fever,39.34859632481166,12,Red
+721,20,Male,asymptomatic,120.0,169.0,107.0,injury,36.82978803388482,19,Green
+722,44,Male,asymptomatic,84.0,219.0,105.0,severe weakness,36.179510494074755,15,Red
+723,46,Male,asymptomatic,111.0,216.0,106.0,sweating excessively,37.143586984236705,21,Yellow
+724,39,Male,asymptomatic,100.0,204.0,107.0,severe weakness,36.170952306149296,14,Green
+725,42,Male,non-anginal,107.0,197.0,101.0,cough,35.91936204446164,26,Red
+726,20,Male,non-anginal,120.0,240.0,118.0,sweating excessively,38.71270041166291,14,Yellow
+727,28,Male,asymptomatic,85.0,217.0,113.0,severe weakness,36.21291927666533,13,Red
+728,25,Male,non-anginal,94.0,156.0,96.0,diarrhea,38.645970911794606,18,Yellow
+729,39,Male,non-anginal,125.0,181.0,121.0,rash,37.40819569453059,18,Yellow
+730,26,Male,atypical angina,112.0,199.0,114.0,diarrhea,38.400906398353996,16,Yellow
+731,46,Male,atypical angina,91.0,164.0,118.0,diarrhea,38.10902698489797,18,Yellow
+732,36,Male,asymptomatic,107.0,225.0,109.0,rash,37.31471802201455,12,Green
+733,30,Male,asymptomatic,89.0,197.0,118.0,sweating excessively,38.63261848735958,20,Red
+734,38,Male,non-anginal,104.0,190.0,121.0,diarrhea,38.03392790559765,21,Yellow
+735,21,Male,asymptomatic,138.0,181.0,96.0,high fever,38.970661096485564,17,Yellow
+736,41,Male,asymptomatic,93.0,192.0,97.0,injury,36.07764598885397,13,Green
+737,47,Male,asymptomatic,124.0,182.0,129.0,sweating excessively,39.314273361222064,12,Yellow
+738,46,Male,asymptomatic,110.0,161.0,106.0,shortness of breath,36.20737334195393,24,Yellow
+739,32,Male,asymptomatic,105.0,254.0,98.0,rash,37.523201825533114,14,Green
+740,35,Male,asymptomatic,138.0,229.0,108.0,shortness of breath,36.0056535021686,29,Red
+741,49,Male,asymptomatic,119.0,177.0,97.0,cough,36.812984312487465,17,Green
+742,28,Male,asymptomatic,145.0,240.0,113.0,high fever,38.70542579517922,15,Yellow
+743,23,Male,non-anginal,94.0,149.0,98.0,sweating excessively,39.02389113948939,16,Yellow
+744,31,Male,non-anginal,75.0,167.0,89.0,severe weakness,37.168422911508415,16,Red
+745,25,Male,non-anginal,75.0,226.0,114.0,severe weakness,37.33625262083544,17,Red
+746,39,Male,asymptomatic,104.0,200.0,101.0,diarrhea,37.79232765210286,16,Yellow
+747,26,Male,asymptomatic,77.0,241.0,100.0,diarrhea,37.78977567363589,16,Red
+748,29,Male,asymptomatic,86.0,186.0,105.0,severe weakness,37.54529477516221,16,Red
+749,40,Male,asymptomatic,92.0,92.0,94.0,injury,35.886340752363566,13,Green
+750,38,Male,non-anginal,108.0,215.0,119.0,injury,36.23121466768907,17,Yellow
+751,24,Male,asymptomatic,,196.0,101.0,cough,36.35510284670941,21,Yellow
+752,27,Male,asymptomatic,98.0,178.0,107.0,sweating excessively,38.94079102520785,19,Yellow
+753,27,Male,asymptomatic,95.0,232.0,108.0,diarrhea,37.92447542932946,10,Yellow
+754,20,Male,non-anginal,108.0,194.0,111.0,vomiting,38.11728969489866,14,Yellow
+755,34,Male,non-anginal,98.0,232.0,91.0,diarrhea,38.00025422781474,13,Yellow
+756,43,Male,asymptomatic,143.0,237.0,103.0,cough,36.29908744347708,25,Yellow
+757,24,Male,asymptomatic,151.0,197.0,108.0,shortness of breath,36.66712918018775,28,Red
+758,24,Male,asymptomatic,146.0,204.0,127.0,shortness of breath,36.53564213492115,27,Red
+759,30,Male,asymptomatic,85.0,200.0,91.0,diarrhea,38.18814571326833,18,Red
+760,48,Male,asymptomatic,118.0,168.0,136.0,shortness of breath,36.93208948427295,25,Yellow
+761,28,Male,non-anginal,120.0,221.0,99.0,rash,37.2588853042793,15,Green
+762,40,Male,asymptomatic,123.0,212.0,102.0,cough,36.32084259834822,20,Green
+763,35,Male,asymptomatic,142.0,194.0,118.0,shortness of breath,36.18974931888079,28,Red
+764,41,Male,asymptomatic,98.0,188.0,129.0,vomiting,37.38744396065007,17,Yellow
+765,43,Male,asymptomatic,116.0,159.0,119.0,shortness of breath,36.79363540752988,28,Red
+766,24,Male,asymptomatic,93.0,148.0,122.0,vomiting,37.788122577297344,14,Yellow
+767,39,Male,asymptomatic,154.0,179.0,97.0,shortness of breath,36.91997325290388,19,Yellow
+768,34,Male,asymptomatic,154.0,192.0,128.0,shortness of breath,36.71138144515736,23,Yellow
+769,40,Male,non-anginal,83.0,230.0,117.0,diarrhea,37.669475971993904,14,Red
+770,42,Male,non-anginal,78.0,174.0,106.0,diarrhea,38.53027066532022,17,Red
+771,42,Male,non-anginal,118.0,236.0,109.0,cough,36.8547300114908,22,Yellow
+772,30,Female,atypical angina,,221.0,102.0,cough,36.55338867175652,18,Green
+773,39,Male,asymptomatic,138.0,148.0,93.0,rash,36.71205666038297,16,Green
+774,33,Male,atypical angina,128.0,185.0,100.0,cough,36.31058822585382,20,Green
+775,41,Male,asymptomatic,98.0,208.0,132.0,vomiting,37.373796885212116,12,Yellow
+776,31,Male,asymptomatic,83.0,167.0,95.0,diarrhea,38.76901658315593,14,Red
+777,41,Male,asymptomatic,115.0,222.0,133.0,high fever,41.73330239848905,19,Red
+778,43,Male,non-anginal,94.0,216.0,127.0,vomiting,38.32102467555557,19,Yellow
+779,25,Male,atypical angina,,164.0,92.0,cough,36.161312534898535,21,Yellow
+780,42,Male,asymptomatic,133.0,212.0,125.0,high fever,39.11628747096455,13,Red
+781,25,Male,asymptomatic,86.0,184.0,108.0,diarrhea,38.49106826285157,20,Red
+782,29,Male,asymptomatic,126.0,151.0,122.0,rash,36.56220864109848,14,Yellow
+783,41,Male,asymptomatic,110.0,204.0,96.0,diarrhea,38.32492347637209,17,Yellow
+784,28,Male,non-anginal,86.0,214.0,101.0,injury,36.66570230136514,15,Red
+785,37,Male,atypical angina,121.0,203.0,107.0,cough,36.3806639640121,25,Yellow
+786,29,Male,non-anginal,97.0,233.0,109.0,diarrhea,37.665993200020985,14,Yellow
+787,32,Male,typical angina,111.0,174.0,106.0,high fever,40.39353188786173,15,Red
+788,44,Male,asymptomatic,123.0,169.0,95.0,cough,36.240299724065835,19,Green
+789,45,Male,asymptomatic,88.0,232.0,121.0,injury,36.13165529079051,11,Red
+790,30,Male,atypical angina,95.0,232.0,100.0,vomiting,37.4095917363214,19,Yellow
+791,42,Male,atypical angina,99.0,174.0,122.0,diarrhea,37.91913622842697,18,Yellow
+792,22,Male,asymptomatic,127.0,231.0,137.0,shortness of breath,36.799624806425825,20,Yellow
+793,49,Male,typical angina,99.0,182.0,131.0,sweating excessively,40.0205315457052,15,Red
+794,32,Male,asymptomatic,78.0,181.0,114.0,severe weakness,36.54501567524651,20,Red
+795,27,Male,non-anginal,106.0,168.0,98.0,diarrhea,37.74232501942105,14,Yellow
+796,35,Male,asymptomatic,141.0,243.0,113.0,high fever,39.25848944838767,15,Red
+797,49,Male,typical angina,128.0,154.0,93.0,cough,36.58905259305931,24,Yellow
+798,42,Male,non-anginal,97.0,227.0,130.0,injury,36.184630368847884,11,Yellow
+799,41,Male,asymptomatic,138.0,221.0,93.0,cough,36.971050643050184,20,Green
+800,48,Female,asymptomatic,91.0,192.0,95.0,severe weakness,37.16660346104671,11,Red
+801,21,Male,asymptomatic,101.0,215.0,110.0,vomiting,38.368648515137636,14,Yellow
+802,30,Male,asymptomatic,80.0,214.0,91.0,diarrhea,38.26729341565908,13,Red
+803,29,Male,asymptomatic,82.0,204.0,100.0,severe weakness,37.056294266819414,15,Red
+804,36,Male,asymptomatic,110.0,176.0,123.0,rash,37.8340955322219,12,Yellow
+805,47,Male,asymptomatic,115.0,210.0,105.0,high fever,41.62217886583865,15,Red
+806,34,Male,asymptomatic,117.0,168.0,121.0,high fever,38.461786645759354,19,Yellow
+807,36,Male,asymptomatic,109.0,169.0,109.0,high fever,41.924118771359694,15,Red
+808,36,Male,asymptomatic,,218.0,93.0,cough,36.97902893634343,21,Yellow
+809,30,Male,asymptomatic,109.0,211.0,122.0,rash,37.68725875583427,15,Yellow
+810,27,Male,non-anginal,96.0,165.0,101.0,vomiting,38.39991710126926,19,Yellow
+811,38,Male,asymptomatic,134.0,147.0,89.0,rash,37.19405121438034,17,Green
+812,40,Male,non-anginal,112.0,207.0,106.0,vomiting,37.19836697168153,11,Yellow
+813,22,Male,asymptomatic,103.0,236.0,110.0,high fever,39.571011791249084,13,Red
+814,35,Male,asymptomatic,110.0,203.0,102.0,cough,36.246794047664565,21,Yellow
+815,20,Male,asymptomatic,99.0,202.0,118.0,severe weakness,36.029748533683126,11,Red
+816,39,Male,asymptomatic,65.0,228.0,97.0,severe weakness,37.630330089595425,18,Red
+817,35,Male,non-anginal,107.0,162.0,123.0,injury,36.294543080344184,19,Yellow
+818,28,Male,typical angina,76.0,212.0,118.0,diarrhea,38.19926950784168,17,Red
+819,43,Male,asymptomatic,122.0,181.0,109.0,cough,36.32606085461156,22,Yellow
+820,49,Male,non-anginal,122.0,142.0,115.0,injury,36.727966285578546,16,Yellow
+821,43,Male,non-anginal,108.0,194.0,97.0,rash,37.60802272487474,19,Green
+822,48,Male,asymptomatic,102.0,187.0,128.0,sweating excessively,38.732204673151365,17,Yellow
+823,48,Male,non-anginal,76.0,150.0,96.0,severe weakness,36.757197362582595,16,Red
+824,37,Male,asymptomatic,116.0,176.0,138.0,high fever,39.243000789414026,15,Red
+825,21,Male,asymptomatic,111.0,180.0,137.0,shortness of breath,36.740082227241714,29,Red
+826,46,Male,asymptomatic,86.0,147.0,102.0,severe weakness,37.60675203161407,14,Red
+827,50,Male,asymptomatic,102.0,164.0,131.0,sweating excessively,39.73648169344615,20,Yellow
+828,27,Male,asymptomatic,103.0,,113.0,high fever,39.89923239452476,12,Red
+829,41,Male,asymptomatic,85.0,159.0,104.0,diarrhea,38.58759700948108,14,Red
+830,45,Male,non-anginal,79.0,202.0,88.0,severe weakness,36.15453949883787,15,Red
+831,23,Male,asymptomatic,,223.0,105.0,cough,36.579534284327806,21,Yellow
+832,48,Male,atypical angina,86.0,223.0,121.0,injury,36.095398010739125,19,Red
+833,49,Male,non-anginal,100.0,150.0,126.0,vomiting,38.541418322978885,15,Yellow
+834,38,Male,asymptomatic,114.0,159.0,130.0,vomiting,37.75505464651732,17,Yellow
+835,50,Male,asymptomatic,91.0,236.0,93.0,injury,36.534840425695975,13,Green
+836,29,Male,asymptomatic,107.0,185.0,130.0,injury,36.3253459239938,11,Yellow
+837,29,Male,asymptomatic,67.0,195.0,110.0,severe weakness,36.92533417044391,12,Red
+838,47,Male,asymptomatic,77.0,186.0,118.0,diarrhea,38.87510316758907,13,Red
+839,25,Male,asymptomatic,141.0,239.0,124.0,high fever,39.75835691030058,16,Red
+840,26,Male,asymptomatic,95.0,215.0,112.0,severe weakness,36.43792686016355,20,Red
+841,26,Male,non-anginal,91.0,255.0,115.0,diarrhea,37.605720401794535,18,Yellow
+842,25,Male,asymptomatic,101.0,201.0,108.0,sweating excessively,39.25871456406806,11,Yellow
+843,31,Male,asymptomatic,106.0,146.0,121.0,vomiting,37.83486044561954,19,Yellow
+844,20,Male,asymptomatic,110.0,201.0,85.0,cough,36.41303664069409,20,Green
+845,30,Male,non-anginal,100.0,171.0,104.0,diarrhea,37.85440366316084,19,Yellow
+846,47,Male,non-anginal,111.0,,131.0,sweating excessively,38.87078238746631,14,Yellow
+847,24,Female,asymptomatic,110.0,176.0,130.0,vomiting,38.226534656299094,13,Yellow
+848,29,Male,asymptomatic,140.0,201.0,105.0,shortness of breath,36.29885953140192,30,Red
+849,48,Female,atypical angina,126.0,216.0,105.0,shortness of breath,36.28681850541236,29,Red
+850,48,Male,asymptomatic,,194.0,105.0,cough,36.13427057674762,18,Green
+851,48,Male,non-anginal,116.0,236.0,87.0,injury,36.434431094629424,17,Green
+852,29,Male,typical angina,138.0,207.0,95.0,cough,35.96060062043508,25,Yellow
+853,39,Male,asymptomatic,86.0,183.0,95.0,injury,36.05094846425415,16,Red
+854,32,Male,typical angina,99.0,178.0,106.0,diarrhea,38.54239879531243,20,Yellow
+855,49,Male,asymptomatic,123.0,181.0,102.0,high fever,38.4515227488582,14,Yellow
+856,30,Male,non-anginal,111.0,193.0,123.0,high fever,38.496702301625604,11,Yellow
+857,34,Male,non-anginal,84.0,210.0,110.0,severe weakness,36.10578116012201,14,Red
+858,27,Male,typical angina,120.0,194.0,102.0,rash,36.972924724887505,14,Green
+859,36,Male,non-anginal,76.0,180.0,115.0,diarrhea,38.85345859935302,17,Red
+860,40,Male,non-anginal,137.0,162.0,90.0,rash,37.46637946044143,14,Green
+861,30,Male,asymptomatic,159.0,163.0,96.0,cough,36.616767055011906,22,Yellow
+862,30,Male,non-anginal,129.0,199.0,125.0,high fever,39.144085358320446,18,Red
+863,37,Male,non-anginal,136.0,180.0,120.0,high fever,41.90784781594041,16,Red
+864,37,Male,asymptomatic,128.0,177.0,120.0,rash,37.3111510184916,17,Yellow
+865,42,Male,non-anginal,103.0,188.0,91.0,injury,36.41038892159855,14,Green
+866,37,Male,atypical angina,91.0,180.0,107.0,severe weakness,37.903091619911756,18,Red
+867,41,Male,asymptomatic,139.0,218.0,136.0,shortness of breath,36.130671651440586,29,Red
+868,40,Male,asymptomatic,,231.0,102.0,cough,36.29322505409644,19,Green
+869,26,Male,asymptomatic,100.0,221.0,121.0,sweating excessively,38.292545243297475,16,Yellow
+870,45,Male,asymptomatic,127.0,211.0,130.0,shortness of breath,36.5538018562953,31,Red
+871,41,Male,asymptomatic,141.0,163.0,105.0,shortness of breath,36.74402083582031,26,Red
+872,22,Male,asymptomatic,127.0,197.0,103.0,cough,36.788295124663875,20,Green
+873,38,Male,asymptomatic,115.0,248.0,112.0,vomiting,37.226923861847425,15,Yellow
+874,42,Male,asymptomatic,110.0,212.0,119.0,shortness of breath,36.205076685259485,22,Yellow
+875,32,Male,asymptomatic,90.0,158.0,95.0,severe weakness,36.40605914198745,18,Red
+876,42,Male,asymptomatic,77.0,,89.0,severe weakness,37.11876977034422,17,Red
+877,26,Male,asymptomatic,153.0,201.0,110.0,high fever,41.442447495749995,11,Red
+878,33,Male,asymptomatic,88.0,,87.0,diarrhea,38.1412590426082,19,Red
+879,45,Male,asymptomatic,,163.0,99.0,cough,36.71652967419062,17,Green
+880,40,Male,asymptomatic,112.0,246.0,104.0,injury,36.45473746199505,15,Green
+881,37,Male,asymptomatic,122.0,161.0,106.0,sweating excessively,38.871001371664846,14,Yellow
+882,39,Male,asymptomatic,113.0,163.0,94.0,injury,36.38017356816272,15,Green
+883,41,Male,asymptomatic,116.0,180.0,97.0,rash,37.767516607461516,16,Green
+884,31,Male,asymptomatic,113.0,183.0,86.0,injury,36.76109842346159,10,Green
+885,45,Male,asymptomatic,81.0,,96.0,diarrhea,38.6617049370465,12,Red
+886,48,Male,asymptomatic,142.0,,105.0,cough,36.57690022864832,18,Yellow
+887,40,Male,asymptomatic,113.0,186.0,100.0,rash,37.56293820352506,14,Green
+888,29,Male,non-anginal,138.0,201.0,126.0,high fever,39.867435338320014,18,Red
+889,31,Male,asymptomatic,90.0,160.0,96.0,diarrhea,38.04966429277962,18,Yellow
+890,44,Male,atypical angina,143.0,208.0,101.0,shortness of breath,36.250026516067585,33,Red
+891,46,Male,asymptomatic,120.0,219.0,94.0,cough,36.84746194905725,22,Yellow
+892,37,Male,non-anginal,133.0,196.0,135.0,sweating excessively,37.96358868256325,15,Yellow
+893,30,Male,asymptomatic,154.0,193.0,105.0,shortness of breath,36.06997742390219,25,Yellow
+894,36,Male,non-anginal,119.0,157.0,109.0,shortness of breath,36.80742982003646,30,Red
+895,29,Male,atypical angina,,173.0,102.0,cough,36.17641472037388,16,Green
+896,35,Male,asymptomatic,124.0,224.0,112.0,shortness of breath,36.90422582635756,22,Yellow
+897,25,Male,asymptomatic,100.0,205.0,100.0,injury,36.24424211589096,17,Green
+898,38,Male,asymptomatic,134.0,214.0,104.0,cough,36.262624950408465,22,Yellow
+899,30,Male,asymptomatic,88.0,227.0,103.0,diarrhea,37.73745875744522,20,Red
+900,37,Male,asymptomatic,130.0,190.0,104.0,cough,37.099514640906065,25,Yellow
+901,33,Male,asymptomatic,91.0,249.0,110.0,sweating excessively,37.82103427275833,17,Yellow
+902,38,Male,non-anginal,106.0,,100.0,vomiting,38.32418016340258,18,Yellow
+903,32,Male,asymptomatic,86.0,191.0,120.0,injury,36.429862866386834,17,Red
+904,36,Male,asymptomatic,90.0,169.0,123.0,vomiting,37.45857510415247,18,Yellow
+905,44,Male,asymptomatic,123.0,226.0,104.0,rash,36.974832919896954,11,Green
+906,24,Male,non-anginal,154.0,164.0,120.0,shortness of breath,37.11712525117781,25,Yellow
+907,25,Male,non-anginal,112.0,231.0,90.0,injury,36.12464728758531,16,Green
+908,28,Male,non-anginal,152.0,241.0,100.0,cough,36.606914583602126,21,Yellow
+909,40,Male,asymptomatic,81.0,182.0,125.0,injury,36.636939746355324,17,Red
+910,45,Male,non-anginal,134.0,210.0,136.0,high fever,39.859503767883844,16,Red
+911,49,Female,asymptomatic,76.0,210.0,115.0,severe weakness,37.84188248794532,14,Red
+912,36,Male,asymptomatic,137.0,240.0,144.0,high fever,40.032919641224524,14,Red
+913,20,Male,asymptomatic,103.0,239.0,131.0,sweating excessively,38.83471061857754,13,Yellow
+914,22,Male,asymptomatic,139.0,179.0,126.0,high fever,40.56816972932411,18,Red
+915,46,Male,asymptomatic,97.0,215.0,114.0,injury,36.266526445426756,12,Yellow
+916,21,Female,asymptomatic,131.0,150.0,94.0,cough,36.69249212510093,23,Yellow
+917,36,Male,typical angina,100.0,134.0,104.0,injury,36.135555803278734,15,Green
+918,25,Male,asymptomatic,101.0,247.0,99.0,diarrhea,38.132264685444845,15,Yellow
+919,42,Male,asymptomatic,103.0,190.0,123.0,sweating excessively,38.93068303139307,14,Yellow
+920,26,Male,atypical angina,145.0,172.0,112.0,shortness of breath,36.358383105481686,24,Yellow
+921,24,Male,typical angina,95.0,175.0,103.0,diarrhea,38.63816290051261,21,Yellow
+922,43,Male,asymptomatic,106.0,169.0,123.0,diarrhea,38.64672250079955,12,Yellow
+923,38,Male,asymptomatic,119.0,192.0,124.0,shortness of breath,36.52716239714525,27,Red
+924,37,Male,non-anginal,104.0,210.0,108.0,vomiting,37.21650280000947,21,Yellow
+925,41,Female,atypical angina,79.0,232.0,105.0,diarrhea,37.79936763329715,19,Red
+926,39,Male,atypical angina,117.0,154.0,136.0,shortness of breath,36.75647166258338,24,Yellow
+927,20,Female,asymptomatic,137.0,174.0,100.0,cough,37.00655540048577,21,Yellow
+928,36,Female,asymptomatic,105.0,163.0,128.0,high fever,38.399412304811875,15,Yellow
+929,48,Male,asymptomatic,112.0,211.0,97.0,injury,36.40595191853537,16,Green
+930,46,Male,asymptomatic,98.0,259.0,123.0,injury,36.14282778484627,10,Yellow
+931,43,Male,asymptomatic,133.0,185.0,117.0,high fever,39.89854080733128,14,Red
+932,35,Female,atypical angina,86.0,168.0,102.0,diarrhea,38.570846706291604,17,Red
+933,21,Male,non-anginal,138.0,227.0,97.0,rash,36.86353034980363,18,Green
+934,44,Male,atypical angina,109.0,218.0,104.0,diarrhea,38.92945307870675,11,Yellow
+935,36,Male,non-anginal,99.0,193.0,111.0,rash,36.919182946490125,17,Yellow
+936,34,Male,non-anginal,147.0,170.0,102.0,high fever,40.55432253904634,16,Red
+937,48,Male,atypical angina,123.0,206.0,134.0,high fever,41.84018723711586,19,Red
+938,36,Male,asymptomatic,127.0,162.0,121.0,rash,36.56386500088901,12,Yellow
+939,48,Female,non-anginal,118.0,176.0,137.0,shortness of breath,35.93706932730168,29,Red
+940,49,Male,atypical angina,76.0,174.0,118.0,severe weakness,36.33224469827166,17,Red
+941,45,Male,typical angina,99.0,222.0,114.0,injury,36.9154677030326,16,Yellow
+942,21,Female,typical angina,151.0,239.0,100.0,cough,36.54879794864471,23,Yellow
+943,21,Male,atypical angina,97.0,226.0,110.0,severe weakness,36.1210030007331,20,Red
+944,31,Male,non-anginal,117.0,152.0,105.0,rash,37.146584415514496,21,Yellow
+945,37,Male,asymptomatic,123.0,235.0,136.0,high fever,38.82680596828854,19,Yellow
+946,50,Female,non-anginal,138.0,164.0,106.0,rash,36.733397204914176,18,Green
+947,23,Female,non-anginal,109.0,200.0,106.0,high fever,38.84760102364715,15,Yellow
+948,20,Female,typical angina,89.0,223.0,118.0,injury,36.598930799738184,14,Red
+949,43,Male,asymptomatic,149.0,196.0,99.0,cough,36.57158432131555,22,Yellow
+950,40,Male,asymptomatic,128.0,163.0,136.0,shortness of breath,36.418811946720965,23,Yellow
+951,38,Female,typical angina,89.0,226.0,95.0,diarrhea,38.21856067283985,11,Red
+952,24,Male,asymptomatic,125.0,237.0,139.0,high fever,38.94289041513771,15,Yellow
+953,40,Male,non-anginal,142.0,202.0,110.0,cough,36.408634403453526,26,Red
+954,30,Male,asymptomatic,85.0,223.0,113.0,diarrhea,37.656021079376515,16,Red
+955,44,Male,non-anginal,102.0,247.0,103.0,diarrhea,37.80997374911924,16,Yellow
+956,42,Male,asymptomatic,96.0,214.0,129.0,injury,36.54537731179841,19,Yellow
+957,43,Male,asymptomatic,111.0,172.0,103.0,high fever,39.459270925508044,17,Red
+958,30,Male,asymptomatic,154.0,169.0,107.0,cough,37.106754997555505,24,Yellow
+959,31,Male,asymptomatic,94.0,235.0,87.0,severe weakness,37.79046632618743,17,Red
+960,38,Male,non-anginal,103.0,230.0,97.0,injury,36.5011853675926,18,Green
+961,37,Female,asymptomatic,106.0,224.0,108.0,rash,36.793080601614875,11,Green
+962,40,Male,typical angina,93.0,195.0,115.0,severe weakness,36.36644288569991,13,Red
+963,48,Female,atypical angina,94.0,245.0,121.0,injury,36.25493186951922,12,Yellow
+964,27,Male,non-anginal,118.0,200.0,117.0,vomiting,37.421999347807905,17,Yellow
+965,28,Female,asymptomatic,116.0,215.0,116.0,rash,37.3538538977474,14,Yellow
+966,22,Male,non-anginal,107.0,215.0,120.0,sweating excessively,39.19271488510385,17,Yellow
+967,41,Male,non-anginal,94.0,169.0,127.0,sweating excessively,39.20233088713927,17,Yellow
+968,50,Male,asymptomatic,124.0,199.0,115.0,rash,37.530129622253526,11,Yellow
+969,39,Female,non-anginal,107.0,170.0,99.0,rash,37.426877684257896,18,Green
+970,45,Male,non-anginal,149.0,201.0,128.0,shortness of breath,36.47737739589367,28,Red
+971,41,Female,atypical angina,91.0,201.0,96.0,diarrhea,37.694861786339835,19,Yellow
+972,20,Male,asymptomatic,149.0,180.0,122.0,shortness of breath,36.767847339482,23,Yellow
+973,44,Male,asymptomatic,132.0,256.0,121.0,shortness of breath,36.7630153838891,19,Yellow
+974,44,Male,atypical angina,78.0,220.0,89.0,severe weakness,37.10672097998695,15,Red
+975,28,Male,asymptomatic,92.0,213.0,104.0,diarrhea,38.9979087892429,13,Yellow
+976,40,Male,asymptomatic,109.0,159.0,112.0,high fever,40.697938559925674,13,Red
+977,50,Male,non-anginal,141.0,216.0,104.0,high fever,38.49870098783602,19,Yellow
+978,41,Male,asymptomatic,107.0,163.0,91.0,cough,36.33657123463701,20,Green
+979,44,Male,non-anginal,98.0,229.0,138.0,sweating excessively,37.042443512302924,19,Yellow
+980,20,Male,typical angina,99.0,210.0,119.0,rash,36.70644688733823,17,Yellow
+981,22,Female,asymptomatic,115.0,247.0,99.0,sweating excessively,38.600463402708634,19,Yellow
+982,46,Female,non-anginal,98.0,173.0,102.0,vomiting,38.33979007286424,16,Yellow
+983,47,Male,asymptomatic,119.0,184.0,99.0,shortness of breath,36.77704362193253,31,Red
+984,49,Female,non-anginal,104.0,213.0,121.0,sweating excessively,36.92742310124092,16,Yellow
+985,32,Male,asymptomatic,120.0,191.0,99.0,rash,37.22586084490165,15,Green
+986,32,Male,asymptomatic,104.0,205.0,103.0,injury,36.9333872037548,19,Green
+987,31,Male,non-anginal,114.0,176.0,135.0,shortness of breath,36.06961238081706,20,Yellow
+988,20,Male,non-anginal,93.0,190.0,100.0,diarrhea,37.578536549223706,10,Yellow
+989,31,Male,asymptomatic,154.0,170.0,113.0,shortness of breath,36.12032537915367,22,Yellow
+990,46,Male,non-anginal,99.0,157.0,129.0,injury,36.48362684393255,17,Yellow
+991,32,Female,non-anginal,106.0,239.0,130.0,high fever,39.90203979223909,15,Red
+992,21,Male,asymptomatic,152.0,240.0,126.0,shortness of breath,36.66928439610509,26,Red
+993,37,Male,asymptomatic,122.0,239.0,111.0,high fever,40.907414367280424,13,Red
+994,46,Male,asymptomatic,114.0,179.0,107.0,rash,36.75030090644428,15,Green
+995,44,Male,asymptomatic,108.0,197.0,103.0,sweating excessively,39.8001122961624,16,Yellow
+996,25,Female,non-anginal,117.0,183.0,98.0,injury,36.26293135214629,16,Green
+997,26,Male,asymptomatic,124.0,151.0,133.0,high fever,39.85547025574556,15,Red
+998,28,Female,non-anginal,135.0,198.0,98.0,cough,36.959569217869294,20,Green
+999,48,Male,atypical angina,116.0,156.0,105.0,rash,37.70064234283789,17,Green
+1000,39,Male,asymptomatic,113.0,207.0,137.0,sweating excessively,38.37766189182527,14,Yellow
+1001,45,Male,asymptomatic,115.0,159.0,122.0,injury,36.50809414876761,13,Yellow
+1002,25,Female,asymptomatic,100.0,184.0,103.0,high fever,41.81628111764621,20,Red
+1003,39,Male,non-anginal,103.0,241.0,101.0,vomiting,37.6399175251235,16,Yellow
+1004,22,Male,non-anginal,111.0,220.0,118.0,shortness of breath,36.177989249749444,26,Red
+1005,34,Male,atypical angina,86.0,204.0,139.0,sweating excessively,39.931322354226936,16,Red
+1006,44,Male,non-anginal,115.0,212.0,106.0,injury,36.234367441977916,13,Green
+1007,47,Male,non-anginal,111.0,179.0,102.0,rash,37.72155853219606,13,Green
+1008,42,Female,non-anginal,133.0,149.0,126.0,shortness of breath,35.87912276831622,29,Red
+1009,36,Female,asymptomatic,97.0,165.0,102.0,vomiting,37.15932844823987,14,Yellow
+1010,31,Female,non-anginal,129.0,215.0,97.0,cough,36.060243895285275,22,Yellow
+1011,29,Male,asymptomatic,133.0,157.0,104.0,high fever,40.428823439642954,19,Red
+1012,30,Female,asymptomatic,122.0,172.0,120.0,shortness of breath,36.16176660181932,27,Red
+1013,35,Male,non-anginal,128.0,218.0,108.0,rash,36.897005369191184,14,Green
+1014,44,Female,non-anginal,147.0,133.0,103.0,high fever,41.14337219609993,16,Red
+1015,42,Female,non-anginal,121.0,213.0,131.0,high fever,40.128417427698956,14,Red
+1016,27,Male,asymptomatic,90.0,204.0,98.0,diarrhea,37.97201351306481,16,Yellow
+1017,33,Male,asymptomatic,96.0,155.0,106.0,vomiting,38.32566391340875,15,Yellow
+1018,43,Female,asymptomatic,117.0,245.0,103.0,injury,36.195422836870776,20,Green
+1019,25,Male,atypical angina,126.0,217.0,119.0,sweating excessively,39.75644885188774,15,Yellow
+1020,48,Male,asymptomatic,90.0,164.0,114.0,sweating excessively,37.36482027462037,14,Yellow
+1021,45,Male,asymptomatic,119.0,188.0,94.0,cough,36.126719532151185,18,Green
+1022,34,Male,typical angina,132.0,183.0,111.0,shortness of breath,36.14060125569485,22,Yellow
+1023,44,Female,asymptomatic,89.0,212.0,122.0,severe weakness,36.234948459218614,14,Red
+1024,26,Female,non-anginal,78.0,221.0,105.0,severe weakness,37.827109678429416,12,Red
+1025,49,Male,non-anginal,91.0,181.0,108.0,severe weakness,36.683597618532204,13,Red
+1026,35,Male,atypical angina,85.0,243.0,100.0,diarrhea,37.762079154755234,11,Red
+1027,41,Male,asymptomatic,106.0,171.0,95.0,diarrhea,39.15200445623425,11,Yellow
+1028,24,Male,non-anginal,87.0,237.0,103.0,diarrhea,37.79667846791823,13,Red
+1029,35,Male,asymptomatic,145.0,242.0,132.0,high fever,38.38307667437984,12,Yellow
+1030,39,Male,asymptomatic,78.0,221.0,97.0,severe weakness,36.02034624039463,20,Red
+1031,49,Female,asymptomatic,97.0,209.0,115.0,vomiting,37.9716748905124,14,Yellow
+1032,38,Male,asymptomatic,78.0,198.0,95.0,diarrhea,38.18277611461849,18,Red
+1033,26,Male,typical angina,134.0,191.0,109.0,rash,36.56655357421344,14,Green
+1034,43,Female,asymptomatic,136.0,208.0,119.0,high fever,39.594727169083875,14,Red
+1035,35,Female,non-anginal,89.0,180.0,113.0,injury,35.9118077122914,13,Red
+1036,41,Male,atypical angina,114.0,256.0,97.0,shortness of breath,36.48514119477355,29,Red
+1037,38,Male,non-anginal,114.0,229.0,136.0,high fever,38.44375883501686,14,Yellow
+1038,35,Female,asymptomatic,127.0,184.0,130.0,shortness of breath,36.99724604560163,29,Red
+1039,32,Male,asymptomatic,91.0,182.0,103.0,diarrhea,37.84625326365192,16,Yellow
+1040,27,Male,asymptomatic,134.0,209.0,108.0,rash,37.55887402480633,17,Green
+1041,48,Male,asymptomatic,126.0,169.0,116.0,sweating excessively,38.43990773336305,11,Yellow
+1042,31,Female,asymptomatic,86.0,156.0,103.0,diarrhea,38.17806618324548,16,Red
+1043,31,Male,non-anginal,89.0,158.0,107.0,diarrhea,37.32989002348686,17,Red
+1044,25,Male,asymptomatic,125.0,226.0,137.0,high fever,39.75333124718465,19,Red
+1045,23,Male,typical angina,139.0,200.0,104.0,cough,36.04486860123758,21,Yellow
+1046,45,Female,atypical angina,94.0,222.0,108.0,diarrhea,38.84853933028666,19,Yellow
+1047,35,Female,asymptomatic,139.0,195.0,104.0,rash,36.867080677525976,16,Green
+1048,32,Male,asymptomatic,97.0,159.0,100.0,injury,35.887796848678946,20,Green
+1049,44,Male,atypical angina,152.0,198.0,122.0,shortness of breath,36.80884764533672,26,Red
+1050,29,Female,asymptomatic,95.0,166.0,115.0,severe weakness,37.63943279853682,18,Red
+1051,44,Male,non-anginal,87.0,197.0,113.0,injury,36.64891224550757,12,Red
+1052,44,Male,non-anginal,88.0,184.0,115.0,severe weakness,35.89371659961869,19,Red
+1053,29,Male,atypical angina,118.0,210.0,97.0,sweating excessively,39.03704472483078,14,Yellow
+1054,35,Male,asymptomatic,143.0,211.0,105.0,cough,36.139298071189245,24,Yellow
+1055,43,Female,non-anginal,112.0,190.0,120.0,injury,36.70937674419802,17,Yellow
+1056,33,Female,atypical angina,93.0,179.0,104.0,severe weakness,37.422208299602325,12,Red
+1057,34,Male,asymptomatic,98.0,164.0,96.0,diarrhea,38.17018677396259,17,Yellow
+1058,22,Male,atypical angina,101.0,183.0,108.0,rash,36.676605174930316,17,Green
+1059,35,Male,asymptomatic,104.0,195.0,116.0,vomiting,37.50589115538417,17,Yellow
+1060,34,Male,non-anginal,148.0,237.0,129.0,high fever,39.74172290175994,12,Red
+1061,40,Male,atypical angina,118.0,206.0,96.0,high fever,39.48080088483343,15,Red
+1062,22,Male,typical angina,96.0,205.0,102.0,vomiting,37.873823965735006,13,Yellow
+1063,46,Male,atypical angina,93.0,208.0,115.0,severe weakness,37.80796914191309,18,Red
+1064,30,Male,non-anginal,94.0,212.0,104.0,injury,36.44946801437819,15,Green
+1065,28,Male,non-anginal,82.0,173.0,103.0,diarrhea,38.206492586431025,16,Red
+1066,47,Male,non-anginal,99.0,201.0,99.0,severe weakness,36.82375964904571,15,Red
+1067,36,Male,asymptomatic,166.0,168.0,102.0,cough,36.336454232590036,19,Green
+1068,41,Male,non-anginal,72.0,198.0,118.0,severe weakness,36.123998277635756,14,Red
+1069,45,Male,atypical angina,101.0,178.0,103.0,severe weakness,37.74387848775705,17,Green
+1070,23,Female,non-anginal,95.0,207.0,113.0,severe weakness,36.73615495550981,11,Red
+1071,36,Male,typical angina,115.0,178.0,127.0,injury,36.13030005434889,13,Yellow
+1072,42,Female,asymptomatic,123.0,212.0,103.0,shortness of breath,36.45858641470971,23,Yellow
+1073,33,Female,non-anginal,85.0,244.0,106.0,injury,36.551764131652206,19,Red
+1074,37,Male,asymptomatic,111.0,169.0,129.0,sweating excessively,37.060082815391475,18,Yellow
+1075,43,Male,asymptomatic,157.0,221.0,98.0,shortness of breath,36.316259649220186,33,Red
+1076,33,Male,asymptomatic,114.0,217.0,107.0,sweating excessively,38.10702166297421,10,Yellow
+1077,48,Male,asymptomatic,145.0,164.0,96.0,cough,36.34426879849921,19,Yellow
+1078,33,Male,asymptomatic,113.0,206.0,125.0,high fever,38.84607416944966,16,Yellow
+1079,42,Male,asymptomatic,131.0,210.0,117.0,high fever,41.64650094091855,18,Red
+1080,39,Male,non-anginal,103.0,230.0,124.0,sweating excessively,39.381406845466415,12,Yellow
+1081,46,Male,atypical angina,96.0,205.0,93.0,severe weakness,36.74240109992281,15,Red
+1082,28,Male,asymptomatic,127.0,201.0,131.0,sweating excessively,39.811166035215315,21,Yellow
+1083,49,Female,non-anginal,108.0,172.0,107.0,cough,36.90563444808685,21,Yellow
+1084,46,Female,asymptomatic,108.0,207.0,127.0,vomiting,38.19186250904317,18,Yellow
+1085,48,Male,non-anginal,129.0,216.0,105.0,cough,36.53117347862626,20,Green
+1086,26,Male,asymptomatic,100.0,226.0,111.0,diarrhea,38.4902200324694,13,Yellow
+1087,41,Male,non-anginal,96.0,176.0,109.0,vomiting,37.73848945560291,10,Yellow
+1088,47,Female,atypical angina,138.0,178.0,125.0,shortness of breath,36.14476029226556,25,Yellow
+1089,35,Male,asymptomatic,98.0,197.0,106.0,vomiting,37.1133386991683,20,Yellow
+1090,45,Female,atypical angina,131.0,168.0,131.0,shortness of breath,36.03018847530569,27,Red
+1091,32,Male,non-anginal,121.0,188.0,115.0,shortness of breath,36.883744308111496,23,Yellow
+1092,36,Male,asymptomatic,163.0,208.0,137.0,shortness of breath,36.72166783499219,25,Yellow
+1093,32,Female,asymptomatic,99.0,224.0,128.0,vomiting,38.30571432098921,16,Yellow
+1094,47,Female,asymptomatic,120.0,216.0,122.0,high fever,38.73658690957646,19,Yellow
+1095,48,Male,asymptomatic,113.0,184.0,104.0,injury,36.198994602113174,10,Green
+1096,45,Male,asymptomatic,109.0,217.0,103.0,injury,36.12030684054879,20,Green
+1097,20,Male,asymptomatic,113.0,232.0,114.0,vomiting,38.01325045976895,15,Yellow
+1098,43,Male,asymptomatic,95.0,175.0,135.0,sweating excessively,37.0384286334452,16,Yellow
+1099,43,Male,non-anginal,131.0,233.0,102.0,cough,36.25248277695589,22,Yellow
+1100,38,Male,non-anginal,128.0,217.0,107.0,high fever,38.99590586654504,15,Yellow
+1101,48,Male,asymptomatic,146.0,204.0,125.0,high fever,39.120548574572396,15,Red
+1102,27,Female,asymptomatic,92.0,163.0,122.0,injury,36.40449180984104,12,Yellow
+1103,42,Male,typical angina,143.0,162.0,123.0,shortness of breath,36.70070394631274,29,Red
+1104,35,Male,typical angina,88.0,233.0,90.0,severe weakness,36.949982672555244,13,Red
+1105,38,Female,asymptomatic,134.0,178.0,104.0,shortness of breath,36.793874371676424,19,Yellow
+1106,39,Female,atypical angina,119.0,193.0,111.0,shortness of breath,35.936155941710446,28,Red
+1107,42,Male,non-anginal,89.0,154.0,117.0,diarrhea,38.266522115382834,15,Red
+1108,21,Male,atypical angina,143.0,218.0,133.0,high fever,38.21266989617662,19,Yellow
+1109,30,Male,atypical angina,110.0,156.0,117.0,high fever,40.867216056202494,11,Red
+1110,42,Male,non-anginal,93.0,157.0,101.0,severe weakness,37.98153791799921,15,Red
+1111,50,Male,non-anginal,78.0,189.0,95.0,diarrhea,38.80059020642983,12,Red
+1112,27,Male,asymptomatic,75.0,191.0,103.0,severe weakness,36.88916352567633,14,Red
+1113,43,Male,asymptomatic,104.0,192.0,103.0,diarrhea,37.56086854623265,15,Yellow
+1114,35,Female,asymptomatic,118.0,179.0,123.0,sweating excessively,39.06630892421362,16,Yellow
+1115,28,Female,non-anginal,102.0,205.0,111.0,diarrhea,38.119764924513284,13,Yellow
+1116,46,Male,asymptomatic,117.0,169.0,115.0,sweating excessively,39.81099758923861,17,Yellow
+1117,40,Male,typical angina,112.0,158.0,99.0,vomiting,37.66846624138773,15,Yellow
+1118,45,Female,asymptomatic,113.0,177.0,106.0,vomiting,38.22976173177258,13,Yellow
+1119,50,Female,atypical angina,98.0,171.0,100.0,sweating excessively,39.92373874541175,12,Yellow
+1120,20,Male,typical angina,105.0,232.0,98.0,diarrhea,38.69988761327471,14,Yellow
+1121,50,Female,asymptomatic,109.0,239.0,103.0,diarrhea,37.70092061938116,19,Yellow
+1122,47,Female,asymptomatic,103.0,181.0,108.0,diarrhea,38.13665135763699,19,Yellow
+1123,41,Male,non-anginal,106.0,118.0,121.0,high fever,39.87530186817222,19,Red
+1124,35,Female,non-anginal,122.0,149.0,136.0,shortness of breath,36.37552492193372,28,Red
+1125,43,Male,asymptomatic,142.0,185.0,127.0,high fever,39.57909652189373,20,Red
+1126,45,Male,asymptomatic,83.0,190.0,100.0,diarrhea,38.97586448043352,13,Red
+1127,35,Male,asymptomatic,86.0,153.0,94.0,diarrhea,37.51674614683409,18,Red
+1128,50,Male,asymptomatic,81.0,209.0,97.0,severe weakness,36.719856056206524,19,Red
+1129,45,Male,atypical angina,83.0,210.0,93.0,diarrhea,37.71343395821396,14,Red
+1130,36,Female,asymptomatic,152.0,240.0,95.0,cough,36.99079249514664,21,Yellow
+1131,37,Female,non-anginal,82.0,188.0,122.0,severe weakness,36.78821436343233,11,Red
+1132,38,Male,typical angina,84.0,160.0,89.0,diarrhea,37.74283280392238,14,Red
+1133,41,Male,non-anginal,111.0,212.0,123.0,injury,36.16709145760672,17,Yellow
+1134,35,Female,asymptomatic,177.0,242.0,104.0,cough,36.0496359702238,20,Green
+1135,41,Male,asymptomatic,134.0,172.0,121.0,high fever,38.240586846167375,15,Yellow
+1136,42,Male,typical angina,118.0,196.0,95.0,cough,36.519636099938545,21,Yellow
+1137,46,Female,atypical angina,104.0,210.0,116.0,vomiting,37.892807856003635,14,Yellow
+1138,46,Female,asymptomatic,95.0,196.0,106.0,severe weakness,37.13741760959169,14,Red
+1139,21,Female,asymptomatic,92.0,191.0,106.0,diarrhea,38.952054408549685,20,Yellow
+1140,24,Male,asymptomatic,131.0,222.0,113.0,shortness of breath,36.313194607052026,32,Red
+1141,41,Female,non-anginal,83.0,251.0,120.0,diarrhea,37.850264491696926,11,Red
+1142,39,Female,non-anginal,139.0,198.0,121.0,high fever,38.15191408093774,16,Yellow
+1143,39,Female,non-anginal,93.0,196.0,106.0,diarrhea,38.87910878694883,18,Yellow
+1144,39,Male,asymptomatic,149.0,198.0,125.0,high fever,39.20126952838891,13,Red
+1145,20,Female,asymptomatic,87.0,160.0,104.0,diarrhea,38.285755355943294,17,Red
+1146,34,Female,atypical angina,109.0,232.0,105.0,diarrhea,37.48191278367517,16,Yellow
+1147,47,Male,asymptomatic,134.0,210.0,104.0,shortness of breath,36.142155913716046,19,Yellow
+1148,29,Female,non-anginal,154.0,151.0,128.0,shortness of breath,36.11389832178081,32,Red
+1149,22,Male,asymptomatic,88.0,158.0,102.0,diarrhea,37.86247501056087,10,Red
+1150,48,Male,asymptomatic,96.0,222.0,128.0,sweating excessively,37.9956618430241,18,Yellow
+1151,21,Female,non-anginal,109.0,195.0,96.0,injury,36.516935304302166,17,Green
+1152,34,Female,asymptomatic,145.0,233.0,121.0,high fever,38.77318087944404,16,Yellow
+1153,49,Male,non-anginal,89.0,147.0,104.0,diarrhea,37.97515872527878,15,Red
+1154,44,Female,atypical angina,97.0,237.0,109.0,diarrhea,37.9233646750606,17,Yellow
+1155,35,Female,non-anginal,104.0,236.0,116.0,vomiting,37.21980394049829,14,Yellow
+1156,26,Male,asymptomatic,109.0,177.0,120.0,injury,36.190116176377224,15,Yellow
+1157,35,Male,asymptomatic,100.0,226.0,105.0,diarrhea,38.756744214920886,17,Yellow
+1158,46,Male,asymptomatic,124.0,185.0,98.0,rash,37.04087730115874,14,Green
+1159,49,Female,atypical angina,92.0,162.0,96.0,diarrhea,37.62496999562031,19,Yellow
+1160,42,Male,atypical angina,94.0,238.0,110.0,vomiting,37.96701893110385,15,Yellow
+1161,41,Male,atypical angina,123.0,232.0,117.0,sweating excessively,39.197023419218084,17,Yellow
+1162,41,Female,atypical angina,112.0,155.0,110.0,vomiting,38.24967754348888,16,Yellow
+1163,49,Female,asymptomatic,128.0,249.0,100.0,cough,35.88959678690095,20,Green
+1164,48,Male,typical angina,96.0,212.0,129.0,injury,36.66383539013007,10,Yellow
+1165,43,Female,non-anginal,111.0,172.0,112.0,high fever,40.313165134335286,12,Red
+1166,38,Male,asymptomatic,124.0,236.0,100.0,cough,36.578104957607124,22,Yellow
+1167,27,Male,asymptomatic,116.0,224.0,119.0,high fever,41.86616138438255,17,Red
+1168,47,Male,asymptomatic,118.0,195.0,103.0,sweating excessively,39.640740194918145,14,Yellow
+1169,25,Male,asymptomatic,109.0,227.0,114.0,injury,36.64223482689314,14,Yellow
+1170,24,Male,atypical angina,126.0,236.0,106.0,shortness of breath,36.658653626210615,26,Red
+1171,31,Male,asymptomatic,139.0,188.0,110.0,rash,37.14316292817152,12,Green
+1172,44,Male,asymptomatic,148.0,189.0,101.0,cough,36.20529880862247,22,Yellow
+1173,39,Male,asymptomatic,101.0,188.0,98.0,diarrhea,38.50960826605224,17,Yellow
+1174,40,Female,non-anginal,146.0,191.0,113.0,shortness of breath,36.27290629697355,19,Yellow
+1175,43,Male,asymptomatic,113.0,228.0,105.0,vomiting,37.70070294018282,11,Yellow
+1176,42,Female,non-anginal,117.0,161.0,98.0,rash,37.98994183128593,16,Green
+1177,45,Female,asymptomatic,112.0,150.0,123.0,vomiting,38.297752793905715,15,Yellow
+1178,26,Female,non-anginal,144.0,195.0,86.0,cough,36.2097079963065,19,Yellow
+1179,34,Male,atypical angina,156.0,221.0,89.0,cough,36.72015811054002,17,Yellow
+1180,32,Male,atypical angina,129.0,173.0,102.0,cough,36.302621588346554,21,Yellow
+1181,44,Female,non-anginal,105.0,243.0,130.0,sweating excessively,39.335196646329884,18,Yellow
+1182,31,Female,atypical angina,126.0,232.0,91.0,rash,36.5901609637442,15,Green
+1183,24,Female,typical angina,105.0,161.0,109.0,diarrhea,38.746828233382075,12,Yellow
+1184,44,Male,non-anginal,134.0,182.0,103.0,rash,37.82899028303205,17,Green
+1185,42,Male,asymptomatic,136.0,173.0,99.0,high fever,40.49565991741714,16,Red
+1186,42,Male,asymptomatic,88.0,195.0,131.0,sweating excessively,38.58498712226469,16,Red
+1187,23,Male,asymptomatic,150.0,243.0,124.0,shortness of breath,36.28149133389134,28,Red
+1188,22,Male,non-anginal,109.0,215.0,86.0,rash,37.60815297322781,16,Green
+1189,40,Male,asymptomatic,89.0,213.0,120.0,injury,36.44621614567563,12,Red
+1190,42,Male,non-anginal,91.0,170.0,88.0,injury,36.047859786305274,13,Green
+1191,34,Male,asymptomatic,99.0,153.0,117.0,sweating excessively,38.18282446048793,16,Yellow
+1192,31,Male,asymptomatic,122.0,230.0,129.0,vomiting,37.74899840796389,16,Yellow
+1193,46,Male,asymptomatic,92.0,184.0,104.0,severe weakness,37.412305025069124,14,Red
+1194,40,Female,asymptomatic,97.0,152.0,116.0,severe weakness,36.77681602933348,11,Red
+1195,39,Male,typical angina,104.0,217.0,97.0,rash,37.18031286948662,16,Green
+1196,46,Male,typical angina,126.0,181.0,109.0,shortness of breath,36.811650303066195,24,Yellow
+1197,39,Female,non-anginal,145.0,204.0,103.0,shortness of breath,36.90609704421998,28,Red
+1198,39,Female,non-anginal,139.0,150.0,136.0,high fever,41.64827059580571,17,Red
+1199,49,Male,atypical angina,103.0,200.0,117.0,injury,36.25684792261981,17,Yellow
+1200,42,Female,asymptomatic,125.0,196.0,95.0,cough,36.4177576837276,20,Green
+1201,41,Male,asymptomatic,106.0,242.0,108.0,high fever,40.947213380880044,12,Red
+1202,47,Male,non-anginal,126.0,196.0,106.0,high fever,39.11325237057084,14,Red
+1203,37,Female,asymptomatic,135.0,227.0,105.0,shortness of breath,36.34553117007818,35,Red
+1204,35,Male,atypical angina,126.0,194.0,136.0,sweating excessively,37.4953538798721,12,Yellow
+1205,23,Male,asymptomatic,115.0,235.0,116.0,vomiting,37.41486174758655,15,Yellow
+1206,38,Male,asymptomatic,106.0,214.0,100.0,vomiting,38.369613704646206,18,Yellow
+1207,43,Female,asymptomatic,126.0,246.0,105.0,rash,37.25365601357376,14,Green
+1208,35,Male,atypical angina,112.0,178.0,138.0,high fever,39.97944728461228,12,Red
+1209,20,Male,atypical angina,85.0,195.0,99.0,severe weakness,37.48103656704841,17,Red
+1210,27,Male,atypical angina,132.0,182.0,114.0,shortness of breath,36.85598078639552,22,Yellow
+1211,45,Male,non-anginal,148.0,186.0,110.0,high fever,39.03702422635904,14,Red
+1212,23,Female,atypical angina,115.0,221.0,118.0,injury,36.47820639377698,17,Yellow
+1213,44,Male,asymptomatic,124.0,173.0,102.0,cough,36.136534214581864,23,Yellow
+1214,47,Male,asymptomatic,133.0,191.0,111.0,rash,37.32949504536951,15,Yellow
+1215,48,Female,asymptomatic,118.0,191.0,112.0,shortness of breath,36.45710516616536,35,Red
+1216,41,Male,atypical angina,118.0,157.0,110.0,cough,36.22644119694672,20,Green
+1217,34,Male,asymptomatic,118.0,175.0,114.0,rash,37.46491211401119,19,Yellow
+1218,27,Female,asymptomatic,141.0,208.0,93.0,cough,36.85281042152392,23,Yellow
+1219,45,Male,typical angina,120.0,184.0,103.0,high fever,40.245752494518996,18,Red
+1220,24,Male,asymptomatic,82.0,186.0,97.0,diarrhea,37.7262610921358,17,Red
+1221,26,Male,asymptomatic,122.0,126.0,128.0,injury,36.6535240637264,13,Yellow
+1222,32,Female,atypical angina,74.0,184.0,104.0,severe weakness,36.235861163309416,15,Red
+1223,38,Male,non-anginal,92.0,173.0,94.0,diarrhea,38.74613164037316,14,Yellow
+1224,28,Male,atypical angina,109.0,129.0,128.0,high fever,38.79715622048421,19,Yellow
+1225,29,Male,atypical angina,124.0,165.0,89.0,rash,37.61821702914297,16,Green
+1226,29,Male,atypical angina,76.0,,129.0,injury,36.51995644846659,15,Red
+1227,30,Female,typical angina,83.0,252.0,93.0,severe weakness,36.17941483289405,17,Red
+1228,31,Female,atypical angina,81.0,228.0,91.0,severe weakness,36.434000737051704,14,Red
+1229,32,Female,atypical angina,105.0,208.0,128.0,high fever,40.46125194367862,11,Red
+1230,32,Male,atypical angina,117.0,162.0,132.0,sweating excessively,37.38770157575048,14,Yellow
+1231,32,Male,atypical angina,129.0,213.0,98.0,cough,36.62340286231967,19,Green
+1232,33,Male,non-anginal,103.0,180.0,96.0,injury,36.50831240387584,14,Green
+1233,34,Female,atypical angina,119.0,159.0,102.0,injury,36.81620168117477,12,Green
+1234,34,Male,atypical angina,130.0,218.0,104.0,shortness of breath,35.95980173261168,20,Yellow
+1235,34,Male,atypical angina,93.0,225.0,104.0,cough,35.98100526211791,22,Yellow
+1236,35,Female,typical angina,102.0,168.0,129.0,vomiting,37.542224549776726,15,Yellow
+1237,35,Female,asymptomatic,111.0,161.0,121.0,high fever,41.64216672075065,18,Red
+1238,35,Male,atypical angina,84.0,256.0,108.0,diarrhea,38.85683846055375,10,Red
+1239,35,Male,atypical angina,151.0,224.0,113.0,shortness of breath,37.06476810485437,23,Yellow
+1240,36,Male,atypical angina,106.0,160.0,101.0,injury,36.882999543974336,14,Green
+1241,36,Male,non-anginal,92.0,193.0,117.0,severe weakness,37.294428287704605,15,Red
+1242,36,Male,non-anginal,127.0,240.0,94.0,cough,36.941379857460525,18,Green
+1243,36,Male,non-anginal,100.0,165.0,94.0,diarrhea,37.394704902085934,16,Yellow
+1244,37,Female,atypical angina,126.0,235.0,134.0,shortness of breath,36.31965861252442,28,Red
+1245,37,Female,non-anginal,139.0,192.0,99.0,high fever,40.13455977150503,13,Red
+1246,37,Female,asymptomatic,101.0,178.0,136.0,sweating excessively,38.70406237557371,14,Yellow
+1247,37,Male,atypical angina,102.0,250.0,92.0,diarrhea,37.45129291098278,17,Yellow
+1248,37,Male,non-anginal,95.0,187.0,131.0,high fever,41.750655646359164,12,Red
+1249,37,Male,asymptomatic,112.0,157.0,98.0,diarrhea,38.36537357744921,13,Yellow
+1250,37,Male,asymptomatic,88.0,239.0,94.0,injury,36.28801240643323,11,Red
+1251,38,Female,atypical angina,106.0,210.0,116.0,rash,37.51882080184863,11,Yellow
+1252,38,Male,atypical angina,79.0,231.0,119.0,injury,36.98490262498299,14,Red
+1253,38,Male,non-anginal,80.0,170.0,97.0,diarrhea,38.85192850454964,13,Red
+1254,39,Female,non-anginal,103.0,175.0,90.0,rash,37.70084399049412,19,Green
+1255,39,Male,atypical angina,101.0,,125.0,sweating excessively,37.926214398895134,17,Yellow
+1256,39,Male,atypical angina,133.0,207.0,89.0,rash,37.127439975476484,15,Green
+1257,39,Male,atypical angina,162.0,162.0,105.0,shortness of breath,36.98739456161236,23,Yellow
+1258,39,Male,atypical angina,79.0,,107.0,diarrhea,38.26453566054992,13,Red
+1259,39,Male,atypical angina,117.0,159.0,108.0,sweating excessively,38.47738078007007,19,Yellow
+1260,39,Male,non-anginal,90.0,237.0,98.0,diarrhea,37.66873094120533,11,Yellow
+1261,39,Male,non-anginal,160.0,145.0,96.0,cough,36.34033026270321,17,Yellow
+1262,39,Male,asymptomatic,112.0,192.0,100.0,cough,36.8951708748709,25,Yellow
+1263,39,Male,asymptomatic,104.0,252.0,117.0,sweating excessively,37.841258969417666,13,Yellow
+1264,40,Male,atypical angina,127.0,216.0,124.0,high fever,38.88996871663295,17,Yellow
+1265,40,Male,atypical angina,101.0,210.0,100.0,injury,36.292873498050454,16,Green
+1266,40,Male,non-anginal,130.0,184.0,114.0,cough,37.18057476080464,24,Yellow
+1267,40,Male,non-anginal,113.0,207.0,103.0,diarrhea,38.04530095459932,16,Yellow
+1268,40,Male,non-anginal,106.0,,95.0,rash,36.93288608447975,16,Green
+1269,41,Female,atypical angina,147.0,254.0,130.0,shortness of breath,36.671975505851854,22,Yellow
+1270,41,Female,atypical angina,117.0,180.0,128.0,shortness of breath,36.16611083446389,31,Red
+1271,41,Female,atypical angina,81.0,158.0,103.0,severe weakness,36.29433938071184,18,Red
+1272,41,Male,atypical angina,124.0,208.0,118.0,high fever,38.35876291371753,14,Yellow
+1273,41,Male,atypical angina,118.0,186.0,93.0,cough,36.663154085601825,25,Yellow
+1274,41,Male,atypical angina,83.0,215.0,106.0,diarrhea,39.05710728048347,18,Red
+1275,41,Male,asymptomatic,93.0,215.0,93.0,injury,36.45545071111984,18,Green
+1276,42,Female,non-anginal,118.0,178.0,123.0,high fever,40.436705961770535,15,Red
+1277,42,Male,atypical angina,91.0,204.0,107.0,vomiting,38.011959071735106,14,Yellow
+1278,42,Male,atypical angina,130.0,206.0,129.0,high fever,40.192841745870815,18,Red
+1279,42,Male,atypical angina,91.0,202.0,103.0,diarrhea,38.03368878442594,17,Yellow
+1280,42,Male,non-anginal,123.0,180.0,133.0,high fever,39.23060775795393,16,Red
+1281,42,Male,non-anginal,135.0,137.0,105.0,high fever,39.73938337920912,18,Red
+1282,42,Male,asymptomatic,116.0,164.0,99.0,injury,36.878808633091566,19,Green
+1283,43,Female,typical angina,95.0,201.0,98.0,cough,36.29188992397102,23,Yellow
+1284,43,Female,atypical angina,140.0,168.0,111.0,rash,37.39387821832982,16,Yellow
+1285,43,Female,atypical angina,110.0,219.0,124.0,high fever,38.53646707767027,17,Yellow
+1286,43,Female,atypical angina,132.0,175.0,96.0,rash,37.31039569950739,19,Green
+1287,43,Female,atypical angina,102.0,148.0,111.0,rash,37.70192874259366,12,Yellow
+1288,43,Female,atypical angina,105.0,176.0,115.0,sweating excessively,37.61321130701757,15,Yellow
+1289,43,Female,non-anginal,153.0,,110.0,cough,36.911026149905254,19,Yellow
+1290,43,Male,atypical angina,147.0,193.0,97.0,cough,36.824261373666864,21,Yellow
+1291,44,Female,asymptomatic,116.0,204.0,115.0,rash,37.92733882803249,20,Yellow
+1292,44,Male,atypical angina,126.0,176.0,104.0,rash,36.76903085430018,20,Green
+1293,44,Male,atypical angina,113.0,186.0,127.0,sweating excessively,39.1324571580748,21,Yellow
+1294,44,Male,asymptomatic,150.0,230.0,109.0,cough,36.667249244775874,23,Yellow
+1295,45,Female,atypical angina,86.0,142.0,101.0,injury,36.78679930965445,14,Red
+1296,45,Female,atypical angina,179.0,,93.0,cough,36.697039914173,21,Yellow
+1297,45,Female,asymptomatic,141.0,251.0,127.0,shortness of breath,36.529378075644075,25,Yellow
+1298,45,Male,atypical angina,119.0,169.0,121.0,shortness of breath,36.28082489366916,21,Yellow
+1299,45,Male,non-anginal,98.0,,116.0,severe weakness,36.97309105734327,14,Red
+1300,45,Male,asymptomatic,94.0,206.0,104.0,diarrhea,38.34236448740582,18,Yellow
+1301,45,Male,asymptomatic,140.0,171.0,112.0,rash,36.67791866878231,16,Yellow
+1302,46,Female,asymptomatic,98.0,159.0,121.0,vomiting,37.46247188085657,17,Yellow
+1303,46,Male,atypical angina,102.0,206.0,130.0,injury,36.81412237600503,16,Yellow
+1304,46,Male,non-anginal,92.0,206.0,127.0,vomiting,37.207086199715405,19,Yellow
+1305,46,Male,non-anginal,147.0,161.0,101.0,cough,36.875371013971225,22,Yellow
+1306,46,Male,asymptomatic,121.0,230.0,113.0,shortness of breath,36.87484125826937,27,Red
+1307,46,Male,asymptomatic,93.0,230.0,125.0,vomiting,37.74389281898178,18,Yellow
+1308,46,Male,asymptomatic,138.0,170.0,116.0,shortness of breath,36.14592946420859,32,Red
+1309,47,Female,atypical angina,106.0,176.0,139.0,high fever,38.76284138220503,13,Yellow
+1310,47,Female,non-anginal,69.0,,112.0,severe weakness,36.30802297800486,18,Red
+1311,47,Male,typical angina,108.0,207.0,121.0,shortness of breath,36.1757384250011,19,Yellow
+1312,47,Male,atypical angina,157.0,201.0,98.0,cough,37.001032272456484,21,Yellow
+1313,47,Male,asymptomatic,135.0,249.0,102.0,high fever,39.4313757162702,17,Red
+1314,48,Female,atypical angina,,209.0,104.0,cough,36.35743196574222,23,Yellow
+1315,48,Female,atypical angina,113.0,,94.0,rash,37.26102732791615,18,Green
+1316,48,Female,atypical angina,114.0,244.0,105.0,shortness of breath,36.74264958269023,27,Red
+1317,48,Female,non-anginal,82.0,199.0,106.0,injury,36.55908737848647,12,Red
+1318,48,Female,asymptomatic,106.0,155.0,100.0,cough,36.43049597814735,24,Yellow
+1319,48,Female,asymptomatic,106.0,181.0,118.0,high fever,39.42211621763446,20,Red
+1320,48,Female,asymptomatic,154.0,165.0,108.0,cough,36.70412884686912,25,Yellow
+1321,48,Male,atypical angina,99.0,,109.0,cough,36.63033119914171,22,Yellow
+1322,48,Male,atypical angina,127.0,156.0,107.0,shortness of breath,36.30524122323778,18,Yellow
+1323,48,Male,atypical angina,135.0,179.0,95.0,cough,36.01885152380029,22,Yellow
+1324,48,Male,non-anginal,149.0,204.0,120.0,high fever,40.08755883701176,16,Red
+1325,49,Female,atypical angina,112.0,,100.0,cough,36.59403862304149,22,Yellow
+1326,49,Female,atypical angina,111.0,,118.0,shortness of breath,36.57237199389256,22,Yellow
+1327,49,Female,atypical angina,119.0,211.0,135.0,sweating excessively,38.74647387623633,14,Yellow
+1328,49,Female,non-anginal,110.0,158.0,136.0,high fever,39.18299108704128,13,Red
+1329,49,Male,atypical angina,100.0,222.0,130.0,injury,36.658723427455726,18,Yellow
+1330,49,Male,non-anginal,137.0,186.0,113.0,high fever,41.05915697363474,16,Red
+1331,49,Male,asymptomatic,109.0,181.0,108.0,rash,37.024033712825165,17,Green
+1332,49,Male,asymptomatic,111.0,,133.0,sweating excessively,40.018435344333184,16,Red
+1333,50,Female,atypical angina,137.0,168.0,115.0,high fever,41.514394842228924,14,Red
+1334,50,Female,asymptomatic,111.0,166.0,137.0,high fever,41.498710968489355,13,Red
+1335,50,Male,atypical angina,113.0,162.0,105.0,high fever,40.59556972375994,15,Red
+1336,50,Male,atypical angina,135.0,208.0,97.0,cough,36.85311091368404,22,Yellow
+1337,50,Male,atypical angina,82.0,182.0,89.0,diarrhea,38.834000576202754,13,Red
+1338,50,Male,asymptomatic,103.0,135.0,92.0,diarrhea,37.541464883822265,19,Yellow
+1339,50,Male,asymptomatic,113.0,238.0,119.0,vomiting,37.666729673383074,13,Yellow
+1340,45,Female,atypical angina,135.0,203.0,133.0,shortness of breath,36.11196359306856,20,Yellow
+1341,40,Female,non-anginal,143.0,185.0,121.0,shortness of breath,36.82451228133805,28,Red
+1342,38,Female,non-anginal,148.0,213.0,109.0,shortness of breath,35.93296632013827,32,Red
+1343,24,Female,non-anginal,110.0,197.0,115.0,rash,37.80309471530847,17,Yellow
+1344,49,Male,atypical angina,85.0,191.0,92.0,diarrhea,38.40298401105372,11,Red
+1345,21,Male,atypical angina,124.0,168.0,136.0,high fever,40.664139074453225,13,Red
+1346,41,Male,asymptomatic,106.0,179.0,120.0,vomiting,38.09054791326261,13,Yellow
+1347,22,Female,atypical angina,149.0,246.0,138.0,high fever,38.64924189746887,17,Yellow
+1348,45,Female,atypical angina,122.0,,130.0,high fever,40.2198933721564,14,Red
+1349,37,Female,non-anginal,98.0,236.0,88.0,diarrhea,37.59016541472588,17,Yellow
+1350,43,Female,asymptomatic,99.0,183.0,137.0,sweating excessively,38.76833576500342,12,Yellow
+1351,41,Male,atypical angina,112.0,205.0,121.0,diarrhea,37.94235052677633,19,Yellow
+1352,47,Male,atypical angina,134.0,93.0,129.0,high fever,40.44632419926694,16,Red
+1353,23,Male,atypical angina,151.0,199.0,106.0,high fever,41.91156073794987,12,Red
+1354,26,Male,non-anginal,148.0,196.0,122.0,shortness of breath,36.42890234442407,25,Yellow
+1355,24,Female,atypical angina,131.0,170.0,132.0,shortness of breath,36.491754519556004,26,Red
+1356,42,Female,atypical angina,96.0,252.0,102.0,diarrhea,38.13050632276935,14,Yellow
+1357,36,Female,non-anginal,91.0,221.0,113.0,diarrhea,37.68206728092102,18,Yellow
+1358,35,Male,atypical angina,94.0,,111.0,vomiting,38.04972699363213,19,Yellow
+1359,29,Male,atypical angina,113.0,215.0,110.0,shortness of breath,36.62095245118326,31,Red
+1360,44,Male,non-anginal,122.0,198.0,105.0,cough,36.52276912894129,25,Yellow
+1361,41,Male,asymptomatic,129.0,170.0,98.0,cough,36.67151444345975,23,Yellow
+1362,43,Male,asymptomatic,91.0,176.0,116.0,diarrhea,39.04244280322509,15,Yellow
+1363,24,Male,asymptomatic,88.0,184.0,108.0,severe weakness,36.35190794005074,14,Red
+1364,42,Female,atypical angina,106.0,186.0,118.0,diarrhea,37.82977504366801,18,Yellow
+1365,45,Female,atypical angina,119.0,155.0,108.0,cough,36.48880794287993,19,Green
+1366,35,Female,atypical angina,86.0,209.0,99.0,diarrhea,38.68132702576897,14,Red
+1367,36,Female,atypical angina,71.0,250.0,94.0,severe weakness,36.29495069048824,20,Red
+1368,39,Female,atypical angina,90.0,176.0,128.0,sweating excessively,38.50237648629012,14,Yellow
+1369,40,Female,atypical angina,140.0,181.0,134.0,high fever,39.69233448751982,20,Red
+1370,43,Female,atypical angina,144.0,193.0,138.0,high fever,41.02923487424745,19,Red
+1371,47,Male,typical angina,136.0,173.0,112.0,shortness of breath,36.55822329931474,20,Yellow
+1372,43,Male,atypical angina,109.0,214.0,109.0,vomiting,37.44055137294247,17,Yellow
+1373,35,Male,atypical angina,84.0,163.0,119.0,diarrhea,38.49922340089008,12,Red
+1374,39,Male,atypical angina,162.0,192.0,136.0,shortness of breath,36.991064045389315,19,Yellow
+1375,32,Male,atypical angina,97.0,197.0,113.0,diarrhea,38.28384302953001,19,Yellow
+1376,31,Male,atypical angina,162.0,208.0,96.0,cough,36.368359762267865,21,Yellow
+1377,25,Male,non-anginal,95.0,224.0,108.0,diarrhea,38.58154824382734,18,Yellow
+1378,28,Male,non-anginal,98.0,,101.0,diarrhea,38.98933846989126,17,Yellow
+1379,38,Male,asymptomatic,96.0,234.0,90.0,severe weakness,36.8392322240252,15,Red
+1380,32,Female,atypical angina,78.0,243.0,104.0,severe weakness,37.81683359845569,17,Red
+1381,30,Female,atypical angina,114.0,203.0,113.0,shortness of breath,36.210995548031875,20,Yellow
+1382,22,Female,atypical angina,91.0,234.0,117.0,diarrhea,37.927320339306696,16,Yellow
+1383,44,Male,atypical angina,85.0,233.0,106.0,diarrhea,37.872785767374914,16,Red
+1384,49,Male,atypical angina,117.0,198.0,110.0,vomiting,38.38192511194454,16,Yellow
+1385,28,Male,atypical angina,86.0,173.0,105.0,vomiting,37.63564013426821,15,Red
+1386,22,Male,non-anginal,101.0,230.0,132.0,sweating excessively,37.672053781425674,16,Yellow
+1387,21,Male,non-anginal,98.0,251.0,112.0,severe weakness,36.30819291253636,15,Red
+1388,32,Male,asymptomatic,118.0,253.0,107.0,cough,36.20545747675158,18,Green
+1389,31,Male,asymptomatic,111.0,153.0,93.0,rash,37.12052860135956,10,Green
+1390,21,Female,non-anginal,127.0,191.0,139.0,sweating excessively,39.450454784918655,17,Yellow
+1391,44,Male,atypical angina,128.0,192.0,139.0,high fever,40.03764562888897,16,Red
+1392,27,Male,non-anginal,142.0,,109.0,high fever,41.87676309247,17,Red
+1393,38,Male,non-anginal,107.0,171.0,123.0,vomiting,37.173463056577496,12,Yellow
+1394,39,Male,asymptomatic,113.0,93.0,123.0,vomiting,38.17839988852761,16,Yellow
+1395,23,Female,typical angina,138.0,202.0,87.0,rash,36.871759849304865,14,Green
+1396,30,Female,asymptomatic,129.0,243.0,90.0,rash,37.3458905703412,15,Green
+1397,35,Male,atypical angina,87.0,218.0,106.0,diarrhea,38.49607728381469,12,Red
+1398,20,Male,atypical angina,124.0,242.0,110.0,shortness of breath,36.435813654045546,27,Red
+1399,30,Male,atypical angina,145.0,217.0,100.0,shortness of breath,36.5948124960301,20,Yellow
+1400,39,Male,non-anginal,94.0,182.0,101.0,severe weakness,37.350944481081534,15,Red
+1401,37,Male,asymptomatic,158.0,233.0,96.0,shortness of breath,36.76464413368213,22,Yellow
+1402,26,Female,atypical angina,108.0,179.0,121.0,diarrhea,38.92345474572078,16,Yellow
+1403,41,Male,atypical angina,110.0,185.0,136.0,high fever,40.18501832566601,15,Red
+1404,38,Male,non-anginal,112.0,157.0,132.0,sweating excessively,38.50862565158276,14,Yellow
+1405,23,Male,non-anginal,96.0,226.0,106.0,diarrhea,37.626049846040175,13,Yellow
+1406,24,Male,asymptomatic,116.0,,100.0,sweating excessively,37.233491805063196,19,Yellow
+1407,30,Male,non-anginal,124.0,207.0,96.0,cough,36.59859926692937,24,Yellow
+1408,43,Female,asymptomatic,153.0,233.0,127.0,shortness of breath,36.50796775529344,35,Red
+1409,32,Male,asymptomatic,114.0,243.0,133.0,shortness of breath,36.660956418349855,32,Red
+1410,49,Female,typical angina,152.0,191.0,124.0,high fever,39.03385892814675,13,Red
+1411,44,Male,atypical angina,112.0,209.0,120.0,injury,36.94975571331635,16,Yellow
+1412,31,Male,asymptomatic,85.0,255.0,102.0,injury,36.63696932213163,13,Red
+1413,33,Female,asymptomatic,134.0,220.0,103.0,high fever,40.65003527862331,12,Red
+1414,34,Male,typical angina,90.0,166.0,110.0,severe weakness,36.73994791909362,15,Red
+1415,35,Male,atypical angina,106.0,170.0,95.0,diarrhea,38.281354976631214,12,Yellow
+1416,36,Male,atypical angina,105.0,201.0,118.0,high fever,38.62071521271647,17,Yellow
+1417,37,Male,asymptomatic,137.0,182.0,87.0,cough,36.29006149249911,18,Green
+1418,38,Male,asymptomatic,114.0,204.0,98.0,cough,37.007535229528166,18,Green
+1419,38,Male,asymptomatic,81.0,212.0,118.0,severe weakness,37.147810029303066,15,Red
+1420,38,Male,asymptomatic,130.0,123.0,105.0,rash,37.67460650959392,15,Green
+1421,40,Male,asymptomatic,110.0,250.0,126.0,injury,36.388069950138366,13,Yellow
+1422,41,Male,asymptomatic,113.0,249.0,94.0,cough,36.772110714922725,20,Green
+1423,41,Male,asymptomatic,135.0,168.0,106.0,high fever,40.488293452247504,20,Red
+1424,43,Male,asymptomatic,96.0,150.0,120.0,diarrhea,38.19219752217549,16,Yellow
+1425,46,Male,asymptomatic,97.0,224.0,98.0,severe weakness,37.871041778118595,16,Red
+1426,46,Male,asymptomatic,101.0,193.0,117.0,vomiting,38.07331842007088,11,Yellow
+1427,46,Male,asymptomatic,101.0,195.0,118.0,vomiting,38.26119977603043,14,Yellow
+1428,47,Male,non-anginal,97.0,199.0,98.0,diarrhea,38.009410025312924,11,Yellow
+1429,47,Male,asymptomatic,122.0,198.0,123.0,injury,36.07778253438037,19,Yellow
+1430,48,Male,asymptomatic,144.0,224.0,113.0,shortness of breath,36.50434486488831,27,Red
+1431,48,Male,asymptomatic,92.0,241.0,131.0,sweating excessively,37.98837432015879,13,Yellow
+1432,48,Male,asymptomatic,165.0,200.0,106.0,cough,36.03184633920966,24,Yellow
+1433,49,Female,non-anginal,155.0,170.0,89.0,cough,36.80476676409195,21,Yellow
+1434,49,Male,non-anginal,117.0,183.0,111.0,injury,36.27870404268523,18,Yellow
+1435,49,Male,asymptomatic,96.0,190.0,104.0,severe weakness,37.01363291778576,15,Red
+1436,50,Female,non-anginal,130.0,243.0,130.0,high fever,40.90895237344395,18,Red
+1437,50,Male,asymptomatic,120.0,246.0,129.0,sweating excessively,38.623989047786736,14,Yellow
+1438,31,Female,asymptomatic,110.0,181.0,119.0,sweating excessively,38.48961876795216,16,Yellow
+1439,36,Male,asymptomatic,96.0,173.0,113.0,vomiting,37.90380439343999,20,Yellow
+1440,42,Male,asymptomatic,127.0,239.0,104.0,cough,37.06509444002841,21,Yellow
+1441,30,Male,asymptomatic,127.0,184.0,92.0,cough,36.69894509216486,21,Yellow
+1442,36,Male,asymptomatic,106.0,155.0,128.0,vomiting,37.918177797236034,18,Yellow
+1443,36,Male,atypical angina,76.0,183.0,92.0,severe weakness,37.820410446092325,15,Red
+1444,27,Male,non-anginal,103.0,210.0,121.0,high fever,41.07751521200954,14,Red
+1445,25,Female,asymptomatic,132.0,162.0,91.0,cough,36.646033144147765,21,Yellow
+1446,46,Male,asymptomatic,89.0,151.0,96.0,severe weakness,37.59559424092792,18,Red
+1447,28,Male,asymptomatic,114.0,211.0,106.0,diarrhea,38.42604202733052,15,Yellow
+1448,34,Male,asymptomatic,82.0,198.0,101.0,severe weakness,37.4697476034355,18,Red
+1449,32,Male,asymptomatic,130.0,191.0,130.0,shortness of breath,36.54284207153032,21,Yellow
+1450,38,Male,asymptomatic,127.0,,128.0,shortness of breath,36.0732389778681,33,Red
+1451,39,Male,asymptomatic,92.0,156.0,91.0,severe weakness,36.21608615867529,13,Red
+1452,40,Female,asymptomatic,90.0,213.0,107.0,injury,36.96480138810145,16,Green
+1453,43,Male,typical angina,123.0,144.0,103.0,cough,36.00356692340527,20,Green
+1454,45,Male,asymptomatic,126.0,181.0,87.0,cough,36.41574161237417,22,Yellow
+1455,46,Male,asymptomatic,120.0,227.0,87.0,cough,36.29211100613321,20,Green
+1456,46,Male,asymptomatic,100.0,214.0,116.0,injury,37.01958014743834,21,Yellow
+1457,48,Male,asymptomatic,106.0,217.0,115.0,high fever,41.23848409429267,12,Red
+1458,48,Male,asymptomatic,161.0,192.0,100.0,cough,36.56251017646746,24,Yellow
+1459,48,Male,asymptomatic,105.0,242.0,116.0,diarrhea,38.83601867318413,17,Yellow
+1460,48,Male,asymptomatic,149.0,170.0,123.0,shortness of breath,36.784682142305634,33,Red
+1461,50,Male,asymptomatic,107.0,159.0,113.0,high fever,41.66178395792674,16,Red
+1462,27,Male,asymptomatic,91.0,174.0,127.0,sweating excessively,39.17516739603067,15,Yellow
+1463,23,Male,asymptomatic,97.0,,100.0,severe weakness,36.30887423871221,15,Red
+1464,34,Male,asymptomatic,137.0,222.0,131.0,shortness of breath,36.541239860144096,26,Red
+1465,45,Male,non-anginal,118.0,178.0,134.0,high fever,40.38497994724081,14,Red
+1466,30,Male,asymptomatic,125.0,160.0,116.0,rash,37.44361866013923,13,Yellow
+1467,38,Male,asymptomatic,140.0,166.0,92.0,rash,37.13879816728195,19,Green
+1468,34,Male,asymptomatic,160.0,,136.0,shortness of breath,36.57969865178514,28,Red
+1469,39,Male,asymptomatic,83.0,205.0,99.0,diarrhea,37.649233545778536,15,Red
+1470,49,Male,asymptomatic,96.0,189.0,113.0,severe weakness,37.08331797708064,19,Red
+1471,37,Male,asymptomatic,108.0,224.0,106.0,shortness of breath,36.112447433810054,22,Yellow
+1472,20,Male,asymptomatic,97.0,207.0,122.0,sweating excessively,38.20298447128312,16,Yellow
+1473,25,Male,non-anginal,105.0,213.0,122.0,injury,36.30847832518921,18,Yellow
+1474,48,Male,asymptomatic,75.0,197.0,105.0,severe weakness,36.49190105827276,13,Red
+1475,41,Male,asymptomatic,115.0,168.0,107.0,shortness of breath,36.21752334179971,27,Red
+1476,43,Male,asymptomatic,100.0,165.0,102.0,diarrhea,38.00486836238372,15,Yellow
+1477,44,Male,atypical angina,120.0,205.0,119.0,injury,36.74305022577682,17,Yellow
+1478,44,Male,asymptomatic,122.0,201.0,105.0,sweating excessively,38.06281169169638,19,Yellow
+1479,46,Male,typical angina,145.0,212.0,95.0,cough,36.52634668015515,26,Red
+1480,47,Female,non-anginal,109.0,205.0,97.0,shortness of breath,36.563432891343446,27,Red
+1481,48,Female,asymptomatic,91.0,192.0,109.0,vomiting,37.099960745925266,11,Yellow
+1482,49,Male,asymptomatic,102.0,168.0,114.0,diarrhea,38.10274460871367,14,Yellow
+1483,49,Male,asymptomatic,142.0,190.0,91.0,cough,36.14772545621523,19,Yellow
+1484,48,Male,non-anginal,112.0,170.0,115.0,sweating excessively,38.24498514228889,15,Yellow
+1485,32,Male,asymptomatic,113.0,231.0,93.0,cough,36.82216624297224,20,Green
+1486,49,Male,asymptomatic,110.0,177.0,129.0,injury,36.474684920241344,11,Yellow
+1487,21,Male,asymptomatic,117.0,170.0,125.0,shortness of breath,36.5578104773621,27,Red
+1488,28,Male,asymptomatic,148.0,234.0,130.0,high fever,38.45483415431101,15,Yellow
+1489,49,Male,non-anginal,120.0,192.0,115.0,high fever,40.89639026476728,20,Red
+1490,43,Male,asymptomatic,93.0,232.0,102.0,vomiting,37.03034671995407,17,Yellow
+1491,24,Male,asymptomatic,91.0,229.0,107.0,diarrhea,37.34816381153682,15,Yellow
+1492,25,Male,typical angina,114.0,186.0,107.0,sweating excessively,39.337219455923716,20,Yellow
+1493,20,Male,atypical angina,142.0,208.0,112.0,high fever,41.868056011115925,14,Red
+1494,41,Male,asymptomatic,91.0,197.0,135.0,sweating excessively,37.8922849016966,19,Yellow
+1495,33,Female,atypical angina,73.0,179.0,96.0,severe weakness,36.035940390519414,15,Red
+1496,43,Male,asymptomatic,68.0,221.0,94.0,severe weakness,37.69555147755496,14,Red
+1497,27,Male,asymptomatic,83.0,210.0,120.0,injury,36.525934380455354,18,Red
+1498,40,Male,atypical angina,100.0,174.0,95.0,injury,37.026638609880294,14,Green
+1499,46,Male,asymptomatic,100.0,,88.0,rash,36.99907062058845,16,Green
+1500,20,Male,asymptomatic,88.0,157.0,116.0,diarrhea,37.618420359092696,15,Red
+1501,28,Male,asymptomatic,174.0,221.0,92.0,cough,36.147731148260256,21,Yellow
+1502,31,Male,asymptomatic,136.0,,88.0,cough,36.19935205038614,22,Yellow
+1503,41,Male,asymptomatic,110.0,180.0,123.0,rash,37.12528018830609,13,Yellow
+1504,43,Male,asymptomatic,121.0,230.0,126.0,shortness of breath,36.43250176908939,21,Yellow
+1505,44,Male,asymptomatic,79.0,163.0,113.0,injury,36.86195024569076,13,Red
+1506,47,Female,asymptomatic,126.0,185.0,116.0,rash,36.83156298492655,14,Yellow
+1507,47,Male,asymptomatic,90.0,162.0,111.0,severe weakness,36.99671314698048,16,Red
+1508,49,Male,asymptomatic,132.0,214.0,106.0,cough,36.32464573895895,21,Yellow
+1509,49,Male,asymptomatic,99.0,196.0,111.0,sweating excessively,38.09087335409615,12,Yellow
+1510,50,Male,asymptomatic,80.0,218.0,92.0,severe weakness,37.108702890944755,19,Red
+1511,50,Male,asymptomatic,128.0,222.0,110.0,rash,37.123634919341654,17,Green
+1512,41,Male,asymptomatic,110.0,197.0,113.0,sweating excessively,37.84726155697511,16,Yellow
+1513,49,Male,asymptomatic,162.0,250.0,104.0,cough,36.26172378129457,19,Green
+1514,29,Female,non-anginal,126.0,199.0,107.0,cough,36.46710567596092,21,Yellow
+1515,42,Male,asymptomatic,124.0,247.0,130.0,sweating excessively,40.07930088127953,11,Red
+1516,40,Female,atypical angina,102.0,175.0,109.0,sweating excessively,38.4706873804181,15,Yellow
+1517,39,Male,asymptomatic,97.0,239.0,113.0,diarrhea,38.348561532743524,14,Yellow
+1518,32,Male,typical angina,104.0,209.0,131.0,vomiting,37.7360797925088,17,Yellow
+1519,34,Male,asymptomatic,116.0,182.0,110.0,cough,36.75083191823536,18,Green
+1520,35,Male,asymptomatic,78.0,205.0,102.0,diarrhea,38.74382015201783,17,Red
+1521,36,Male,asymptomatic,105.0,168.0,104.0,injury,36.88244503031469,19,Green
+1522,38,Female,asymptomatic,97.0,226.0,107.0,diarrhea,38.99951645551497,18,Yellow
+1523,38,Female,asymptomatic,95.0,210.0,105.0,diarrhea,38.53989892549868,21,Yellow
+1524,38,Male,non-anginal,112.0,227.0,98.0,injury,36.98202929943875,16,Green
+1525,38,Male,non-anginal,99.0,235.0,116.0,diarrhea,38.639410020360245,18,Yellow
+1526,38,Male,asymptomatic,83.0,203.0,100.0,severe weakness,37.638861050201854,13,Red
+1527,38,Male,asymptomatic,96.0,217.0,103.0,severe weakness,37.248300338642466,11,Red
+1528,40,Male,asymptomatic,72.0,239.0,100.0,severe weakness,37.244655850927266,18,Red
+1529,41,Male,asymptomatic,94.0,232.0,107.0,severe weakness,37.68992159863748,17,Red
+1530,42,Male,asymptomatic,106.0,171.0,115.0,sweating excessively,37.86647616557789,17,Yellow
+1531,42,Male,asymptomatic,117.0,153.0,97.0,rash,37.56670547397034,18,Green
+1532,43,Male,asymptomatic,101.0,220.0,106.0,diarrhea,38.04713913397224,15,Yellow
+1533,43,Male,asymptomatic,104.0,178.0,100.0,diarrhea,37.892942978843024,15,Yellow
+1534,43,Male,asymptomatic,109.0,158.0,125.0,high fever,40.40123797862744,13,Red
+1535,45,Male,non-anginal,125.0,222.0,99.0,rash,36.9235832868458,15,Green
+1536,46,Male,asymptomatic,124.0,201.0,100.0,shortness of breath,36.23336145879948,29,Red
+1537,46,Male,asymptomatic,120.0,224.0,91.0,cough,36.91310360050948,19,Green
+1538,47,Male,non-anginal,158.0,205.0,134.0,shortness of breath,36.57763492785393,31,Red
+1539,47,Male,non-anginal,121.0,238.0,119.0,high fever,39.43567336438268,20,Red
+1540,47,Male,asymptomatic,133.0,167.0,123.0,high fever,40.08721736579526,15,Red
+1541,47,Male,asymptomatic,114.0,229.0,128.0,high fever,40.01149708270391,18,Red
+1542,48,Male,asymptomatic,128.0,196.0,106.0,shortness of breath,36.79565773987427,30,Red
+1543,50,Female,asymptomatic,89.0,178.0,107.0,severe weakness,36.71963747012962,10,Red
+1544,50,Male,asymptomatic,108.0,208.0,105.0,rash,36.55607921380653,17,Green
+1545,50,Male,asymptomatic,123.0,185.0,101.0,cough,36.82011958740121,25,Yellow
+1546,50,Male,asymptomatic,89.0,212.0,98.0,severe weakness,36.71125564127563,18,Red
+1547,45,Female,asymptomatic,120.0,225.0,94.0,cough,36.183293836107566,19,Green
+1548,22,Male,asymptomatic,115.0,220.0,105.0,cough,35.882942874141406,20,Green
+1549,37,Male,asymptomatic,88.0,239.0,92.0,diarrhea,37.66687768360036,13,Red
+1550,34,Male,asymptomatic,134.0,195.0,101.0,cough,36.27521632411651,24,Yellow
+1551,48,Male,asymptomatic,104.0,249.0,106.0,high fever,38.505333510774115,19,Yellow
+1552,41,Male,asymptomatic,105.0,208.0,111.0,diarrhea,38.09657569658596,13,Yellow
+1553,27,Male,asymptomatic,102.0,172.0,99.0,high fever,38.333628602018436,18,Yellow
+1554,47,Male,asymptomatic,66.0,179.0,89.0,severe weakness,36.49865311881266,17,Red
+1555,45,Male,asymptomatic,127.0,167.0,110.0,shortness of breath,36.77109914464788,18,Yellow
+1556,37,Male,asymptomatic,97.0,213.0,95.0,diarrhea,37.83536377920591,16,Yellow
+1557,46,Male,asymptomatic,105.0,163.0,118.0,rash,37.643472219863845,17,Yellow
+1558,44,Male,atypical angina,139.0,175.0,110.0,rash,37.79431836273994,16,Green
+1559,32,Male,atypical angina,126.0,185.0,100.0,cough,36.027905613671834,23,Yellow
+1560,41,Male,non-anginal,127.0,202.0,107.0,shortness of breath,36.24892596256784,25,Yellow
+1561,32,Male,non-anginal,121.0,219.0,104.0,sweating excessively,39.65535615693963,16,Yellow
+1562,20,Male,asymptomatic,111.0,228.0,110.0,rash,37.07374042591405,20,Green
+1563,34,Male,asymptomatic,128.0,237.0,101.0,cough,36.62095471454922,21,Yellow
+1564,39,Male,asymptomatic,110.0,166.0,113.0,injury,36.34261432212667,14,Yellow
+1565,43,Male,asymptomatic,95.0,149.0,102.0,severe weakness,37.85118849644134,14,Red
+1566,33,Male,asymptomatic,125.0,155.0,99.0,cough,36.45439717651408,17,Green
+1567,37,Male,asymptomatic,119.0,168.0,106.0,shortness of breath,36.660643815666894,25,Yellow
+1568,29,Male,asymptomatic,136.0,230.0,115.0,rash,37.72815255505592,17,Yellow
+1569,46,Male,atypical angina,131.0,196.0,104.0,high fever,37.946747239783996,15,Green
+1570,48,Male,asymptomatic,93.0,242.0,120.0,vomiting,38.1726082044091,10,Yellow
+1571,28,Male,asymptomatic,99.0,185.0,113.0,high fever,40.18321365147341,18,Red
+1572,33,Male,asymptomatic,82.0,242.0,123.0,injury,35.95512992730888,20,Red
+1573,31,Male,non-anginal,147.0,194.0,129.0,high fever,40.84500017508084,16,Red
+1574,24,Male,non-anginal,83.0,168.0,98.0,diarrhea,37.56996225535999,21,Red
+1575,30,Male,non-anginal,154.0,161.0,108.0,cough,36.650249196406456,21,Yellow
+1576,21,Male,asymptomatic,107.0,230.0,123.0,injury,36.11310245015902,17,Yellow
+1577,20,Male,asymptomatic,80.0,222.0,94.0,diarrhea,38.6060365503161,18,Red
+1578,23,Male,asymptomatic,103.0,166.0,106.0,diarrhea,38.58821804378193,15,Yellow
+1579,41,Male,asymptomatic,111.0,219.0,97.0,injury,36.66744227007761,13,Green
+1580,25,Male,asymptomatic,105.0,163.0,128.0,high fever,40.266574717264504,18,Red
+1581,35,Male,non-anginal,85.0,233.0,103.0,diarrhea,38.6478635254144,17,Red
+1582,46,Male,asymptomatic,109.0,198.0,93.0,cough,36.52022118886821,24,Yellow
+1583,21,Male,asymptomatic,107.0,196.0,115.0,vomiting,38.529849328439916,11,Yellow
+1584,24,Male,asymptomatic,87.0,170.0,95.0,severe weakness,37.61375697568217,12,Red
+1585,45,Male,asymptomatic,121.0,178.0,122.0,shortness of breath,36.642868214968416,25,Yellow
+1586,49,Male,asymptomatic,123.0,173.0,120.0,shortness of breath,36.660316603553255,23,Yellow
+1587,29,Male,asymptomatic,116.0,241.0,142.0,high fever,40.31508623829797,18,Red
+1588,35,Male,asymptomatic,129.0,228.0,97.0,cough,36.184181106113996,22,Yellow
+1589,49,Male,asymptomatic,90.0,191.0,108.0,diarrhea,37.60909407046948,13,Yellow
+1590,35,Male,non-anginal,109.0,217.0,105.0,diarrhea,37.96299412302044,13,Yellow
+1591,21,Male,asymptomatic,115.0,239.0,115.0,vomiting,38.04808800167237,12,Yellow
+1592,41,Male,asymptomatic,118.0,196.0,96.0,cough,36.68370681905575,23,Yellow
+1593,43,Male,asymptomatic,110.0,248.0,105.0,injury,36.8404648555648,16,Green
+1594,44,Male,asymptomatic,131.0,218.0,101.0,rash,37.51438960253927,16,Green
+1595,39,Male,non-anginal,136.0,224.0,130.0,high fever,40.915859204696915,10,Red
+1596,43,Male,asymptomatic,88.0,230.0,117.0,vomiting,37.74380284737599,15,Red
+1597,25,Male,asymptomatic,132.0,192.0,92.0,cough,37.149592076452315,22,Yellow
+1598,49,Male,asymptomatic,104.0,245.0,118.0,vomiting,38.59959592064051,14,Yellow
+1599,24,Male,asymptomatic,159.0,202.0,92.0,cough,36.91167293848957,22,Yellow
+1600,44,Male,asymptomatic,93.0,167.0,93.0,severe weakness,36.68409007867339,11,Red
+1601,22,Male,non-anginal,83.0,208.0,100.0,diarrhea,37.369601144920324,14,Red
+1602,31,Male,asymptomatic,101.0,230.0,103.0,cough,36.2542076279208,24,Yellow
+1603,47,Male,asymptomatic,116.0,152.0,120.0,vomiting,38.687555778457394,15,Yellow
+1604,31,Male,asymptomatic,93.0,171.0,115.0,injury,36.38958924598267,19,Yellow
+1605,33,Male,asymptomatic,124.0,193.0,120.0,high fever,41.05985650040738,17,Red
+1606,45,Male,asymptomatic,131.0,231.0,123.0,shortness of breath,36.463947342907325,27,Red
+1607,26,Male,asymptomatic,120.0,168.0,114.0,shortness of breath,36.469331596160245,26,Red
+1608,36,Male,asymptomatic,108.0,155.0,109.0,sweating excessively,37.75477711460916,17,Yellow
+1609,49,Male,asymptomatic,129.0,152.0,115.0,high fever,38.407678037522494,16,Yellow
+1610,27,Female,typical angina,146.0,157.0,130.0,shortness of breath,36.27373722431504,25,Yellow
+1611,36,Female,asymptomatic,114.0,235.0,117.0,vomiting,37.39568335874566,10,Yellow
+1612,38,Male,typical angina,113.0,164.0,123.0,high fever,40.02211782195634,15,Red
+1613,25,Male,non-anginal,110.0,171.0,132.0,high fever,39.560824860417085,17,Red
+1614,34,Male,asymptomatic,118.0,209.0,95.0,injury,35.96848566543737,18,Green
+1615,40,Male,asymptomatic,111.0,195.0,93.0,cough,35.89698800686677,25,Yellow
+1616,36,Male,asymptomatic,158.0,221.0,131.0,shortness of breath,36.19372681514836,21,Yellow
+1617,23,Male,asymptomatic,130.0,172.0,110.0,high fever,41.659212943942954,14,Red
+1618,46,Male,asymptomatic,85.0,211.0,95.0,severe weakness,36.22212001482829,11,Red
+1619,38,Male,asymptomatic,106.0,177.0,109.0,injury,37.01545954003044,15,Green
+1620,41,Male,asymptomatic,124.0,199.0,116.0,shortness of breath,36.333887717656516,23,Yellow
+1621,41,Male,asymptomatic,101.0,171.0,111.0,high fever,41.05408659733937,13,Red
+1622,35,Female,asymptomatic,197.0,212.0,95.0,cough,36.67008927784635,19,Green
+1623,36,Female,asymptomatic,99.0,208.0,92.0,cough,36.430469467837526,21,Yellow
+1624,34,Male,asymptomatic,126.0,154.0,143.0,shortness of breath,36.643157217650284,26,Red
+1625,33,Male,asymptomatic,99.0,184.0,98.0,severe weakness,37.216352479352985,12,Red
+1626,39,Male,asymptomatic,80.0,178.0,119.0,diarrhea,37.88974851539238,12,Red
+1627,45,Male,asymptomatic,159.0,194.0,102.0,cough,36.33557145440585,25,Yellow
+1628,37,Male,asymptomatic,92.0,228.0,102.0,diarrhea,37.77801596735954,15,Yellow
+1629,34,Female,asymptomatic,157.0,147.0,95.0,cough,37.10758710578782,19,Yellow
+1630,21,Male,asymptomatic,86.0,192.0,105.0,injury,36.02627612951917,17,Red
+1631,32,Male,typical angina,79.0,187.0,124.0,injury,36.55731722732081,18,Red
+1632,33,Male,asymptomatic,109.0,165.0,131.0,high fever,41.33870235427842,14,Red
+1633,24,Male,asymptomatic,146.0,231.0,103.0,cough,36.46681582064831,20,Yellow
+1634,39,Male,asymptomatic,81.0,163.0,122.0,severe weakness,37.64012856242048,15,Red
+1635,46,Male,asymptomatic,123.0,190.0,106.0,rash,37.7787421506622,20,Green
+1636,26,Male,asymptomatic,107.0,157.0,88.0,diarrhea,38.585937832259894,13,Yellow
+1637,23,Male,asymptomatic,89.0,205.0,104.0,injury,36.82888610870307,10,Red
+1638,39,Male,non-anginal,97.0,155.0,98.0,injury,36.45716373790379,20,Green
+1639,26,Female,non-anginal,103.0,189.0,97.0,diarrhea,38.4905196824728,18,Yellow
+1640,24,Male,atypical angina,132.0,164.0,108.0,high fever,39.68116145385022,12,Red
+1641,20,Male,asymptomatic,119.0,185.0,103.0,injury,36.791638462425944,18,Green
+1642,44,Male,asymptomatic,83.0,227.0,108.0,severe weakness,35.856960021967645,13,Red
+1643,46,Male,asymptomatic,113.0,233.0,97.0,sweating excessively,37.22671456603698,19,Yellow
+1644,39,Male,asymptomatic,100.0,188.0,106.0,severe weakness,36.04562380277686,13,Green
+1645,42,Male,non-anginal,106.0,204.0,102.0,cough,36.026254937359255,25,Yellow
+1646,20,Male,non-anginal,120.0,232.0,126.0,sweating excessively,38.73673732234997,13,Yellow
+1647,28,Male,asymptomatic,79.0,208.0,113.0,severe weakness,35.966352494364536,12,Red
+1648,25,Male,non-anginal,103.0,157.0,98.0,diarrhea,38.65847149802004,16,Yellow
+1649,39,Male,non-anginal,115.0,186.0,121.0,rash,37.40612442201422,20,Yellow
+1650,26,Male,atypical angina,104.0,196.0,113.0,diarrhea,38.50812098792716,16,Yellow
+1651,46,Male,atypical angina,97.0,158.0,116.0,diarrhea,38.286945148178276,15,Yellow
+1652,36,Male,asymptomatic,101.0,227.0,112.0,rash,37.38078853248186,14,Yellow
+1653,30,Male,asymptomatic,89.0,181.0,113.0,sweating excessively,38.88492851010412,18,Red
+1654,38,Male,non-anginal,107.0,188.0,118.0,diarrhea,37.87952597284323,21,Yellow
+1655,21,Male,asymptomatic,133.0,193.0,101.0,high fever,38.8595004866769,15,Yellow
+1656,41,Male,asymptomatic,99.0,185.0,99.0,injury,36.23061636143365,12,Green
+1657,47,Male,asymptomatic,131.0,181.0,131.0,sweating excessively,39.43906059000831,16,Yellow
+1658,46,Male,asymptomatic,109.0,167.0,111.0,shortness of breath,36.55922433866694,22,Yellow
+1659,32,Male,asymptomatic,112.0,256.0,101.0,rash,37.594070004609854,12,Green
+1660,35,Male,asymptomatic,131.0,224.0,114.0,shortness of breath,36.108252819456176,27,Red
+1661,49,Male,asymptomatic,118.0,173.0,97.0,cough,37.07901829800301,19,Green
+1662,28,Male,asymptomatic,150.0,244.0,108.0,high fever,38.78281722016282,18,Yellow
+1663,23,Male,non-anginal,96.0,155.0,106.0,sweating excessively,38.69265046490825,18,Yellow
+1664,31,Male,non-anginal,77.0,168.0,98.0,severe weakness,37.43337751299671,14,Red
+1665,25,Male,non-anginal,72.0,220.0,114.0,severe weakness,37.348740741846306,17,Red
+1666,39,Male,asymptomatic,104.0,202.0,97.0,diarrhea,37.67566630585049,18,Yellow
+1667,26,Male,asymptomatic,76.0,234.0,96.0,diarrhea,37.820105228488714,17,Red
+1668,29,Male,asymptomatic,94.0,194.0,102.0,severe weakness,37.51468906968558,19,Red
+1669,40,Male,asymptomatic,90.0,100.0,90.0,injury,36.17877827820817,12,Green
+1670,38,Male,non-anginal,116.0,214.0,122.0,injury,36.43344306088186,14,Yellow
+1671,24,Male,asymptomatic,,188.0,103.0,cough,36.32570383050339,21,Yellow
+1672,27,Male,asymptomatic,95.0,180.0,102.0,sweating excessively,38.833273057731446,17,Yellow
+1673,27,Male,asymptomatic,89.0,235.0,103.0,diarrhea,37.97655064153829,10,Red
+1674,20,Male,non-anginal,104.0,194.0,109.0,vomiting,37.96274958538863,10,Yellow
+1675,34,Male,non-anginal,98.0,243.0,94.0,diarrhea,37.95470015017153,12,Yellow
+1676,43,Male,asymptomatic,142.0,236.0,100.0,cough,36.52096101844274,22,Yellow
+1677,24,Male,asymptomatic,155.0,194.0,101.0,shortness of breath,36.674331175989636,28,Red
+1678,24,Male,asymptomatic,144.0,201.0,121.0,shortness of breath,36.65283865217543,26,Red
+1679,30,Male,asymptomatic,89.0,204.0,95.0,diarrhea,37.87200832940416,16,Red
+1680,48,Male,asymptomatic,109.0,160.0,140.0,shortness of breath,36.60394549251305,22,Yellow
+1681,28,Male,non-anginal,123.0,211.0,94.0,rash,37.37606792920932,14,Green
+1682,40,Male,asymptomatic,121.0,213.0,99.0,cough,36.273872997166684,22,Yellow
+1683,35,Male,asymptomatic,140.0,197.0,116.0,shortness of breath,36.55246408838547,27,Red
+1684,41,Male,asymptomatic,105.0,199.0,130.0,vomiting,37.54195111120379,16,Yellow
+1685,43,Male,asymptomatic,114.0,143.0,117.0,shortness of breath,37.002396706184385,30,Red
+1686,24,Male,asymptomatic,93.0,147.0,124.0,vomiting,37.63146282229254,18,Yellow
+1687,39,Male,asymptomatic,157.0,174.0,101.0,shortness of breath,36.92371248939358,23,Yellow
+1688,34,Male,asymptomatic,149.0,184.0,126.0,shortness of breath,36.975757720547776,26,Red
+1689,40,Male,non-anginal,85.0,225.0,124.0,diarrhea,37.92249498801683,15,Red
+1690,42,Male,non-anginal,79.0,164.0,107.0,diarrhea,38.4154264260574,13,Red
+1691,42,Male,non-anginal,115.0,229.0,108.0,cough,36.8210613893785,24,Yellow
+1692,30,Female,atypical angina,,232.0,100.0,cough,36.63278922496676,18,Green
+1693,39,Male,asymptomatic,132.0,157.0,96.0,rash,36.84975064441206,16,Green
+1694,33,Male,atypical angina,128.0,188.0,102.0,cough,36.33660478591986,22,Yellow
+1695,41,Male,asymptomatic,98.0,218.0,129.0,vomiting,37.42090758212246,10,Yellow
+1696,31,Male,asymptomatic,81.0,166.0,90.0,diarrhea,38.84591724629713,12,Red
+1697,41,Male,asymptomatic,111.0,212.0,134.0,high fever,42.10495105900724,19,Red
+1698,43,Male,non-anginal,96.0,218.0,125.0,vomiting,37.93962058838823,20,Yellow
+1699,25,Male,atypical angina,,166.0,96.0,cough,36.07349280126303,21,Yellow
+1700,42,Male,asymptomatic,127.0,200.0,129.0,high fever,38.895472921941376,12,Yellow
+1701,25,Male,asymptomatic,82.0,180.0,107.0,diarrhea,38.58349123980963,19,Red
+1702,29,Male,asymptomatic,127.0,161.0,115.0,rash,36.75335893597609,17,Yellow
+1703,41,Male,asymptomatic,101.0,186.0,91.0,diarrhea,38.15536029275207,19,Yellow
+1704,28,Male,non-anginal,90.0,214.0,100.0,injury,36.763758319379235,17,Green
+1705,37,Male,atypical angina,124.0,215.0,101.0,cough,36.64087945489986,22,Yellow
+1706,29,Male,non-anginal,98.0,228.0,112.0,diarrhea,37.72174416201777,12,Yellow
+1707,32,Male,typical angina,111.0,194.0,104.0,high fever,40.21565379232245,19,Red
+1708,44,Male,asymptomatic,115.0,161.0,97.0,cough,36.434361987484294,23,Yellow
+1709,45,Male,asymptomatic,85.0,234.0,121.0,injury,36.16013254517264,11,Red
+1710,30,Male,atypical angina,93.0,237.0,98.0,vomiting,37.4696144049771,17,Yellow
+1711,42,Male,atypical angina,101.0,160.0,120.0,diarrhea,38.031013098492046,17,Yellow
+1712,22,Male,asymptomatic,123.0,242.0,138.0,shortness of breath,36.92104049843659,20,Yellow
+1713,49,Male,typical angina,105.0,168.0,132.0,sweating excessively,39.9527893811779,16,Yellow
+1714,32,Male,asymptomatic,82.0,197.0,113.0,severe weakness,36.759744185179926,21,Red
+1715,27,Male,non-anginal,106.0,165.0,93.0,diarrhea,37.851323961754396,17,Yellow
+1716,35,Male,asymptomatic,137.0,236.0,120.0,high fever,39.14569305347031,14,Red
+1717,49,Male,typical angina,132.0,162.0,97.0,cough,36.78485191010107,24,Yellow
+1718,42,Male,non-anginal,93.0,223.0,124.0,injury,36.298255364974324,11,Yellow
+1719,41,Male,asymptomatic,145.0,217.0,95.0,cough,36.87886267095778,18,Yellow
+1720,48,Female,asymptomatic,99.0,197.0,92.0,severe weakness,36.97046390311415,13,Red
+1721,21,Male,asymptomatic,105.0,221.0,114.0,vomiting,38.23384266602703,14,Yellow
+1722,30,Male,asymptomatic,81.0,200.0,89.0,diarrhea,38.461123398971125,13,Red
+1723,29,Male,asymptomatic,77.0,203.0,102.0,severe weakness,36.782150175818686,13,Red
+1724,36,Male,asymptomatic,109.0,189.0,122.0,rash,37.60098795458677,15,Yellow
+1725,47,Male,asymptomatic,119.0,205.0,113.0,high fever,41.663230366277176,18,Red
+1726,34,Male,asymptomatic,110.0,165.0,120.0,high fever,38.434110633205925,21,Yellow
+1727,36,Male,asymptomatic,108.0,169.0,113.0,high fever,41.71895555229626,16,Red
+1728,36,Male,asymptomatic,,228.0,95.0,cough,36.814698434140304,21,Yellow
+1729,30,Male,asymptomatic,110.0,211.0,121.0,rash,37.48052912569186,12,Yellow
+1730,27,Male,non-anginal,94.0,159.0,104.0,vomiting,38.33481142945518,21,Yellow
+1731,38,Male,asymptomatic,138.0,161.0,93.0,rash,37.45865406223819,17,Green
+1732,40,Male,non-anginal,118.0,207.0,100.0,vomiting,37.20192964581632,14,Yellow
+1733,22,Male,asymptomatic,106.0,242.0,104.0,high fever,39.53234940130932,10,Red
+1734,35,Male,asymptomatic,110.0,208.0,106.0,cough,36.184074155963046,18,Green
+1735,20,Male,asymptomatic,94.0,189.0,117.0,severe weakness,36.13441718685332,14,Red
+1736,39,Male,asymptomatic,69.0,237.0,87.0,severe weakness,37.57247027070075,17,Red
+1737,35,Male,non-anginal,108.0,164.0,126.0,injury,36.068481977039056,21,Yellow
+1738,28,Male,typical angina,78.0,224.0,124.0,diarrhea,37.96786682026797,14,Red
+1739,43,Male,asymptomatic,117.0,167.0,112.0,cough,36.384522069693155,21,Yellow
+1740,49,Male,non-anginal,118.0,150.0,111.0,injury,36.93209226939478,18,Yellow
+1741,43,Male,non-anginal,103.0,196.0,99.0,rash,37.445269648684274,20,Green
+1742,48,Male,asymptomatic,105.0,177.0,134.0,sweating excessively,38.90715120335026,17,Yellow
+1743,48,Male,non-anginal,85.0,149.0,100.0,severe weakness,36.66107411091271,13,Red
+1744,37,Male,asymptomatic,109.0,161.0,132.0,high fever,39.343508444431,15,Red
+1745,21,Male,asymptomatic,116.0,174.0,135.0,shortness of breath,36.500716020376096,29,Red
+1746,46,Male,asymptomatic,85.0,152.0,101.0,severe weakness,37.77175134941357,17,Red
+1747,50,Male,asymptomatic,105.0,176.0,138.0,sweating excessively,39.74012363732855,19,Yellow
+1748,27,Male,asymptomatic,100.0,,111.0,high fever,39.89291752144346,12,Red
+1749,41,Male,asymptomatic,91.0,154.0,107.0,diarrhea,38.57639624116284,10,Yellow
+1750,45,Male,non-anginal,76.0,197.0,90.0,severe weakness,36.2973193055808,12,Red
+1751,23,Male,asymptomatic,,215.0,97.0,cough,36.529517618200224,23,Yellow
+1752,48,Male,atypical angina,82.0,238.0,121.0,injury,36.24706162670395,18,Red
+1753,49,Male,non-anginal,99.0,134.0,126.0,vomiting,38.36633182798997,13,Yellow
+1754,38,Male,asymptomatic,119.0,155.0,129.0,vomiting,37.83445258456687,19,Yellow
+1755,50,Male,asymptomatic,87.0,235.0,93.0,injury,36.627906677796304,11,Red
+1756,29,Male,asymptomatic,102.0,181.0,125.0,injury,36.354241264727655,11,Yellow
+1757,29,Male,asymptomatic,67.0,188.0,106.0,severe weakness,37.197271381542826,15,Red
+1758,47,Male,asymptomatic,76.0,181.0,119.0,diarrhea,38.94080713639417,14,Red
+1759,25,Male,asymptomatic,134.0,223.0,122.0,high fever,39.945400379182516,17,Red
+1760,26,Male,asymptomatic,87.0,228.0,108.0,severe weakness,36.6306276786535,18,Red
+1761,26,Male,non-anginal,87.0,251.0,116.0,diarrhea,37.573571954789294,15,Red
+1762,25,Male,asymptomatic,101.0,200.0,113.0,sweating excessively,39.23880728130396,10,Yellow
+1763,31,Male,asymptomatic,114.0,146.0,119.0,vomiting,37.578569050640155,18,Yellow
+1764,20,Male,asymptomatic,109.0,195.0,86.0,cough,36.39933424002288,17,Green
+1765,30,Male,non-anginal,99.0,156.0,108.0,diarrhea,38.02253067756629,19,Yellow
+1766,47,Male,non-anginal,111.0,,123.0,sweating excessively,38.853122391649194,14,Yellow
+1767,24,Female,asymptomatic,112.0,178.0,130.0,vomiting,38.13213006326781,13,Yellow
+1768,29,Male,asymptomatic,149.0,182.0,102.0,shortness of breath,36.35575515335843,30,Red
+1769,48,Female,atypical angina,134.0,205.0,109.0,shortness of breath,36.24952798791148,33,Red
+1770,48,Male,asymptomatic,,199.0,105.0,cough,36.09792329210485,18,Green
+1771,48,Male,non-anginal,109.0,236.0,91.0,injury,36.2012378520491,14,Green
+1772,29,Male,typical angina,139.0,203.0,99.0,cough,36.19859572802124,25,Yellow
+1773,39,Male,asymptomatic,77.0,185.0,93.0,injury,36.31866223031259,16,Red
+1774,32,Male,typical angina,106.0,184.0,112.0,diarrhea,38.41913451189608,16,Yellow
+1775,49,Male,asymptomatic,120.0,189.0,103.0,high fever,38.6023370851144,14,Yellow
+1776,30,Male,non-anginal,110.0,181.0,122.0,high fever,38.29203959160964,14,Yellow
+1777,34,Male,non-anginal,77.0,197.0,111.0,severe weakness,36.087121300745096,11,Red
+1778,27,Male,typical angina,118.0,196.0,100.0,rash,36.85140222874808,16,Green
+1779,36,Male,non-anginal,76.0,165.0,113.0,diarrhea,38.98756236577552,16,Red
+1780,40,Male,non-anginal,140.0,169.0,99.0,rash,37.146616671781175,12,Green
+1781,30,Male,asymptomatic,165.0,163.0,91.0,cough,36.61969350946593,23,Yellow
+1782,30,Male,non-anginal,129.0,192.0,126.0,high fever,39.203174838897155,20,Red
+1783,37,Male,non-anginal,137.0,161.0,120.0,high fever,41.917285696303445,13,Red
+1784,37,Male,asymptomatic,128.0,180.0,115.0,rash,37.45022376019357,18,Yellow
+1785,42,Male,non-anginal,107.0,189.0,95.0,injury,36.22848854158918,14,Green
+1786,37,Male,atypical angina,92.0,175.0,113.0,severe weakness,37.86402522027741,17,Red
+1787,41,Male,asymptomatic,133.0,229.0,137.0,shortness of breath,36.27251179855044,27,Red
+1788,40,Male,asymptomatic,,225.0,98.0,cough,35.932721027923165,19,Green
+1789,26,Male,asymptomatic,94.0,239.0,116.0,sweating excessively,38.46944775597388,15,Yellow
+1790,45,Male,asymptomatic,126.0,198.0,123.0,shortness of breath,36.50537975871446,32,Red
+1791,41,Male,asymptomatic,138.0,175.0,99.0,shortness of breath,36.81621889733105,23,Yellow
+1792,22,Male,asymptomatic,134.0,208.0,99.0,cough,36.88927044952595,22,Yellow
+1793,38,Male,asymptomatic,107.0,237.0,112.0,vomiting,37.12634593608268,15,Yellow
+1794,42,Male,asymptomatic,108.0,204.0,125.0,shortness of breath,36.00961432418954,23,Yellow
+1795,32,Male,asymptomatic,90.0,150.0,95.0,severe weakness,36.334690385195756,18,Red
+1796,42,Male,asymptomatic,74.0,,98.0,severe weakness,36.98983005228024,20,Red
+1797,26,Male,asymptomatic,146.0,199.0,110.0,high fever,41.45920302088206,13,Red
+1798,33,Male,asymptomatic,92.0,,87.0,diarrhea,38.1269802593538,15,Yellow
+1799,45,Male,asymptomatic,,160.0,93.0,cough,36.501157463940764,17,Green
+1800,40,Male,asymptomatic,113.0,243.0,102.0,injury,36.660287030466804,15,Green
+1801,37,Male,asymptomatic,126.0,168.0,106.0,sweating excessively,38.860083360666955,16,Yellow
+1802,39,Male,asymptomatic,103.0,162.0,95.0,injury,36.52193037789776,14,Green
+1803,41,Male,asymptomatic,119.0,168.0,105.0,rash,37.916211178027396,16,Green
+1804,31,Male,asymptomatic,105.0,166.0,87.0,injury,36.95492423969416,14,Green
+1805,45,Male,asymptomatic,84.0,,92.0,diarrhea,38.713068089704514,13,Red
+1806,48,Male,asymptomatic,136.0,,111.0,cough,36.864693309055404,22,Yellow
+1807,40,Male,asymptomatic,112.0,182.0,101.0,rash,37.650420327831704,16,Green
+1808,29,Male,non-anginal,139.0,195.0,127.0,high fever,39.74459495106614,19,Red
+1809,31,Male,asymptomatic,89.0,151.0,101.0,diarrhea,38.07901913017439,19,Red
+1810,44,Male,atypical angina,149.0,214.0,102.0,shortness of breath,36.15627237226813,30,Red
+1811,46,Male,asymptomatic,128.0,211.0,102.0,cough,36.69809629392144,26,Red
+1812,37,Male,non-anginal,124.0,199.0,127.0,sweating excessively,37.86508471522731,16,Yellow
+1813,30,Male,asymptomatic,152.0,190.0,109.0,shortness of breath,36.09266625973298,24,Yellow
+1814,36,Male,non-anginal,129.0,152.0,104.0,shortness of breath,36.70493992332289,29,Red
+1815,29,Male,atypical angina,,160.0,99.0,cough,36.22666793048893,16,Green
+1816,35,Male,asymptomatic,122.0,217.0,109.0,shortness of breath,36.53531542908462,19,Yellow
+1817,25,Male,asymptomatic,97.0,217.0,104.0,injury,35.95658848278727,14,Green
+1818,38,Male,asymptomatic,131.0,205.0,103.0,cough,36.12947884583468,23,Yellow
+1819,30,Male,asymptomatic,93.0,218.0,101.0,diarrhea,37.77321038224297,20,Yellow
+1820,37,Male,asymptomatic,127.0,176.0,100.0,cough,37.05077119131499,21,Yellow
+1821,33,Male,asymptomatic,92.0,250.0,116.0,sweating excessively,37.75073868894962,17,Yellow
+1822,38,Male,non-anginal,107.0,,98.0,vomiting,38.213230791653906,20,Yellow
+1823,32,Male,asymptomatic,81.0,182.0,124.0,injury,36.33772376045017,15,Red
+1824,36,Male,asymptomatic,91.0,165.0,128.0,vomiting,37.28382947217315,14,Yellow
+1825,44,Male,asymptomatic,115.0,242.0,113.0,rash,36.785118148198556,10,Yellow
+1826,24,Male,non-anginal,152.0,175.0,124.0,shortness of breath,36.88007105629566,22,Yellow
+1827,25,Male,non-anginal,114.0,227.0,88.0,injury,36.34151516989068,14,Green
+1828,28,Male,non-anginal,149.0,254.0,101.0,cough,36.51411745794637,23,Yellow
+1829,40,Male,asymptomatic,90.0,185.0,122.0,injury,36.685360027486084,17,Yellow
+1830,45,Male,non-anginal,132.0,216.0,132.0,high fever,39.86501474155915,13,Red
+1831,49,Female,asymptomatic,80.0,197.0,112.0,severe weakness,38.09432585253111,18,Red
+1832,36,Male,asymptomatic,141.0,231.0,143.0,high fever,40.39591212949233,13,Red
+1833,20,Male,asymptomatic,98.0,232.0,126.0,sweating excessively,38.75670409355995,13,Yellow
+1834,22,Male,asymptomatic,142.0,178.0,132.0,high fever,40.38034826863838,16,Red
+1835,46,Male,asymptomatic,95.0,229.0,107.0,injury,36.17739784547281,13,Green
+1836,21,Female,asymptomatic,123.0,163.0,103.0,cough,36.78737202102452,22,Yellow
+1837,36,Male,typical angina,106.0,144.0,112.0,injury,36.28240089434583,12,Yellow
+1838,25,Male,asymptomatic,104.0,249.0,99.0,diarrhea,37.946707660572756,14,Yellow
+1839,42,Male,asymptomatic,105.0,201.0,133.0,sweating excessively,38.760948023409,12,Yellow
+1840,26,Male,atypical angina,142.0,180.0,115.0,shortness of breath,36.24295455164337,27,Red
+1841,24,Male,typical angina,95.0,174.0,94.0,diarrhea,38.605557404747834,19,Yellow
+1842,43,Male,asymptomatic,105.0,167.0,115.0,diarrhea,38.45505812427275,15,Yellow
+1843,38,Male,asymptomatic,121.0,188.0,129.0,shortness of breath,36.72996411246153,26,Red
+1844,37,Male,non-anginal,104.0,221.0,117.0,vomiting,37.49346428264117,21,Yellow
+1845,41,Female,atypical angina,86.0,232.0,97.0,diarrhea,38.02535896575268,18,Red
+1846,39,Male,atypical angina,119.0,171.0,136.0,shortness of breath,37.13256415224718,25,Yellow
+1847,20,Female,asymptomatic,141.0,168.0,108.0,cough,36.810491022097956,20,Yellow
+1848,36,Female,asymptomatic,110.0,162.0,127.0,high fever,38.36539846320531,13,Yellow
+1849,48,Male,asymptomatic,111.0,219.0,94.0,injury,36.4109767160164,15,Green
+1850,46,Male,asymptomatic,94.0,257.0,122.0,injury,36.09444123920696,14,Yellow
+1851,43,Male,asymptomatic,132.0,197.0,114.0,high fever,40.07412549734785,15,Red
+1852,35,Female,atypical angina,81.0,168.0,103.0,diarrhea,38.200032746894706,16,Red
+1853,21,Male,non-anginal,138.0,221.0,99.0,rash,36.931221200032404,15,Green
+1854,44,Male,atypical angina,108.0,217.0,106.0,diarrhea,38.91775491976033,11,Yellow
+1855,36,Male,non-anginal,107.0,192.0,109.0,rash,36.9755203595029,17,Green
+1856,34,Male,non-anginal,142.0,163.0,110.0,high fever,40.89635415766794,13,Red
+1857,48,Male,atypical angina,119.0,190.0,138.0,high fever,42.000787441985594,15,Red
+1858,36,Male,asymptomatic,128.0,171.0,117.0,rash,36.81139399252419,12,Yellow
+1859,48,Female,non-anginal,120.0,173.0,140.0,shortness of breath,36.11201862825898,30,Red
+1860,49,Male,atypical angina,78.0,187.0,110.0,severe weakness,36.4720081844158,19,Red
+1861,45,Male,typical angina,103.0,205.0,109.0,injury,36.71721041390095,15,Green
+1862,21,Female,typical angina,152.0,235.0,92.0,cough,36.60159793186569,23,Yellow
+1863,21,Male,atypical angina,93.0,234.0,120.0,severe weakness,36.16967411468727,18,Red
+1864,31,Male,non-anginal,123.0,165.0,97.0,rash,37.17729586887735,20,Green
+1865,37,Male,asymptomatic,124.0,239.0,137.0,high fever,38.63060275692291,19,Yellow
+1866,50,Female,non-anginal,140.0,158.0,105.0,rash,36.87929109270012,20,Green
+1867,23,Female,non-anginal,106.0,202.0,101.0,high fever,38.800492411965855,17,Yellow
+1868,20,Female,typical angina,91.0,225.0,112.0,injury,36.429305648771944,11,Yellow
+1869,43,Male,asymptomatic,146.0,196.0,101.0,cough,36.64440424055866,22,Yellow
+1870,40,Male,asymptomatic,130.0,170.0,135.0,shortness of breath,36.28377267089343,24,Yellow
+1871,38,Female,typical angina,91.0,215.0,96.0,diarrhea,38.12353594865933,13,Yellow
+1872,24,Male,asymptomatic,130.0,230.0,133.0,high fever,39.01145827632641,14,Red
+1873,40,Male,non-anginal,137.0,204.0,111.0,cough,36.279677380564635,22,Yellow
+1874,30,Male,asymptomatic,88.0,216.0,114.0,diarrhea,37.85090595563613,16,Red
+1875,44,Male,non-anginal,94.0,242.0,102.0,diarrhea,37.98376050461014,15,Yellow
+1876,42,Male,asymptomatic,99.0,202.0,131.0,injury,36.45577537080021,17,Yellow
+1877,43,Male,asymptomatic,111.0,167.0,97.0,high fever,39.45903259261189,20,Red
+1878,30,Male,asymptomatic,148.0,158.0,113.0,cough,37.0741154304343,21,Yellow
+1879,31,Male,asymptomatic,94.0,238.0,88.0,severe weakness,37.81741526634812,19,Red
+1880,38,Male,non-anginal,104.0,234.0,95.0,injury,36.40102480802193,17,Green
+1881,37,Female,asymptomatic,103.0,209.0,109.0,rash,36.897722110357286,15,Green
+1882,40,Male,typical angina,96.0,190.0,124.0,severe weakness,36.24995726753431,14,Red
+1883,48,Female,atypical angina,102.0,254.0,123.0,injury,36.05128223344045,14,Yellow
+1884,27,Male,non-anginal,121.0,219.0,114.0,vomiting,37.37451455441927,13,Yellow
+1885,28,Female,asymptomatic,117.0,208.0,114.0,rash,37.3287320636393,17,Yellow
+1886,22,Male,non-anginal,110.0,230.0,118.0,sweating excessively,39.4330673145519,17,Yellow
+1887,41,Male,non-anginal,102.0,171.0,128.0,sweating excessively,39.351176963931394,20,Yellow
+1888,50,Male,asymptomatic,120.0,198.0,107.0,rash,37.71901581098223,13,Green
+1889,39,Female,non-anginal,101.0,159.0,101.0,rash,37.73256317239298,18,Green
+1890,45,Male,non-anginal,147.0,201.0,127.0,shortness of breath,36.689570519593815,26,Red
+1891,41,Female,atypical angina,94.0,204.0,99.0,diarrhea,38.07632452822392,18,Yellow
+1892,20,Male,asymptomatic,144.0,168.0,121.0,shortness of breath,36.81521822841026,25,Yellow
+1893,44,Male,asymptomatic,133.0,253.0,125.0,shortness of breath,36.38990363365176,23,Yellow
+1894,44,Male,atypical angina,70.0,223.0,90.0,severe weakness,36.925818780531614,15,Red
+1895,28,Male,asymptomatic,91.0,210.0,108.0,diarrhea,39.04400983004186,13,Yellow
+1896,40,Male,asymptomatic,114.0,155.0,112.0,high fever,40.43238149318149,11,Red
+1897,50,Male,non-anginal,147.0,221.0,105.0,high fever,38.33466895370115,19,Yellow
+1898,41,Male,asymptomatic,112.0,166.0,94.0,cough,36.214689930625354,20,Green
+1899,44,Male,non-anginal,100.0,234.0,129.0,sweating excessively,37.26919548413523,18,Yellow
+1900,20,Male,typical angina,107.0,218.0,114.0,rash,36.714493430671915,18,Yellow
+1901,22,Female,asymptomatic,119.0,249.0,97.0,sweating excessively,38.43267399453463,15,Yellow
+1902,46,Female,non-anginal,96.0,170.0,102.0,vomiting,38.23617594680759,15,Yellow
+1903,47,Male,asymptomatic,125.0,200.0,99.0,shortness of breath,36.92407271387706,28,Red
+1904,49,Female,non-anginal,106.0,201.0,118.0,sweating excessively,37.202365027991284,18,Yellow
+1905,32,Male,asymptomatic,120.0,198.0,96.0,rash,37.23091984751557,12,Green
+1906,32,Male,asymptomatic,109.0,214.0,107.0,injury,36.97787362301574,17,Green
+1907,31,Male,non-anginal,110.0,193.0,137.0,shortness of breath,36.19406749140824,22,Yellow
+1908,20,Male,non-anginal,87.0,205.0,101.0,diarrhea,37.52591510762783,10,Red
+1909,31,Male,asymptomatic,154.0,175.0,113.0,shortness of breath,36.324299079628496,22,Yellow
+1910,46,Male,non-anginal,103.0,161.0,122.0,injury,36.381288687212326,17,Yellow
+1911,32,Female,non-anginal,99.0,244.0,131.0,high fever,40.01112386556406,15,Red
+1912,21,Male,asymptomatic,149.0,245.0,119.0,shortness of breath,36.8757304639906,25,Yellow
+1913,37,Male,asymptomatic,115.0,241.0,114.0,high fever,41.04650986039081,13,Red
+1914,46,Male,asymptomatic,124.0,166.0,111.0,rash,36.73357770970279,16,Yellow
+1915,44,Male,asymptomatic,106.0,193.0,99.0,sweating excessively,39.75320029033847,20,Yellow
+1916,25,Female,non-anginal,113.0,185.0,89.0,injury,36.147570248439564,17,Green
+1917,26,Male,asymptomatic,127.0,149.0,131.0,high fever,39.84924946343776,14,Red
+1918,28,Female,non-anginal,144.0,199.0,104.0,cough,36.623632050755994,16,Yellow
+1919,48,Male,atypical angina,126.0,165.0,105.0,rash,37.95720305932986,20,Green
+1920,39,Male,asymptomatic,103.0,206.0,133.0,sweating excessively,38.28369445432616,17,Yellow
+1921,45,Male,asymptomatic,110.0,171.0,128.0,injury,36.698930335526114,16,Yellow
+1922,25,Female,asymptomatic,102.0,187.0,106.0,high fever,41.7805849884838,18,Red
+1923,39,Male,non-anginal,111.0,241.0,97.0,vomiting,37.79284848516892,16,Yellow
+1924,22,Male,non-anginal,113.0,200.0,112.0,shortness of breath,36.10008849896819,26,Red
+1925,34,Male,atypical angina,96.0,220.0,135.0,sweating excessively,39.74592699833515,15,Yellow
+1926,44,Male,non-anginal,113.0,197.0,106.0,injury,36.08974944405334,13,Green
+1927,47,Male,non-anginal,120.0,181.0,97.0,rash,37.58932726589988,11,Green
+1928,42,Female,non-anginal,131.0,150.0,124.0,shortness of breath,36.066315395118366,27,Red
+1929,36,Female,asymptomatic,89.0,175.0,100.0,vomiting,37.1881680737222,11,Red
+1930,31,Female,non-anginal,132.0,210.0,100.0,cough,35.88342245009603,24,Yellow
+1931,29,Male,asymptomatic,132.0,151.0,96.0,high fever,40.062745942281566,17,Red
+1932,30,Female,asymptomatic,117.0,160.0,127.0,shortness of breath,36.192173462619934,24,Yellow
+1933,35,Male,non-anginal,119.0,216.0,109.0,rash,36.86746781852192,11,Green
+1934,44,Female,non-anginal,145.0,137.0,109.0,high fever,40.85523436099992,16,Red
+1935,42,Female,non-anginal,116.0,217.0,121.0,high fever,39.89954846089729,11,Red
+1936,27,Male,asymptomatic,92.0,207.0,92.0,diarrhea,37.98070360676502,14,Yellow
+1937,33,Male,asymptomatic,103.0,156.0,98.0,vomiting,38.06739111991062,18,Yellow
+1938,43,Female,asymptomatic,116.0,230.0,103.0,injury,36.39031949429646,20,Green
+1939,25,Male,atypical angina,123.0,218.0,119.0,sweating excessively,39.89737257091585,12,Yellow
+1940,48,Male,asymptomatic,94.0,163.0,108.0,sweating excessively,37.31477185664908,18,Yellow
+1941,45,Male,asymptomatic,115.0,197.0,94.0,cough,36.227295549062056,20,Green
+1942,34,Male,typical angina,134.0,190.0,106.0,shortness of breath,36.00351211621061,23,Yellow
+1943,44,Female,asymptomatic,99.0,216.0,116.0,severe weakness,36.30591235786485,17,Red
+1944,26,Female,non-anginal,78.0,233.0,104.0,severe weakness,37.97544898278263,15,Red
+1945,49,Male,non-anginal,88.0,197.0,102.0,severe weakness,36.846561575313494,14,Red
+1946,35,Male,atypical angina,89.0,248.0,101.0,diarrhea,37.438836767217154,14,Red
+1947,41,Male,asymptomatic,103.0,180.0,90.0,diarrhea,38.863414847236285,13,Yellow
+1948,24,Male,non-anginal,92.0,231.0,100.0,diarrhea,37.959265749530594,13,Yellow
+1949,35,Male,asymptomatic,149.0,241.0,129.0,high fever,38.16811066634327,13,Yellow
+1950,39,Male,asymptomatic,76.0,220.0,95.0,severe weakness,36.13706627427997,18,Red
+1951,49,Female,asymptomatic,97.0,216.0,106.0,vomiting,38.31392150873462,12,Yellow
+1952,38,Male,asymptomatic,78.0,205.0,89.0,diarrhea,38.259574874766976,18,Red
+1953,26,Male,typical angina,135.0,176.0,111.0,rash,36.45852468147402,18,Yellow
+1954,43,Female,asymptomatic,134.0,203.0,116.0,high fever,39.89900199627984,12,Red
+1955,35,Female,non-anginal,87.0,171.0,120.0,injury,36.23127932021162,16,Red
+1956,41,Male,atypical angina,115.0,240.0,102.0,shortness of breath,36.44027454137446,30,Red
+1957,38,Male,non-anginal,112.0,222.0,128.0,high fever,38.480270679332705,16,Yellow
+1958,35,Female,asymptomatic,127.0,179.0,132.0,shortness of breath,37.01242867490388,29,Red
+1959,32,Male,asymptomatic,89.0,188.0,96.0,diarrhea,37.97577607027762,17,Red
+1960,27,Male,asymptomatic,136.0,215.0,99.0,rash,37.538313407504106,21,Yellow
+1961,48,Male,asymptomatic,129.0,158.0,115.0,sweating excessively,38.43341241031766,14,Yellow
+1962,31,Female,asymptomatic,89.0,172.0,99.0,diarrhea,38.41299279540351,18,Red
+1963,31,Male,non-anginal,79.0,156.0,111.0,diarrhea,37.44017948051859,18,Red
+1964,25,Male,asymptomatic,123.0,229.0,139.0,high fever,39.96187612257648,16,Red
+1965,23,Male,typical angina,140.0,204.0,102.0,cough,36.113541000811985,20,Green
+1966,45,Female,atypical angina,99.0,220.0,106.0,diarrhea,38.90598945841836,19,Yellow
+1967,35,Female,asymptomatic,138.0,206.0,108.0,rash,36.63978428497152,19,Green
+1968,32,Male,asymptomatic,93.0,160.0,91.0,injury,35.881812744541016,21,Yellow
+1969,44,Male,atypical angina,151.0,197.0,127.0,shortness of breath,36.59751656041923,27,Red
+1970,29,Female,asymptomatic,97.0,169.0,114.0,severe weakness,37.54416115684939,16,Red
+1971,44,Male,non-anginal,83.0,198.0,108.0,injury,36.552921557527874,16,Red
+1972,44,Male,non-anginal,94.0,182.0,115.0,severe weakness,35.9951676694361,20,Red
+1973,29,Male,atypical angina,114.0,210.0,105.0,sweating excessively,38.98774624032543,13,Yellow
+1974,35,Male,asymptomatic,144.0,221.0,102.0,cough,36.17642135142589,26,Red
+1975,43,Female,non-anginal,107.0,197.0,127.0,injury,36.74367575993919,15,Yellow
+1976,33,Female,atypical angina,93.0,173.0,99.0,severe weakness,37.32605046013398,14,Red
+1977,34,Male,asymptomatic,104.0,174.0,90.0,diarrhea,38.03971056230954,14,Yellow
+1978,22,Male,atypical angina,106.0,195.0,106.0,rash,36.81639974195328,17,Green
+1979,35,Male,asymptomatic,103.0,197.0,121.0,vomiting,37.282559477593736,20,Yellow
+1980,34,Male,non-anginal,146.0,232.0,126.0,high fever,39.87348274058762,11,Red
+1981,40,Male,atypical angina,111.0,197.0,105.0,high fever,39.487120556520345,18,Red
+1982,22,Male,typical angina,91.0,207.0,110.0,vomiting,37.875001946287014,14,Yellow
+1983,46,Male,atypical angina,98.0,210.0,107.0,severe weakness,37.94113331365791,18,Red
+1984,30,Male,non-anginal,93.0,211.0,104.0,injury,36.09888576374704,14,Green
+1985,28,Male,non-anginal,81.0,173.0,105.0,diarrhea,38.3526744462006,19,Red
+1986,47,Male,non-anginal,95.0,187.0,100.0,severe weakness,36.902253815382444,13,Red
+1987,36,Male,asymptomatic,160.0,178.0,93.0,cough,36.67260052027126,20,Yellow
+1988,41,Male,non-anginal,77.0,179.0,118.0,severe weakness,36.290254503925475,15,Red
+1989,45,Male,atypical angina,99.0,171.0,105.0,severe weakness,37.800440040823055,13,Red
+1990,23,Female,non-anginal,94.0,202.0,110.0,severe weakness,36.85396446139145,14,Red
+1991,36,Male,typical angina,107.0,184.0,119.0,injury,36.280106962704906,15,Yellow
+1992,42,Female,asymptomatic,126.0,213.0,102.0,shortness of breath,36.20091597269414,20,Yellow
+1993,33,Female,non-anginal,88.0,249.0,114.0,injury,36.36658298554948,18,Red
+1994,37,Male,asymptomatic,118.0,184.0,130.0,sweating excessively,37.20322895112402,16,Yellow
+1995,43,Male,asymptomatic,154.0,233.0,107.0,shortness of breath,36.43731273473398,30,Red
+1996,33,Male,asymptomatic,119.0,211.0,105.0,sweating excessively,38.1572487127422,10,Yellow
+1997,48,Male,asymptomatic,138.0,181.0,97.0,cough,36.36441463145746,22,Yellow
+1998,33,Male,asymptomatic,120.0,209.0,126.0,high fever,38.80741636940914,17,Yellow
+1999,42,Male,asymptomatic,131.0,214.0,109.0,high fever,41.87452087926432,16,Red
+2000,39,Male,non-anginal,96.0,226.0,124.0,sweating excessively,39.053278506030935,12,Yellow
